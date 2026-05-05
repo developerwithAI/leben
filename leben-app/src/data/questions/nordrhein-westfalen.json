@@ -1,0 +1,874 @@
+[
+  {
+    "id": 1901,
+    "land": "nordrhein-westfalen",
+    "number": 1,
+    "question_de": "Welches Wappen gehört zum Bundesland Nordrhein-Westfalen?",
+    "answers_de": [
+      "Silberner Schlüssel auf rotem Schild mit Krone",
+      "Weißes Pferd auf grünem Schild mit roter Rose",
+      "Adler und Bär auf gelbem Wappen mit schwarzen Streifen",
+      "Drei schwarze Löwen auf gelbem Schild"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой герб принадлежит федеральной земле Северный Рейн-Вестфалия?",
+        "answers": [
+          "Серебряный ключ на красном щите с короной",
+          "Белая лошадь на зеленом щите с красной розой.",
+          "Орел и медведь на желтом гербе с черными полосами.",
+          "Три черных льва на желтом щите"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який герб належить федеральній землі Північний Рейн-Вестфалія?",
+        "answers": [
+          "Срібний ключ на червоному щиті з короною",
+          "Білий кінь на зеленому щиті з червоною трояндою",
+          "Орел і ведмідь на жовтому гербі з чорними смугами",
+          "Три чорні леви на жовтому щиті"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which coat of arms belongs to the federal state of North Rhine-Westphalia?",
+        "answers": [
+          "Silver key on red shield with crown",
+          "White horse on a green shield with a red rose",
+          "Eagle and bear on yellow coat of arms with black stripes",
+          "Three black lions on a yellow shield"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hangi arması Kuzey Ren-Vestfalya federal eyaletine aittir?",
+        "answers": [
+          "Kırmızı kalkan üzerinde taçlı gümüş anahtar",
+          "Kırmızı güllü yeşil kalkanın üzerinde beyaz at",
+          "Siyah çizgili sarı armalı kartal ve ayı",
+          "Sarı bir kalkan üzerinde üç siyah aslan"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام نشان متعلق به ایالت فدرال نوردراین-وستفالن است؟",
+        "answers": [
+          "کلید نقره ای روی سپر قرمز با تاج",
+          "اسب سفید روی سپر سبز با گل رز قرمز",
+          "عقاب و خرس روی نشان زرد رنگ با خطوط مشکی",
+          "سه شیر سیاه روی یک سپر زرد"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles armoiries appartiennent au Land de Rhénanie du Nord-Westphalie ?",
+        "answers": [
+          "Clé en argent sur bouclier rouge avec couronne",
+          "Cheval blanc sur un bouclier vert avec une rose rouge",
+          "Aigle et ours sur armoiries jaunes à rayures noires",
+          "Trois lions noirs sur un bouclier jaune"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هو شعار النبالة الذي ينتمي إلى ولاية شمال الراين-وستفاليا الفيدرالية؟",
+        "answers": [
+          "مفتاح فضي على درع أحمر مع تاج",
+          "حصان أبيض على درع أخضر مع وردة حمراء",
+          "النسر والدب على معطف أصفر من الأسلحة مع خطوط سوداء",
+          "ثلاثة أسود أسود على درع أصفر"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "nordrhein_westfalen_001"
+  },
+  {
+    "id": 1902,
+    "land": "nordrhein-westfalen",
+    "number": 2,
+    "question_de": "Welches ist ein Landkreis in Nordrhein-Westfalen?",
+    "answers_de": [
+      "Ammerland",
+      "Rhein-Sieg-Kreis",
+      "Nordfriesland",
+      "Vogtlandkreis"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой район в земле Северный Рейн-Вестфалия?",
+        "answers": [
+          "Аммерланд",
+          "Райн-Зиг",
+          "Северная Фризия",
+          "Фогтландский район"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який район у Північному Рейні-Вестфалії?",
+        "answers": [
+          "Аммерланд",
+          "район Рейн-Зіг",
+          "Північна Фризія",
+          "Район Фогтланд"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which is a district in North Rhine-Westphalia?",
+        "answers": [
+          "Ammerland",
+          "Rhein-Sieg district",
+          "North Frisia",
+          "Vogtland district"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Kuzey Ren-Vestfalya'nın ilçesi hangisidir?",
+        "answers": [
+          "Ammerland",
+          "Rhein-Sieg bölgesi",
+          "Kuzey Frizya",
+          "Vogtland bölgesi"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ناحیه در نوردراین-وستفالن است؟",
+        "answers": [
+          "آمرلند",
+          "منطقه راین-زیگ",
+          "فریزیای شمالی",
+          "منطقه وگتلند"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Qu'est-ce qu'un district de Rhénanie du Nord-Westphalie ?",
+        "answers": [
+          "Pays d'Ammer",
+          "Quartier Rhin-Sieg",
+          "Frise du Nord",
+          "Quartier du Vogtland"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي منطقة شمال الراين وستفاليا؟",
+        "answers": [
+          "أميرلاند",
+          "منطقة راين سيج",
+          "فريزيا الشمالية",
+          "منطقة فوجتلاند"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1903,
+    "land": "nordrhein-westfalen",
+    "number": 3,
+    "question_de": "Für wie viele Jahre wird der Landtag in Nordrhein-Westfalen gewählt?",
+    "answers_de": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "На сколько лет избирается парламент земли Северный Рейн-Вестфалия?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "На скільки років обирається парламент землі в Північному Рейні-Вестфалії?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "For how many years is the state parliament in North Rhine-Westphalia elected?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Kuzey Ren-Vestfalya'daki eyalet parlamentosu kaç yıllığına seçilir?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پارلمان ایالتی نوردراین وستفالن برای چند سال انتخاب می شود؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Pour combien d'années le parlement du Land de Rhénanie du Nord-Westphalie est-il élu ?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "كم سنة يتم انتخاب برلمان الولاية في شمال الراين وستفاليا؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1904,
+    "land": "nordrhein-westfalen",
+    "number": 4,
+    "question_de": "Ab welchem Alter darf man in Nordrhein-Westfalen bei Kommunalwahlen wählen?",
+    "answers_de": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "В каком возрасте разрешено голосовать на местных выборах в земле Северный Рейн-Вестфалия?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "З якого віку ви можете голосувати на місцевих виборах у Північному Рейні-Вестфалії?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "At what age are you allowed to vote in local elections in North Rhine-Westphalia?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Kuzey Ren-Vestfalya'daki yerel seçimlerde hangi yaşta oy kullanabilirsiniz?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از چه سنی مجاز به شرکت در انتخابات محلی در نوردراین-وستفالن هستید؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "À quel âge peut-on voter aux élections communales en Rhénanie du Nord-Westphalie ?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "في أي عمر يُسمح لك بالتصويت في الانتخابات المحلية في ولاية شمال الراين وستفاليا؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1905,
+    "land": "nordrhein-westfalen",
+    "number": 5,
+    "question_de": "Welche Farben hat die Landesflagge von Nordrhein-Westfalen?",
+    "answers_de": [
+      "rot-weiß",
+      "grün-weiß-rot",
+      "schwarz-gold",
+      "blau-weiß-rot"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какого цвета государственный флаг земли Северный Рейн-Вестфалия?",
+        "answers": [
+          "красно-белый",
+          "зелено-бело-красный",
+          "черно-золотой",
+          "сине-бело-красный"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Яких кольорів державний прапор Північного Рейну-Вестфалії?",
+        "answers": [
+          "червоно-білий",
+          "зелено-біло-червоний",
+          "чорно-золотий",
+          "синьо-біло-червоний"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What colors are the state flag of North Rhine-Westphalia?",
+        "answers": [
+          "red-white",
+          "green-white-red",
+          "black-gold",
+          "blue-white-red"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Kuzey Ren-Vestfalya eyalet bayrağı hangi renklerdir?",
+        "answers": [
+          "kırmızı-beyaz",
+          "yeşil-beyaz-kırmızı",
+          "siyah-altın",
+          "mavi-beyaz-kırmızı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پرچم ایالت نوردراین-وستفالن چه رنگ هایی است؟",
+        "answers": [
+          "قرمز-سفید",
+          "سبز-سفید-قرمز",
+          "طلایی سیاه",
+          "آبی-سفید-قرمز"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "De quelles couleurs est le drapeau national de la Rhénanie du Nord-Westphalie ?",
+        "answers": [
+          "rouge-blanc",
+          "vert-blanc-rouge",
+          "noir-or",
+          "bleu-blanc-rouge"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي ألوان علم ولاية شمال الراين وستفاليا؟",
+        "answers": [
+          "أحمر-أبيض",
+          "الأخضر والأبيض والأحمر",
+          "الذهب الأسود",
+          "الأزرق والأبيض والأحمر"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1906,
+    "land": "nordrhein-westfalen",
+    "number": 6,
+    "question_de": "Wo können Sie sich in Nordrhein-Westfalen über politische Themen informieren?",
+    "answers_de": [
+      "bei den Kirchen",
+      "beim Ordnungsamt der Gemeinde",
+      "bei der Verbraucherzentrale",
+      "bei der Landeszentrale für politische Bildung"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Где можно узнать о политических проблемах земли Северный Рейн-Вестфалия?",
+        "answers": [
+          "в церквях",
+          "в городском отделе общественного порядка",
+          "в центре консультирования потребителей",
+          "в Государственном центре гражданского образования"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Де можна дізнатися про політичні питання в Північному Рейні-Вестфалії?",
+        "answers": [
+          "при церквах",
+          "в міському відділі громадського порядку",
+          "в центрі консультації споживачів",
+          "у Державному центрі громадянської освіти"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Where can you find out about political issues in North Rhine-Westphalia?",
+        "answers": [
+          "at the churches",
+          "at the municipal public order office",
+          "at the consumer advice center",
+          "at the State Center for Civic Education"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Kuzey Ren-Vestfalya'daki siyasi konular hakkında nereden bilgi edinebilirsiniz?",
+        "answers": [
+          "kiliselerde",
+          "belediye asayiş ofisinde",
+          "tüketici danışma merkezinde",
+          "Eyalet Sivil Eğitim Merkezi'nde"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از کجا می توانید از مسائل سیاسی در نوردراین-وستفالن مطلع شوید؟",
+        "answers": [
+          "در کلیساها",
+          "در اداره نظم عمومی شهرداری",
+          "در مرکز مشاوره مصرف کننده",
+          "در مرکز دولتی آموزش مدنی"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Où s’informer sur les enjeux politiques en Rhénanie du Nord-Westphalie ?",
+        "answers": [
+          "dans les églises",
+          "au bureau municipal de l'ordre public",
+          "au centre de conseil aux consommateurs",
+          "au Centre d'État pour l'éducation civique"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أين يمكنك التعرف على القضايا السياسية في شمال الراين وستفاليا؟",
+        "answers": [
+          "عند الكنائس",
+          "في مكتب النظام العام بالبلدية",
+          "في مركز استشارات المستهلك",
+          "في مركز الدولة للتربية المدنية"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1907,
+    "land": "nordrhein-westfalen",
+    "number": 7,
+    "question_de": "Die Landeshauptstadt von Nordrhein-Westfalen heißt ...",
+    "answers_de": [
+      "Köln.",
+      "Bonn.",
+      "Düsseldorf.",
+      "Dortmund."
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Столица земли Северный Рейн-Вестфалия называется...",
+        "answers": [
+          "Кёльн.",
+          "Бонн.",
+          "Дюссельдорф.",
+          "Дортмунд."
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Столиця землі Північний Рейн-Вестфалія називається...",
+        "answers": [
+          "Кельн.",
+          "Бонн.",
+          "Дюссельдорф.",
+          "Дортмунд."
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "The state capital of North Rhine-Westphalia is called...",
+        "answers": [
+          "Cologne.",
+          "Bonn.",
+          "Dusseldorf.",
+          "Dortmund."
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Kuzey Ren-Vestfalya eyaletinin başkentinin adı...",
+        "answers": [
+          "Köln.",
+          "Bonn.",
+          "Düsseldorf.",
+          "Dortmund."
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "مرکز ایالت نوردراین وستفالن نام دارد...",
+        "answers": [
+          "کلن.",
+          "بن.",
+          "دوسلدورف",
+          "دورتموند"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "La capitale du Land de Rhénanie du Nord-Westphalie s'appelle...",
+        "answers": [
+          "Cologne.",
+          "Bonn.",
+          "Düsseldorf.",
+          "Dortmund."
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "عاصمة ولاية شمال الراين وستفاليا تسمى...",
+        "answers": [
+          "كولونيا.",
+          "بون.",
+          "دوسلدورف.",
+          "دورتموند."
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1908,
+    "land": "nordrhein-westfalen",
+    "number": 8,
+    "question_de": "Welches Bundesland ist Nordrhein-Westfalen?",
+    "answers_de": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какая федеральная земля является землей Северный Рейн-Вестфалия?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Яка федеральна земля є Північний Рейн-Вестфалія?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which federal state is North Rhine-Westphalia?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Kuzey Ren-Vestfalya hangi federal eyalettir?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ایالت فدرال نوردراین-وستفالن است؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel Land est la Rhénanie du Nord-Westphalie ?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي الولاية الفيدرالية هي شمال الراين وستفاليا؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "nordrhein_westfalen_008"
+  },
+  {
+    "id": 1909,
+    "land": "nordrhein-westfalen",
+    "number": 9,
+    "question_de": "Wie nennt man die Regierungschefin/den Regierungschef in Nordrhein-Westfalen?",
+    "answers_de": [
+      "Erste Ministerin/Erster Minister",
+      "Premierministerin/Premierminister",
+      "Bürgermeisterin/Bürgermeister",
+      "Ministerpräsidentin/Ministerpräsident"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Как вы называете главу правительства земли Северный Рейн-Вестфалия?",
+        "answers": [
+          "Первый министр",
+          "Премьер-министр/Премьер-министр",
+          "Мэр/Мэр",
+          "Премьер-министр/Премьер-министр"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Як ви називаєте главу уряду землі Північний Рейн-Вестфалія?",
+        "answers": [
+          "Перший міністр",
+          "Прем'єр-міністр/Прем'єр-міністр",
+          "Мер/мер",
+          "Прем'єр-міністр/Прем'єр-міністр"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What do you call the head of government in North Rhine-Westphalia?",
+        "answers": [
+          "First Minister",
+          "Prime Minister/Prime Minister",
+          "Mayor/Mayor",
+          "Prime Minister/Prime Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Kuzey Ren-Vestfalya'daki hükümet başkanına ne denir?",
+        "answers": [
+          "Birinci Bakan",
+          "Başbakan / Başbakan",
+          "Belediye Başkanı/Belediye Başkanı",
+          "Başbakan / Başbakan"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "به رئیس دولت در نوردراین وستفالن چه می گویید؟",
+        "answers": [
+          "وزیر اول",
+          "نخست وزیر/نخست وزیر",
+          "شهردار/شهردار",
+          "نخست وزیر/نخست وزیر"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Comment appelle-t-on le chef du gouvernement de Rhénanie du Nord-Westphalie ?",
+        "answers": [
+          "Premier ministre",
+          "Premier ministre/Premier ministre",
+          "Maire/Maire",
+          "Premier ministre/Premier ministre"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ماذا تسمي رئيس الحكومة في ولاية شمال الراين وستفاليا؟",
+        "answers": [
+          "الوزير الأول",
+          "رئيس الوزراء / رئيس الوزراء",
+          "عمدة / عمدة",
+          "رئيس الوزراء / رئيس الوزراء"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1910,
+    "land": "nordrhein-westfalen",
+    "number": 10,
+    "question_de": "Welche Ministerin/welchen Minister hat Nordrhein-Westfalen nicht?",
+    "answers_de": [
+      "Justizministerin/Justizminister",
+      "Außenministerin/Außenminister",
+      "Finanzministerin/Finanzminister",
+      "Innenministerin/Innenminister"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какого министра нет в земле Северный Рейн-Вестфалия?",
+        "answers": [
+          "Министр юстиции/Министр юстиции",
+          "Министр иностранных дел/Министр иностранных дел",
+          "Министр финансов/Министр финансов",
+          "министр внутренних дел"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Якого міністра немає в землі Північний Рейн-Вестфалія?",
+        "answers": [
+          "Міністр юстиції/Міністр юстиції",
+          "Міністр закордонних справ/міністр закордонних справ",
+          "Міністр фінансів/міністр фінансів",
+          "Міністр внутрішніх справ"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which minister does North Rhine-Westphalia not have?",
+        "answers": [
+          "Minister of Justice/Minister of Justice",
+          "Foreign Minister/Foreign Minister",
+          "Finance Minister/Finance Minister",
+          "Interior Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Kuzey Ren-Vestfalya'da hangi bakan yok?",
+        "answers": [
+          "Adalet Bakanı/Adalet Bakanı",
+          "Dışişleri Bakanı / Dışişleri Bakanı",
+          "Maliye Bakanı / Maliye Bakanı",
+          "İçişleri Bakanı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "نوردراین وستفالن کدام وزیر را ندارد؟",
+        "answers": [
+          "وزیر دادگستری / وزیر دادگستری",
+          "وزیر امور خارجه / وزیر امور خارجه",
+          "وزیر دارایی / وزیر دارایی",
+          "وزیر کشور"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel ministre la Rhénanie du Nord-Westphalie n’a-t-elle pas ?",
+        "answers": [
+          "Ministre de la Justice/Ministre de la Justice",
+          "Ministre des Affaires étrangères/Ministre des Affaires étrangères",
+          "Ministre des Finances/Ministre des Finances",
+          "Ministre de l'Intérieur"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "من هو الوزير الذي لا يوجد في شمال الراين وستفاليا؟",
+        "answers": [
+          "وزير العدل/وزير العدل",
+          "وزير الخارجية/وزير الخارجية",
+          "وزير المالية/وزير المالية",
+          "وزير الداخلية"
+        ],
+        "explanation": ""
+      }
+    }
+  }
+]

@@ -1,0 +1,874 @@
+[
+  {
+    "id": 2301,
+    "land": "sachsen-anhalt",
+    "number": 1,
+    "question_de": "Welches Bundesland ist Sachsen-Anhalt?",
+    "answers_de": [
+      "Blau-weißes Rautenmuster mit Krone",
+      "Weißes Schloss mit drei Türmen auf rotem Schild",
+      "Schwarzes Wappen mit Mainzer Rad, Kreuz und goldenem Löwen",
+      "Adler und Bär auf gelbem Wappen mit schwarzen Streifen"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какая федеральная земля является Саксонией-Анхальт?",
+        "answers": [
+          "Синий и белый ромбовидный узор с короной",
+          "Белый замок с тремя башнями на красном щите",
+          "Черный герб с колесом Майнца, крестом и золотым львом",
+          "Орел и медведь на желтом гербе с черными полосами."
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Яка федеральна земля Саксонія-Ангальт?",
+        "answers": [
+          "Синій і білий алмаз візерунок з короною",
+          "Білий замок з трьома вежами на червоному щиті",
+          "Чорний герб із колесом Майнца, хрестом і золотим левом",
+          "Орел і ведмідь на жовтому гербі з чорними смугами"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which federal state is Saxony-Anhalt?",
+        "answers": [
+          "Blue and white diamond pattern with crown",
+          "White castle with three towers on a red shield",
+          "Black coat of arms with Mainz wheel, cross and golden lion",
+          "Eagle and bear on yellow coat of arms with black stripes"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saksonya-Anhalt hangi federal eyalettir?",
+        "answers": [
+          "Mavi ve beyaz elmas desenli taç",
+          "Kırmızı kalkan üzerinde üç kuleli beyaz kale",
+          "Mainz çarkı, haç ve altın aslanlı siyah arma",
+          "Siyah çizgili sarı armalı kartal ve ayı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ایالت فدرال زاکسن-آنهالت است؟",
+        "answers": [
+          "الگوی الماس آبی و سفید با تاج",
+          "قلعه سفید با سه برج بر روی یک سپر قرمز",
+          "نشان مشکی با چرخ ماینتس، صلیب و شیر طلایی",
+          "عقاب و خرس روی نشان زرد رنگ با خطوط مشکی"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel Land est la Saxe-Anhalt ?",
+        "answers": [
+          "Motif diamant bleu et blanc avec couronne",
+          "Château blanc avec trois tours sur un bouclier rouge",
+          "Armoiries noires avec roue de Mayence, croix et lion d'or",
+          "Aigle et ours sur armoiries jaunes à rayures noires"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي الولاية الفيدرالية هي ساكسونيا-أنهالت؟",
+        "answers": [
+          "نمط الماس الأزرق والأبيض مع التاج",
+          "قلعة بيضاء بثلاثة أبراج على درع أحمر",
+          "شعار النبالة الأسود مع عجلة ماينز والصليب والأسد الذهبي",
+          "النسر والدب على معطف أصفر من الأسلحة مع خطوط سوداء"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "sachsen_anhalt_001"
+  },
+  {
+    "id": 2302,
+    "land": "sachsen-anhalt",
+    "number": 1,
+    "question_de": "Welches Wappen gehört zum Bundesland Sachsen-Anhalt?",
+    "answers_de": [
+      "Blau-weißes Rautenmuster mit Krone",
+      "Weißes Schloss mit drei Türmen auf rotem Schild",
+      "Schwarzes Wappen mit Mainzer Rad, Kreuz und goldenem Löwen",
+      "Adler und Bär auf gelbem Wappen mit schwarzen Streifen"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой герб принадлежит федеральной земле Саксония-Анхальт?",
+        "answers": [
+          "Синий и белый ромбовидный узор с короной",
+          "Белый замок с тремя башнями на красном щите",
+          "Черный герб с колесом Майнца, крестом и золотым львом",
+          "Орел и медведь на желтом гербе с черными полосами."
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який герб належить федеральній землі Саксонія-Ангальт?",
+        "answers": [
+          "Синій і білий алмаз візерунок з короною",
+          "Білий замок з трьома вежами на червоному щиті",
+          "Чорний герб із колесом Майнца, хрестом і золотим левом",
+          "Орел і ведмідь на жовтому гербі з чорними смугами"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which coat of arms belongs to the federal state of Saxony-Anhalt?",
+        "answers": [
+          "Blue and white diamond pattern with crown",
+          "White castle with three towers on a red shield",
+          "Black coat of arms with Mainz wheel, cross and golden lion",
+          "Eagle and bear on yellow coat of arms with black stripes"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hangi arması Saksonya-Anhalt federal eyaletine aittir?",
+        "answers": [
+          "Mavi ve beyaz elmas desenli taç",
+          "Kırmızı kalkan üzerinde üç kuleli beyaz kale",
+          "Mainz çarkı, haç ve altın aslanlı siyah arma",
+          "Siyah çizgili sarı armalı kartal ve ayı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام نشان متعلق به ایالت فدرال ساکسونی-آنهالت است؟",
+        "answers": [
+          "الگوی الماس آبی و سفید با تاج",
+          "قلعه سفید با سه برج بر روی یک سپر قرمز",
+          "نشان مشکی با چرخ ماینتس، صلیب و شیر طلایی",
+          "عقاب و خرس روی نشان زرد رنگ با خطوط مشکی"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles armoiries appartiennent au Land de Saxe-Anhalt ?",
+        "answers": [
+          "Motif diamant bleu et blanc avec couronne",
+          "Château blanc avec trois tours sur un bouclier rouge",
+          "Armoiries noires avec roue de Mayence, croix et lion d'or",
+          "Aigle et ours sur armoiries jaunes à rayures noires"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هو شعار النبالة الذي ينتمي إلى ولاية ساكسونيا أنهالت الفيدرالية؟",
+        "answers": [
+          "نمط الماس الأزرق والأبيض مع التاج",
+          "قلعة بيضاء بثلاثة أبراج على درع أحمر",
+          "شعار النبالة الأسود مع عجلة ماينز والصليب والأسد الذهبي",
+          "النسر والدب على معطف أصفر من الأسلحة مع خطوط سوداء"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "sachsen_anhalt_001"
+  },
+  {
+    "id": 2303,
+    "land": "sachsen-anhalt",
+    "number": 2,
+    "question_de": "Welches ist ein Landkreis in Sachsen-Anhalt?",
+    "answers_de": [
+      "Ammerland",
+      "Altötting",
+      "Uckermark",
+      "Börde"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой район в земле Саксония-Анхальт?",
+        "answers": [
+          "Аммерланд",
+          "Альтёттинг",
+          "Укермарк",
+          "Бёрде"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який район землі Саксонія-Ангальт?",
+        "answers": [
+          "Аммерланд",
+          "Altötting",
+          "Uckermark",
+          "Борде"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which is a district in Saxony-Anhalt?",
+        "answers": [
+          "Ammerland",
+          "Altötting",
+          "Uckermark",
+          "Börde"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saksonya-Anhalt'ın ilçesi hangisidir?",
+        "answers": [
+          "Ammerland",
+          "Altötting",
+          "Uckermark",
+          "Borde"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ناحیه در زاکسن-آنهالت است؟",
+        "answers": [
+          "آمرلند",
+          "آلتوتینگ",
+          "اوکرمارک",
+          "برده"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Qu'est-ce qu'un quartier de Saxe-Anhalt ?",
+        "answers": [
+          "Pays d'Ammer",
+          "Altötting",
+          "Uckermark",
+          "Borde"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي منطقة في ولاية ساكسونيا أنهالت؟",
+        "answers": [
+          "أميرلاند",
+          "التوتينغ",
+          "أوكرمارك",
+          "بورد"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2304,
+    "land": "sachsen-anhalt",
+    "number": 3,
+    "question_de": "Für wie viele Jahre wird der Landtag in Sachsen-Anhalt gewählt?",
+    "answers_de": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "На сколько лет избирается парламент земли Саксония-Анхальт?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "На скільки років обирається парламент землі в Саксонії-Ангальт?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "For how many years is the state parliament in Saxony-Anhalt elected?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saksonya-Anhalt'ta eyalet parlamentosu kaç yıllığına seçilir?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پارلمان ایالتی در زاکسن-آنهالت برای چند سال انتخاب می شود؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Pour combien d'années le parlement du Land de Saxe-Anhalt est-il élu ?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "كم سنة يتم انتخاب برلمان ولاية ساكسونيا أنهالت؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2305,
+    "land": "sachsen-anhalt",
+    "number": 4,
+    "question_de": "Ab welchem Alter darf man in Sachsen-Anhalt bei Kommunalwahlen wählen?",
+    "answers_de": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "С какого возраста разрешено голосовать на местных выборах в Саксонии-Анхальт?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "З якого віку можна голосувати на місцевих виборах у землі Саксонія-Ангальт?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "At what age are you allowed to vote in local elections in Saxony-Anhalt?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saksonya-Anhalt'ta yerel seçimlerde hangi yaşta oy kullanabilirsiniz?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از چه سنی مجاز به شرکت در انتخابات محلی در زاکسن-آنهالت هستید؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "A quel âge peut-on voter aux élections communales en Saxe-Anhalt ?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "في أي عمر يُسمح لك بالتصويت في الانتخابات المحلية في ولاية ساكسونيا أنهالت؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2306,
+    "land": "sachsen-anhalt",
+    "number": 5,
+    "question_de": "Welche Farben hat die Landesflagge von Sachsen-Anhalt?",
+    "answers_de": [
+      "blau-weiß-rot",
+      "gelb-schwarz",
+      "grün-weiß-rot",
+      "weiß-rot"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какие цвета имеет государственный флаг Саксонии-Анхальт?",
+        "answers": [
+          "сине-бело-красный",
+          "желто-черный",
+          "зелено-бело-красный",
+          "бело-красный"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Які кольори має державний прапор землі Саксонія-Ангальт?",
+        "answers": [
+          "синьо-біло-червоний",
+          "жовто-чорний",
+          "зелено-біло-червоний",
+          "біло-червоний"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What colors does the state flag of Saxony-Anhalt have?",
+        "answers": [
+          "blue-white-red",
+          "yellow-black",
+          "green-white-red",
+          "white-red"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saksonya-Anhalt eyalet bayrağında hangi renkler var?",
+        "answers": [
+          "mavi-beyaz-kırmızı",
+          "sarı-siyah",
+          "yeşil-beyaz-kırmızı",
+          "beyaz-kırmızı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پرچم ایالت زاکسن-آنهالت چه رنگ هایی دارد؟",
+        "answers": [
+          "آبی-سفید-قرمز",
+          "زرد سیاه",
+          "سبز-سفید-قرمز",
+          "سفید قرمز"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles sont les couleurs du drapeau national de Saxe-Anhalt ?",
+        "answers": [
+          "bleu-blanc-rouge",
+          "jaune-noir",
+          "vert-blanc-rouge",
+          "blanc-rouge"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي ألوان علم ولاية ساكسونيا أنهالت؟",
+        "answers": [
+          "الأزرق والأبيض والأحمر",
+          "أصفر أسود",
+          "الأخضر والأبيض والأحمر",
+          "الأبيض والأحمر"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2307,
+    "land": "sachsen-anhalt",
+    "number": 6,
+    "question_de": "Wo können Sie sich in Sachsen-Anhalt über politische Themen informieren?",
+    "answers_de": [
+      "bei den Kirchen",
+      "bei der Landeszentrale für politische Bildung",
+      "beim Ordnungsamt der Gemeinde",
+      "bei der Verbraucherzentrale"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Где можно узнать о политических проблемах в Саксонии-Анхальт?",
+        "answers": [
+          "в церквях",
+          "в Государственном центре гражданского образования",
+          "в городском отделе общественного порядка",
+          "в центре консультирования потребителей"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Де можна дізнатися про політичні питання в Саксонії-Ангальт?",
+        "answers": [
+          "при церквах",
+          "у Державному центрі громадянської освіти",
+          "в міському відділі громадського порядку",
+          "в центрі консультації споживачів"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Where can you find out about political issues in Saxony-Anhalt?",
+        "answers": [
+          "at the churches",
+          "at the State Center for Civic Education",
+          "at the municipal public order office",
+          "at the consumer advice center"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saksonya-Anhalt'taki siyasi konular hakkında nereden bilgi edinebilirsiniz?",
+        "answers": [
+          "kiliselerde",
+          "Eyalet Sivil Eğitim Merkezi'nde",
+          "belediye asayiş ofisinde",
+          "tüketici danışma merkezinde"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از کجا می توانید در مورد مسائل سیاسی در زاکسن-آنهالت اطلاعات کسب کنید؟",
+        "answers": [
+          "در کلیساها",
+          "در مرکز دولتی آموزش مدنی",
+          "در اداره نظم عمومی شهرداری",
+          "در مرکز مشاوره مصرف کننده"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Où s’informer sur les enjeux politiques en Saxe-Anhalt ?",
+        "answers": [
+          "dans les églises",
+          "au Centre d'État pour l'éducation civique",
+          "au bureau municipal de l'ordre public",
+          "au centre de conseil aux consommateurs"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أين يمكنك التعرف على القضايا السياسية في ولاية ساكسونيا أنهالت؟",
+        "answers": [
+          "عند الكنائس",
+          "في مركز الدولة للتربية المدنية",
+          "في مكتب النظام العام بالبلدية",
+          "في مركز استشارات المستهلك"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2308,
+    "land": "sachsen-anhalt",
+    "number": 7,
+    "question_de": "Die Landeshauptstadt von Sachsen-Anhalt heißt ...",
+    "answers_de": [
+      "Halle.",
+      "Dessau.",
+      "Magdeburg.",
+      "Wittenberg."
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Столица земли Саксония-Анхальт называется...",
+        "answers": [
+          "Холл.",
+          "Дессау.",
+          "Магдебург.",
+          "Виттенберг."
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Столиця землі Саксонія-Ангальт називається...",
+        "answers": [
+          "Зал.",
+          "Дессау.",
+          "Магдебург.",
+          "Віттенберг."
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "The state capital of Saxony-Anhalt is called...",
+        "answers": [
+          "Hall.",
+          "Dessau.",
+          "Magdeburg.",
+          "Wittenberg."
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saksonya-Anhalt'ın eyalet başkentinin adı...",
+        "answers": [
+          "Salon.",
+          "Dessau.",
+          "Magdeburg.",
+          "Wittenberg."
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "مرکز ایالت زاکسن-آنهالت نام دارد...",
+        "answers": [
+          "سالن",
+          "دسائو",
+          "ماگدبورگ",
+          "ویتنبرگ"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "La capitale du Land de Saxe-Anhalt s'appelle...",
+        "answers": [
+          "Salle.",
+          "Dessau.",
+          "Magdebourg.",
+          "Wittemberg."
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "عاصمة ولاية ساكسونيا أنهالت تسمى...",
+        "answers": [
+          "القاعة.",
+          "ديساو.",
+          "ماغديبورغ.",
+          "فيتنبرغ."
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2309,
+    "land": "sachsen-anhalt",
+    "number": 9,
+    "question_de": "Wie nennt man die Regierungschefin/den Regierungschef in Sachsen-Anhalt?",
+    "answers_de": [
+      "Erste Ministerin/Erster Minister",
+      "Premierministerin/Premierminister",
+      "Bürgermeisterin/Bürgermeister",
+      "Ministerpräsidentin/Ministerpräsident"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Как вы называете главу правительства Саксонии-Анхальт?",
+        "answers": [
+          "Первый министр",
+          "Премьер-министр/Премьер-министр",
+          "Мэр/Мэр",
+          "Премьер-министр/Премьер-министр"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Як ви називаєте главу уряду землі Саксонія-Ангальт?",
+        "answers": [
+          "Перший міністр",
+          "Прем'єр-міністр/Прем'єр-міністр",
+          "Мер/мер",
+          "Прем'єр-міністр/Прем'єр-міністр"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What do you call the head of government in Saxony-Anhalt?",
+        "answers": [
+          "First Minister",
+          "Prime Minister/Prime Minister",
+          "Mayor/Mayor",
+          "Prime Minister/Prime Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saksonya-Anhalt'taki hükümet başkanına ne denir?",
+        "answers": [
+          "Birinci Bakan",
+          "Başbakan / Başbakan",
+          "Belediye Başkanı/Belediye Başkanı",
+          "Başbakan / Başbakan"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "به رئیس دولت در زاکسن-آنهالت چه می گویید؟",
+        "answers": [
+          "وزیر اول",
+          "نخست وزیر/نخست وزیر",
+          "شهردار/شهردار",
+          "نخست وزیر/نخست وزیر"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Comment appelle-t-on le chef du gouvernement de Saxe-Anhalt ?",
+        "answers": [
+          "Premier ministre",
+          "Premier ministre/Premier ministre",
+          "Maire/Maire",
+          "Premier ministre/Premier ministre"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ماذا تسمون رئيس الحكومة في ولاية ساكسونيا أنهالت؟",
+        "answers": [
+          "الوزير الأول",
+          "رئيس الوزراء / رئيس الوزراء",
+          "عمدة / عمدة",
+          "رئيس الوزراء / رئيس الوزراء"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2310,
+    "land": "sachsen-anhalt",
+    "number": 10,
+    "question_de": "Welche Ministerin/welchen Minister hat Sachsen-Anhalt nicht?",
+    "answers_de": [
+      "Justizministerin/Justizminister",
+      "Außenministerin/Außenminister",
+      "Finanzministerin/Finanzminister",
+      "Innenministerin/Innenminister"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какого министра нет в Саксонии-Анхальт?",
+        "answers": [
+          "Министр юстиции/Министр юстиции",
+          "Министр иностранных дел/Министр иностранных дел",
+          "Министр финансов/Министр финансов",
+          "министр внутренних дел"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Якого міністра не має Саксонія-Анхальт?",
+        "answers": [
+          "Міністр юстиції/Міністр юстиції",
+          "Міністр закордонних справ/міністр закордонних справ",
+          "Міністр фінансів/міністр фінансів",
+          "Міністр внутрішніх справ"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which minister does Saxony-Anhalt not have?",
+        "answers": [
+          "Minister of Justice/Minister of Justice",
+          "Foreign Minister/Foreign Minister",
+          "Finance Minister/Finance Minister",
+          "Interior Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saksonya-Anhalt'ta hangi bakan yok?",
+        "answers": [
+          "Adalet Bakanı/Adalet Bakanı",
+          "Dışişleri Bakanı / Dışişleri Bakanı",
+          "Maliye Bakanı / Maliye Bakanı",
+          "İçişleri Bakanı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "زاکسن آنهالت کدام وزیر را ندارد؟",
+        "answers": [
+          "وزیر دادگستری / وزیر دادگستری",
+          "وزیر امور خارجه / وزیر امور خارجه",
+          "وزیر دارایی / وزیر دارایی",
+          "وزیر کشور"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel ministre la Saxe-Anhalt n’a-t-elle pas ?",
+        "answers": [
+          "Ministre de la Justice/Ministre de la Justice",
+          "Ministre des Affaires étrangères/Ministre des Affaires étrangères",
+          "Ministre des Finances/Ministre des Finances",
+          "Ministre de l'Intérieur"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "من هو الوزير الذي لا يوجد في ولاية ساكسونيا أنهالت؟",
+        "answers": [
+          "وزير العدل/وزير العدل",
+          "وزير الخارجية/وزير الخارجية",
+          "وزير المالية/وزير المالية",
+          "وزير الداخلية"
+        ],
+        "explanation": ""
+      }
+    }
+  }
+]

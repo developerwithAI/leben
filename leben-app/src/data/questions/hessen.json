@@ -1,0 +1,874 @@
+[
+  {
+    "id": 1601,
+    "land": "hessen",
+    "number": 1,
+    "question_de": "Welches Wappen gehört zum Bundesland Hessen?",
+    "answers_de": [
+      "Weißer Löwe auf blau-weißem Wappen mit Krone",
+      "Schwarzer Bär auf weißem Schild mit Krone",
+      "Blauer Löwe und weißer Stern auf gelbem Schild",
+      "Gelbe und schwarze Streifen mit grüner Diagonale"
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой герб принадлежит земле Гессен?",
+        "answers": [
+          "Белый лев на сине-белом гербе с короной",
+          "Черный медведь на белом щите с короной",
+          "Синий лев и белая звезда на желтом щите",
+          "Желтые и черные полосы с зеленой диагональю"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який герб належить землі Гессен?",
+        "answers": [
+          "Білий лев на синьо-білому гербі з короною",
+          "Чорний ведмідь на білому щиті з короною",
+          "Синій лев і біла зірка на жовтому щиті",
+          "Жовто-чорні смуги із зеленою діагоналлю"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which coat of arms belongs to the state of Hesse?",
+        "answers": [
+          "White lion on blue and white coat of arms with crown",
+          "Black bear on white shield with crown",
+          "Blue lion and white star on yellow shield",
+          "Yellow and black stripes with a green diagonal"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hangi arması Hessen eyaletine aittir?",
+        "answers": [
+          "Mavi ve beyaz armalı taçlı beyaz aslan",
+          "Beyaz kalkan üzerinde taçlı siyah ayı",
+          "Sarı kalkan üzerinde mavi aslan ve beyaz yıldız",
+          "Yeşil köşegenli sarı ve siyah çizgiler"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام نشان متعلق به ایالت هسن است؟",
+        "answers": [
+          "شیر سفید روی نشان آبی و سفید با تاج",
+          "خرس سیاه روی سپر سفید با تاج",
+          "شیر آبی و ستاره سفید روی سپر زرد",
+          "نوارهای زرد و مشکی با مورب سبز"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles armoiries appartiennent au Land de Hesse ?",
+        "answers": [
+          "Lion blanc sur armoiries bleues et blanches avec couronne",
+          "Ours noir sur bouclier blanc avec couronne",
+          "Lion bleu et étoile blanche sur bouclier jaune",
+          "Rayures jaunes et noires avec une diagonale verte"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أي شعار النبالة ينتمي إلى ولاية هيسن؟",
+        "answers": [
+          "أسد أبيض على معطف أزرق وأبيض من الأسلحة مع التاج",
+          "الدب الأسود على الدرع الأبيض مع التاج",
+          "الأسد الأزرق والنجمة البيضاء على الدرع الأصفر",
+          "خطوط صفراء وسوداء بقطر أخضر"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "hessen_001"
+  },
+  {
+    "id": 1602,
+    "land": "hessen",
+    "number": 2,
+    "question_de": "Welches ist ein Landkreis in Hessen?",
+    "answers_de": [
+      "Ammerland",
+      "Altötting",
+      "Prignitz",
+      "Main-Taunus-Kreis"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой район в Гессене?",
+        "answers": [
+          "Аммерланд",
+          "Альтёттинг",
+          "Пригниц",
+          "Майн-Таунусский район"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який район у Гессені?",
+        "answers": [
+          "Аммерланд",
+          "Altötting",
+          "Прігніц",
+          "Майн-Таунусський район"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which is a district in Hesse?",
+        "answers": [
+          "Ammerland",
+          "Altötting",
+          "Prignitz",
+          "Main-Taunus district"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hesse'nin bir ilçesi hangisidir?",
+        "answers": [
+          "Ammerland",
+          "Altötting",
+          "Prignitz",
+          "Main-Taunus bölgesi"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ناحیه در هسن است؟",
+        "answers": [
+          "آمرلند",
+          "آلتوتینگ",
+          "پریگنیتز",
+          "منطقه اصلی تاونوس"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Qu’est-ce qu’un quartier de Hesse ?",
+        "answers": [
+          "Pays d'Ammer",
+          "Altötting",
+          "Prignitz",
+          "Quartier Main-Taunus"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي منطقة في ولاية هيسن؟",
+        "answers": [
+          "أميرلاند",
+          "التوتينغ",
+          "بريجنيتز",
+          "منطقة تاونوس الرئيسية"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1603,
+    "land": "hessen",
+    "number": 3,
+    "question_de": "Für wie viele Jahre wird der Landtag in Hessen gewählt?",
+    "answers_de": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "На сколько лет избирается земельный парламент в Гессене?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "На скільки років обирається парламент землі в Гессені?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "For how many years is the state parliament in Hesse elected?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hessen eyalet parlamentosu kaç yıllığına seçilir?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پارلمان ایالتی در هسن برای چند سال انتخاب می شود؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Pour combien d'années le parlement du Land de Hesse est-il élu ?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "كم سنة يتم انتخاب برلمان الولاية في ولاية هيسن؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1604,
+    "land": "hessen",
+    "number": 4,
+    "question_de": "Ab welchem Alter darf man in Hessen bei Kommunalwahlen wählen?",
+    "answers_de": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "С какого возраста можно голосовать на местных выборах в Гессене?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "З якого віку можна голосувати на місцевих виборах у Гессені?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "At what age are you allowed to vote in local elections in Hesse?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hessen'deki yerel seçimlerde hangi yaşta oy kullanabilirsiniz?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از چه سنی مجاز به شرکت در انتخابات محلی هسن هستید؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "A quel âge peut-on voter aux élections communales en Hesse ?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "في أي عمر يُسمح لك بالتصويت في الانتخابات المحلية في ولاية هيسن؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1605,
+    "land": "hessen",
+    "number": 5,
+    "question_de": "Welche Farben hat die Landesflagge von Hessen?",
+    "answers_de": [
+      "blau-weiß-rot",
+      "rot-weiß",
+      "schwarz-gold",
+      "grün-weiß-rot"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какие цвета имеет государственный флаг Гессена?",
+        "answers": [
+          "сине-бело-красный",
+          "красно-белый",
+          "черно-золотой",
+          "зелено-бело-красный"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Які кольори має державний прапор Гессена?",
+        "answers": [
+          "синьо-біло-червоний",
+          "червоно-білий",
+          "чорно-золотий",
+          "зелено-біло-червоний"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What colors does the state flag of Hesse have?",
+        "answers": [
+          "blue-white-red",
+          "red-white",
+          "black-gold",
+          "green-white-red"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hessen eyalet bayrağının renkleri nelerdir?",
+        "answers": [
+          "mavi-beyaz-kırmızı",
+          "kırmızı-beyaz",
+          "siyah-altın",
+          "yeşil-beyaz-kırmızı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پرچم ایالت هسن چه رنگ هایی دارد؟",
+        "answers": [
+          "آبی-سفید-قرمز",
+          "قرمز-سفید",
+          "طلایی سیاه",
+          "سبز-سفید-قرمز"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles sont les couleurs du drapeau national de la Hesse ?",
+        "answers": [
+          "bleu-blanc-rouge",
+          "rouge-blanc",
+          "noir-or",
+          "vert-blanc-rouge"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي ألوان علم ولاية هيسن؟",
+        "answers": [
+          "الأزرق والأبيض والأحمر",
+          "أحمر-أبيض",
+          "الذهب الأسود",
+          "الأخضر والأبيض والأحمر"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1606,
+    "land": "hessen",
+    "number": 6,
+    "question_de": "Wo können Sie sich in Hessen über politische Themen informieren?",
+    "answers_de": [
+      "bei der Landeszentrale für politische Bildung",
+      "bei der Verbraucherzentrale",
+      "beim Ordnungsamt der Gemeinde",
+      "bei den Kirchen"
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Где можно узнать о политических проблемах в Гессене?",
+        "answers": [
+          "в Государственном центре гражданского образования",
+          "в центре консультирования потребителей",
+          "в городском отделе общественного порядка",
+          "в церквях"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Де можна дізнатися про політичні питання в Гессені?",
+        "answers": [
+          "у Державному центрі громадянської освіти",
+          "в центрі консультації споживачів",
+          "в міському відділі громадського порядку",
+          "при церквах"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Where can you find out about political issues in Hesse?",
+        "answers": [
+          "at the State Center for Civic Education",
+          "at the consumer advice center",
+          "at the municipal public order office",
+          "at the churches"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hessen'deki siyasi konular hakkında nereden bilgi edinebilirsiniz?",
+        "answers": [
+          "Eyalet Sivil Eğitim Merkezi'nde",
+          "tüketici danışma merkezinde",
+          "belediye asayiş ofisinde",
+          "kiliselerde"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از کجا می توانید از مسائل سیاسی در هسن مطلع شوید؟",
+        "answers": [
+          "در مرکز دولتی آموزش مدنی",
+          "در مرکز مشاوره مصرف کننده",
+          "در اداره نظم عمومی شهرداری",
+          "در کلیساها"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Où peut-on s’informer sur les questions politiques en Hesse ?",
+        "answers": [
+          "au Centre d'État pour l'éducation civique",
+          "au centre de conseil aux consommateurs",
+          "au bureau municipal de l'ordre public",
+          "dans les églises"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أين يمكنك التعرف على القضايا السياسية في ولاية هيسن؟",
+        "answers": [
+          "في مركز الدولة للتربية المدنية",
+          "في مركز استشارات المستهلك",
+          "في مكتب النظام العام بالبلدية",
+          "عند الكنائس"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1607,
+    "land": "hessen",
+    "number": 7,
+    "question_de": "Die Landeshauptstadt von Hessen heißt ...",
+    "answers_de": [
+      "Kassel.",
+      "Darmstadt.",
+      "Frankfurt.",
+      "Wiesbaden."
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Столица земли Гессен называется...",
+        "answers": [
+          "Кассель.",
+          "Дармштадт.",
+          "Франкфурт.",
+          "Висбаден."
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Столиця землі Гессен називається...",
+        "answers": [
+          "Кассель.",
+          "Дармштадт.",
+          "Франкфурт.",
+          "Вісбаден."
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "The state capital of Hesse is called...",
+        "answers": [
+          "Kassel.",
+          "Darmstadt.",
+          "Frankfurt.",
+          "Wiesbaden."
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hessen eyaletinin başkentinin adı...",
+        "answers": [
+          "Kassel.",
+          "Darmstadt.",
+          "Frankfurt'ta.",
+          "Wiesbaden."
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پایتخت ایالت هسن نام دارد...",
+        "answers": [
+          "کاسل.",
+          "دارمشتات",
+          "فرانکفورت",
+          "ویزبادن"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "La capitale de l'État de Hesse s'appelle...",
+        "answers": [
+          "Cassel.",
+          "Darmstadt.",
+          "Francfort.",
+          "Wiesbaden."
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "عاصمة ولاية هيسن تسمى...",
+        "answers": [
+          "كاسل.",
+          "دارمشتات.",
+          "فرانكفورت.",
+          "فيسبادن."
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1608,
+    "land": "hessen",
+    "number": 8,
+    "question_de": "Welches Bundesland ist Hessen?",
+    "answers_de": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какая федеральная земля является Гессеном?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Яка федеральна земля Гессен?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which federal state is Hesse?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hessen hangi federal eyalettir?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ایالت فدرال هسن است؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "De quel Land est la Hesse ?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي الولاية الفيدرالية هي ولاية هيسن؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "hessen_008"
+  },
+  {
+    "id": 1609,
+    "land": "hessen",
+    "number": 9,
+    "question_de": "Wie nennt man die Regierungschefin/den Regierungschef in Hessen?",
+    "answers_de": [
+      "Erste Ministerin/Erster Minister",
+      "Premierministerin/Premierminister",
+      "Bürgermeisterin/Bürgermeister",
+      "Ministerpräsidentin/Ministerpräsident"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Как вы называете главу правительства в Гессене?",
+        "answers": [
+          "Первый министр",
+          "Премьер-министр/Премьер-министр",
+          "Мэр/Мэр",
+          "Премьер-министр/Премьер-министр"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Як ви називаєте главу уряду в Гессені?",
+        "answers": [
+          "Перший міністр",
+          "Прем'єр-міністр/Прем'єр-міністр",
+          "Мер/мер",
+          "Прем'єр-міністр/Прем'єр-міністр"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What do you call the head of government in Hesse?",
+        "answers": [
+          "First Minister",
+          "Prime Minister/Prime Minister",
+          "Mayor/Mayor",
+          "Prime Minister/Prime Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hessen'deki hükümet başkanına ne denir?",
+        "answers": [
+          "Birinci Bakan",
+          "Başbakan / Başbakan",
+          "Belediye Başkanı/Belediye Başkanı",
+          "Başbakan / Başbakan"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "به رئیس دولت در هسن چه می گویید؟",
+        "answers": [
+          "وزیر اول",
+          "نخست وزیر/نخست وزیر",
+          "شهردار/شهردار",
+          "نخست وزیر/نخست وزیر"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Comment appelle-t-on le chef du gouvernement de Hesse ?",
+        "answers": [
+          "Premier ministre",
+          "Premier ministre/Premier ministre",
+          "Maire/Maire",
+          "Premier ministre/Premier ministre"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ماذا تسمون رئيس الحكومة في ولاية هيسن؟",
+        "answers": [
+          "الوزير الأول",
+          "رئيس الوزراء / رئيس الوزراء",
+          "عمدة / عمدة",
+          "رئيس الوزراء / رئيس الوزراء"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1610,
+    "land": "hessen",
+    "number": 10,
+    "question_de": "Welche Ministerin/welchen Minister hat Hessen nicht?",
+    "answers_de": [
+      "Justizministerin/Justizminister",
+      "Außenministerin/Außenminister",
+      "Finanzministerin/Finanzminister",
+      "Innenministerin/Innenminister"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какого министра нет в Гессене?",
+        "answers": [
+          "Министр юстиции/Министр юстиции",
+          "Министр иностранных дел/Министр иностранных дел",
+          "Министр финансов/Министр финансов",
+          "министр внутренних дел"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Якого міністра не має Гессе?",
+        "answers": [
+          "Міністр юстиції/Міністр юстиції",
+          "Міністр закордонних справ/міністр закордонних справ",
+          "Міністр фінансів/міністр фінансів",
+          "Міністр внутрішніх справ"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which minister does Hesse not have?",
+        "answers": [
+          "Minister of Justice/Minister of Justice",
+          "Foreign Minister/Foreign Minister",
+          "Finance Minister/Finance Minister",
+          "Interior Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hessen'in hangi bakanı yok?",
+        "answers": [
+          "Adalet Bakanı/Adalet Bakanı",
+          "Dışişleri Bakanı / Dışişleri Bakanı",
+          "Maliye Bakanı / Maliye Bakanı",
+          "İçişleri Bakanı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "هسه کدام وزیر را ندارد؟",
+        "answers": [
+          "وزیر دادگستری / وزیر دادگستری",
+          "وزیر امور خارجه / وزیر امور خارجه",
+          "وزیر دارایی / وزیر دارایی",
+          "وزیر کشور"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel ministre la Hesse n’a-t-elle pas ?",
+        "answers": [
+          "Ministre de la Justice/Ministre de la Justice",
+          "Ministre des Affaires étrangères/Ministre des Affaires étrangères",
+          "Ministre des Finances/Ministre des Finances",
+          "Ministre de l'Intérieur"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أي وزير ليس لديه هيسن؟",
+        "answers": [
+          "وزير العدل/وزير العدل",
+          "وزير الخارجية/وزير الخارجية",
+          "وزير المالية/وزير المالية",
+          "وزير الداخلية"
+        ],
+        "explanation": ""
+      }
+    }
+  }
+]

@@ -1,0 +1,874 @@
+[
+  {
+    "id": 2001,
+    "land": "rheinland-pfalz",
+    "number": 1,
+    "question_de": "Welches Wappen gehört zum Bundesland Rheinland-Pfalz?",
+    "answers_de": [
+      "Schwarzes Wappen mit Mainzer Rad, Kreuz und goldenem Löwen",
+      "Weißes Schloss mit drei Türmen auf rotem Schild",
+      "Rotes Wappen mit weißen Löwen und Sternen auf Blau",
+      "Blauer Löwe und weißer Stern auf gelbem Schild"
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой герб принадлежит федеральной земле Рейнланд-Пфальц?",
+        "answers": [
+          "Черный герб с колесом Майнца, крестом и золотым львом",
+          "Белый замок с тремя башнями на красном щите",
+          "Красный герб с белыми львами и звездами на синем фоне.",
+          "Синий лев и белая звезда на желтом щите"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який герб належить федеральній землі Рейнланд-Пфальц?",
+        "answers": [
+          "Чорний герб із колесом Майнца, хрестом і золотим левом",
+          "Білий замок з трьома вежами на червоному щиті",
+          "Червоний герб із білими левами та зірками на синьому",
+          "Синій лев і біла зірка на жовтому щиті"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which coat of arms belongs to the federal state of Rhineland-Palatinate?",
+        "answers": [
+          "Black coat of arms with Mainz wheel, cross and golden lion",
+          "White castle with three towers on a red shield",
+          "Red coat of arms with white lions and stars on blue",
+          "Blue lion and white star on yellow shield"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hangi arması Rheinland-Pfalz federal eyaletine aittir?",
+        "answers": [
+          "Mainz çarkı, haç ve altın aslanlı siyah arma",
+          "Kırmızı kalkan üzerinde üç kuleli beyaz kale",
+          "Mavi üzerine beyaz aslanlar ve yıldızlar bulunan kırmızı arması",
+          "Sarı kalkan üzerinde mavi aslan ve beyaz yıldız"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام نشان متعلق به ایالت فدرال راینلاند-فالتز است؟",
+        "answers": [
+          "نشان مشکی با چرخ ماینتس، صلیب و شیر طلایی",
+          "قلعه سفید با سه برج بر روی یک سپر قرمز",
+          "نشان قرمز رنگ با شیرهای سفید و ستاره روی آبی",
+          "شیر آبی و ستاره سفید روی سپر زرد"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles armoiries appartiennent au Land de Rhénanie-Palatinat ?",
+        "answers": [
+          "Armoiries noires avec roue de Mayence, croix et lion d'or",
+          "Château blanc avec trois tours sur un bouclier rouge",
+          "Armoiries rouges avec lions blancs et étoiles sur bleu",
+          "Lion bleu et étoile blanche sur bouclier jaune"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هو شعار النبالة الذي ينتمي إلى ولاية راينلاند بالاتينات الفيدرالية؟",
+        "answers": [
+          "شعار النبالة الأسود مع عجلة ماينز والصليب والأسد الذهبي",
+          "قلعة بيضاء بثلاثة أبراج على درع أحمر",
+          "معطف أحمر من الأسلحة مع الأسود البيضاء والنجوم باللون الأزرق",
+          "الأسد الأزرق والنجمة البيضاء على الدرع الأصفر"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "rheinland_pfalz_001"
+  },
+  {
+    "id": 2002,
+    "land": "rheinland-pfalz",
+    "number": 2,
+    "question_de": "Welches ist ein Landkreis in Rheinland-Pfalz?",
+    "answers_de": [
+      "Westerwaldkreis",
+      "Altötting",
+      "Emsland",
+      "Prignitz"
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой округ в земле Рейнланд-Пфальц?",
+        "answers": [
+          "Вестервальдкрайс",
+          "Альтёттинг",
+          "Эмсланд",
+          "Пригниц"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який район у землі Рейнланд-Пфальц?",
+        "answers": [
+          "Westerwaldkreis",
+          "Altötting",
+          "Емсланд",
+          "Прігніц"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which is a district in Rhineland-Palatinate?",
+        "answers": [
+          "Westerwaldkreis",
+          "Altötting",
+          "Emsland",
+          "Prignitz"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Rhineland-Pfalz'da bir bölge hangisidir?",
+        "answers": [
+          "Westerwaldkreis",
+          "Altötting",
+          "Emsland",
+          "Prignitz"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ناحیه در راینلاند-فالتز است؟",
+        "answers": [
+          "وستروالدکریس",
+          "آلتوتینگ",
+          "امسلند",
+          "پریگنیتز"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Qu'est-ce qu'un district de Rhénanie-Palatinat ?",
+        "answers": [
+          "Arrondissement de Westerwald",
+          "Altötting",
+          "Emsland",
+          "Prignitz"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي منطقة راينلاند بالاتينات؟",
+        "answers": [
+          "ويستيروالدكريس",
+          "التوتينغ",
+          "امسلاند",
+          "بريجنيتز"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2003,
+    "land": "rheinland-pfalz",
+    "number": 3,
+    "question_de": "Für wie viele Jahre wird der Landtag in Rheinland-Pfalz gewählt?",
+    "answers_de": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "На сколько лет избирается парламент земли Рейнланд-Пфальц?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "На скільки років обирається парламент землі Рейнланд-Пфальц?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "For how many years is the state parliament in Rhineland-Palatinate elected?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Rhineland-Pfalz'daki eyalet parlamentosu kaç yıllığına seçilir?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پارلمان ایالتی راینلاند-فالتز برای چند سال انتخاب می شود؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Pour combien d'années le parlement du Land de Rhénanie-Palatinat est-il élu ?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "كم سنة يتم انتخاب برلمان ولاية راينلاند بالاتينات؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2004,
+    "land": "rheinland-pfalz",
+    "number": 4,
+    "question_de": "Ab welchem Alter darf man in Rheinland-Pfalz bei Kommunalwahlen wählen?",
+    "answers_de": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "В каком возрасте разрешено голосовать на местных выборах в земле Рейнланд-Пфальц?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "З якого віку вам дозволяється голосувати на місцевих виборах у землі Рейнланд-Пфальц?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "At what age are you allowed to vote in local elections in Rhineland-Palatinate?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Rhineland-Pfalz'daki yerel seçimlerde hangi yaşta oy kullanabilirsiniz?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از چه سنی مجاز به رای دادن در انتخابات محلی راینلاند-فالتز هستید؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "A quel âge peut-on voter aux élections communales en Rhénanie-Palatinat ?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "في أي عمر يُسمح لك بالتصويت في الانتخابات المحلية في راينلاند بالاتينات؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2005,
+    "land": "rheinland-pfalz",
+    "number": 5,
+    "question_de": "Welche Farben hat die Landesflagge von Rheinland-Pfalz?",
+    "answers_de": [
+      "weiß-rot",
+      "schwarz-rot-gold",
+      "schwarz-gelb",
+      "grün-weiß-rot"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какие цвета имеет государственный флаг Рейнланд-Пфальца?",
+        "answers": [
+          "бело-красный",
+          "черно-красно-золотой",
+          "черно-желтый",
+          "зелено-бело-красный"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Які кольори має державний прапор землі Рейнланд-Пфальц?",
+        "answers": [
+          "біло-червоний",
+          "чорно-червоно-золотий",
+          "чорно-жовтий",
+          "зелено-біло-червоний"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What colors does the state flag of Rhineland-Palatinate have?",
+        "answers": [
+          "white-red",
+          "black-red-gold",
+          "black-yellow",
+          "green-white-red"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Rheinland-Pfalz eyalet bayrağında hangi renkler var?",
+        "answers": [
+          "beyaz-kırmızı",
+          "siyah-kırmızı-altın",
+          "siyah-sarı",
+          "yeşil-beyaz-kırmızı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پرچم ایالت راینلاند-فالتز چه رنگ هایی دارد؟",
+        "answers": [
+          "سفید قرمز",
+          "سیاه-قرمز-طلایی",
+          "سیاه-زرد",
+          "سبز-سفید-قرمز"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles sont les couleurs du drapeau national de Rhénanie-Palatinat ?",
+        "answers": [
+          "blanc-rouge",
+          "noir-rouge-or",
+          "noir-jaune",
+          "vert-blanc-rouge"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي ألوان علم ولاية راينلاند بالاتينات؟",
+        "answers": [
+          "الأبيض والأحمر",
+          "أسود-أحمر-ذهبي",
+          "أسود أصفر",
+          "الأخضر والأبيض والأحمر"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2006,
+    "land": "rheinland-pfalz",
+    "number": 6,
+    "question_de": "Wo können Sie sich in Rheinland-Pfalz über politische Themen informieren?",
+    "answers_de": [
+      "bei den Kirchen",
+      "bei der Verbraucherzentrale",
+      "beim Ordnungsamt der Gemeinde",
+      "bei der Landeszentrale für politische Bildung"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Где можно узнать о политических проблемах в Рейнланд-Пфальце?",
+        "answers": [
+          "в церквях",
+          "в центре консультирования потребителей",
+          "в городском отделе общественного порядка",
+          "в Государственном центре гражданского образования"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Де можна дізнатися про політичні питання в землі Рейнланд-Пфальц?",
+        "answers": [
+          "при церквах",
+          "в центрі консультації споживачів",
+          "в міському відділі громадського порядку",
+          "у Державному центрі громадянської освіти"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Where can you find out about political issues in Rhineland-Palatinate?",
+        "answers": [
+          "at the churches",
+          "at the consumer advice center",
+          "at the municipal public order office",
+          "at the State Center for Civic Education"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Rhineland-Pfalz'daki siyasi konular hakkında nereden bilgi edinebilirsiniz?",
+        "answers": [
+          "kiliselerde",
+          "tüketici danışma merkezinde",
+          "belediye asayiş ofisinde",
+          "Eyalet Sivil Eğitim Merkezi'nde"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از کجا می توانید در مورد مسائل سیاسی در راینلاند-فالتز اطلاعات کسب کنید؟",
+        "answers": [
+          "در کلیساها",
+          "در مرکز مشاوره مصرف کننده",
+          "در اداره نظم عمومی شهرداری",
+          "در مرکز دولتی آموزش مدنی"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Où s’informer sur les enjeux politiques en Rhénanie-Palatinat ?",
+        "answers": [
+          "dans les églises",
+          "au centre de conseil aux consommateurs",
+          "au bureau municipal de l'ordre public",
+          "au Centre d'État pour l'éducation civique"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أين يمكنك التعرف على القضايا السياسية في راينلاند بالاتينات؟",
+        "answers": [
+          "عند الكنائس",
+          "في مركز استشارات المستهلك",
+          "في مكتب النظام العام بالبلدية",
+          "في مركز الدولة للتربية المدنية"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2007,
+    "land": "rheinland-pfalz",
+    "number": 7,
+    "question_de": "Die Landeshauptstadt von Rheinland-Pfalz heißt ...",
+    "answers_de": [
+      "Mainz.",
+      "Kaiserslautern.",
+      "Ludwigshafen.",
+      "Koblenz."
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Столица земли Рейнланд-Пфальц называется...",
+        "answers": [
+          "Майнц.",
+          "Кайзерслаутерн.",
+          "Людвигсхафен.",
+          "Кобленц."
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Столиця землі Рейнланд-Пфальц називається...",
+        "answers": [
+          "Майнц.",
+          "Кайзерслаутерн.",
+          "Людвігсгафен.",
+          "Кобленц."
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "The state capital of Rhineland-Palatinate is called...",
+        "answers": [
+          "Mainz.",
+          "Kaiserslautern.",
+          "Ludwigshafen.",
+          "Koblenz."
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Rhineland-Pfalz eyaletinin başkentinin adı...",
+        "answers": [
+          "Mainz.",
+          "Kaiserslautern.",
+          "Ludwigshafen.",
+          "Koblenz."
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پایتخت ایالت راینلند-فالتز نام دارد...",
+        "answers": [
+          "ماینتس.",
+          "کایزرسلاترن.",
+          "لودویگشافن",
+          "کوبلنز"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "La capitale du Land de Rhénanie-Palatinat s'appelle...",
+        "answers": [
+          "Mayence.",
+          "Kaiserslautern.",
+          "Ludwigshafen.",
+          "Coblence."
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "عاصمة ولاية راينلاند بالاتينات تسمى...",
+        "answers": [
+          "ماينز.",
+          "كايزرسلاوترن.",
+          "لودفيغسهافن.",
+          "كوبلنز."
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2008,
+    "land": "rheinland-pfalz",
+    "number": 8,
+    "question_de": "Welches Bundesland ist Rheinland-Pfalz?",
+    "answers_de": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какая федеральная земля является Рейнланд-Пфальцем?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Яка федеральна земля є Рейнланд-Пфальц?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which federal state is Rhineland-Palatinate?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Rhineland-Pfalz hangi federal eyalettir?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "راینلاند-فالتز کدام ایالت فدرال است؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel Land est la Rhénanie-Palatinat ?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أي ولاية اتحادية هي راينلاند بالاتينات؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "rheinland_pfalz_008"
+  },
+  {
+    "id": 2009,
+    "land": "rheinland-pfalz",
+    "number": 9,
+    "question_de": "Wie nennt man die Regierungschefin/den Regierungschef in Rheinland-Pfalz?",
+    "answers_de": [
+      "Erste Ministerin/Erster Minister",
+      "Premierministerin/Premierminister",
+      "Bürgermeisterin/Bürgermeister",
+      "Ministerpräsidentin/Ministerpräsident"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Как вы называете главу правительства земли Рейнланд-Пфальц?",
+        "answers": [
+          "Первый министр",
+          "Премьер-министр/Премьер-министр",
+          "Мэр/Мэр",
+          "Премьер-министр/Премьер-министр"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Як ви називаєте главу уряду землі Рейнланд-Пфальц?",
+        "answers": [
+          "Перший міністр",
+          "Прем'єр-міністр/Прем'єр-міністр",
+          "Мер/мер",
+          "Прем'єр-міністр/Прем'єр-міністр"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What do you call the head of government in Rhineland-Palatinate?",
+        "answers": [
+          "First Minister",
+          "Prime Minister/Prime Minister",
+          "Mayor/Mayor",
+          "Prime Minister/Prime Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Rhineland-Pfalz'daki hükümet başkanına ne denir?",
+        "answers": [
+          "Birinci Bakan",
+          "Başbakan / Başbakan",
+          "Belediye Başkanı/Belediye Başkanı",
+          "Başbakan / Başbakan"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "شما رئیس دولت راینلاند-فالتز را چه می نامید؟",
+        "answers": [
+          "وزیر اول",
+          "نخست وزیر/نخست وزیر",
+          "شهردار/شهردار",
+          "نخست وزیر/نخست وزیر"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Comment appelle-t-on le chef du gouvernement de Rhénanie-Palatinat ?",
+        "answers": [
+          "Premier ministre",
+          "Premier ministre/Premier ministre",
+          "Maire/Maire",
+          "Premier ministre/Premier ministre"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ماذا تسمون رئيس الحكومة في راينلاند بالاتينات؟",
+        "answers": [
+          "الوزير الأول",
+          "رئيس الوزراء / رئيس الوزراء",
+          "عمدة / عمدة",
+          "رئيس الوزراء / رئيس الوزراء"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2010,
+    "land": "rheinland-pfalz",
+    "number": 10,
+    "question_de": "Welche Ministerin/welchen Minister hat Rheinland-Pfalz nicht?",
+    "answers_de": [
+      "Justizministerin/Justizminister",
+      "Außenministerin/Außenminister",
+      "Finanzministerin/Finanzminister",
+      "Innenministerin/Innenminister"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какого министра нет в Рейнланд-Пфальце?",
+        "answers": [
+          "Министр юстиции/Министр юстиции",
+          "Министр иностранных дел/Министр иностранных дел",
+          "Министр финансов/Министр финансов",
+          "министр внутренних дел"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Якого міністра немає в землі Рейнланд-Пфальц?",
+        "answers": [
+          "Міністр юстиції/Міністр юстиції",
+          "Міністр закордонних справ/міністр закордонних справ",
+          "Міністр фінансів/міністр фінансів",
+          "Міністр внутрішніх справ"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which minister does Rhineland-Palatinate not have?",
+        "answers": [
+          "Minister of Justice/Minister of Justice",
+          "Foreign Minister/Foreign Minister",
+          "Finance Minister/Finance Minister",
+          "Interior Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Rhineland-Pfalz'da hangi bakan yoktur?",
+        "answers": [
+          "Adalet Bakanı/Adalet Bakanı",
+          "Dışişleri Bakanı / Dışişleri Bakanı",
+          "Maliye Bakanı / Maliye Bakanı",
+          "İçişleri Bakanı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "راینلاند-فالتز کدام وزیر را ندارد؟",
+        "answers": [
+          "وزیر دادگستری / وزیر دادگستری",
+          "وزیر امور خارجه / وزیر امور خارجه",
+          "وزیر دارایی / وزیر دارایی",
+          "وزیر کشور"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel ministre la Rhénanie-Palatinat n’a-t-elle pas ?",
+        "answers": [
+          "Ministre de la Justice/Ministre de la Justice",
+          "Ministre des Affaires étrangères/Ministre des Affaires étrangères",
+          "Ministre des Finances/Ministre des Finances",
+          "Ministre de l'Intérieur"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "من هو الوزير الذي لا يوجد في راينلاند بالاتينات؟",
+        "answers": [
+          "وزير العدل/وزير العدل",
+          "وزير الخارجية/وزير الخارجية",
+          "وزير المالية/وزير المالية",
+          "وزير الداخلية"
+        ],
+        "explanation": ""
+      }
+    }
+  }
+]

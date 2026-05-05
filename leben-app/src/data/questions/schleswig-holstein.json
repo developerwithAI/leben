@@ -1,0 +1,874 @@
+[
+  {
+    "id": 2401,
+    "land": "schleswig-holstein",
+    "number": 1,
+    "question_de": "Welches Wappen gehört zum Bundesland Schleswig-Holstein?",
+    "answers_de": [
+      "Viergeteiltes Wappen mit silbernem Löwen und Kreuz",
+      "Schwarzer Bär auf weißem Schild mit Krone",
+      "Blauer Löwe und weißer Stern auf gelbem Schild",
+      "Rotes Wappen mit weißen Löwen und Sternen auf Blau"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой герб принадлежит федеральной земле Шлезвиг-Гольштейн?",
+        "answers": [
+          "Четырехчастный герб с серебряным львом и крестом.",
+          "Черный медведь на белом щите с короной",
+          "Синий лев и белая звезда на желтом щите",
+          "Красный герб с белыми львами и звездами на синем фоне."
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який герб належить федеральній землі Шлезвіг-Гольштейн?",
+        "answers": [
+          "Чотиричастинний герб зі срібним левом і хрестом",
+          "Чорний ведмідь на білому щиті з короною",
+          "Синій лев і біла зірка на жовтому щиті",
+          "Червоний герб із білими левами та зірками на синьому"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which coat of arms belongs to the federal state of Schleswig-Holstein?",
+        "answers": [
+          "Four-part coat of arms with a silver lion and cross",
+          "Black bear on white shield with crown",
+          "Blue lion and white star on yellow shield",
+          "Red coat of arms with white lions and stars on blue"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hangi arması Schleswig-Holstein federal eyaletine aittir?",
+        "answers": [
+          "Gümüş aslanlı ve haçlı dört parçalı arma",
+          "Beyaz kalkanlı, taçlı siyah ayı",
+          "Sarı kalkan üzerinde mavi aslan ve beyaz yıldız",
+          "Mavi üzerine beyaz aslanlar ve yıldızlar bulunan kırmızı arması"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام نشان متعلق به ایالت فدرال شلسویگ-هولشتاین است؟",
+        "answers": [
+          "نشان چهار قسمتی با شیر نقره ای و صلیب",
+          "خرس سیاه روی سپر سفید با تاج",
+          "شیر آبی و ستاره سفید روی سپر زرد",
+          "نشان قرمز رنگ با شیرهای سفید و ستاره روی آبی"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles armoiries appartiennent à l'État fédéral du Schleswig-Holstein ?",
+        "answers": [
+          "Armoiries en quatre parties avec un lion et une croix en argent",
+          "Ours noir sur bouclier blanc avec couronne",
+          "Lion bleu et étoile blanche sur bouclier jaune",
+          "Armoiries rouges avec lions blancs et étoiles sur bleu"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هو شعار النبالة الذي ينتمي إلى ولاية شليسفيغ هولشتاين الفيدرالية؟",
+        "answers": [
+          "شعار النبالة من أربعة أجزاء مع أسد فضي وصليب",
+          "الدب الأسود على الدرع الأبيض مع التاج",
+          "الأسد الأزرق والنجمة البيضاء على الدرع الأصفر",
+          "معطف أحمر من الأسلحة مع الأسود البيضاء والنجوم باللون الأزرق"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "schleswig_holstein_001"
+  },
+  {
+    "id": 2402,
+    "land": "schleswig-holstein",
+    "number": 2,
+    "question_de": "Welches ist ein Landkreis in Schleswig-Holstein?",
+    "answers_de": [
+      "Ammerland",
+      "Mecklenburgische Seenplatte",
+      "Nordfriesland",
+      "Rhein-Sieg-Kreis"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой район в земле Шлезвиг-Гольштейн?",
+        "answers": [
+          "Аммерланд",
+          "Мекленбургский поозерный край",
+          "Северная Фризия",
+          "Район Рейн-Зиг"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який район у Шлезвіг-Гольштейні?",
+        "answers": [
+          "Аммерланд",
+          "Мекленбурзьке озеро",
+          "Північна Фризія",
+          "район Рейн-Зіг"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which is a district in Schleswig-Holstein?",
+        "answers": [
+          "Ammerland",
+          "Mecklenburg Lake District",
+          "North Frisia",
+          "Rhein-Sieg district"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Schleswig-Holstein'ın ilçesi hangisidir?",
+        "answers": [
+          "Ammerland",
+          "Mecklenburg Göller Bölgesi",
+          "Kuzey Frizya",
+          "Rhein-Sieg bölgesi"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ناحیه در شلزویگ-هولشتاین است؟",
+        "answers": [
+          "آمرلند",
+          "منطقه دریاچه مکلنبورگ",
+          "فریزیای شمالی",
+          "منطقه راین-زیگ"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Qu'est-ce qu'un district du Schleswig-Holstein ?",
+        "answers": [
+          "Pays d'Ammer",
+          "Région des lacs du Mecklembourg",
+          "Frise du Nord",
+          "Quartier Rhin-Sieg"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي منطقة ولاية شليسفيغ هولشتاين؟",
+        "answers": [
+          "أميرلاند",
+          "منطقة بحيرة مكلنبورغ",
+          "فريزيا الشمالية",
+          "منطقة راين سيج"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2403,
+    "land": "schleswig-holstein",
+    "number": 3,
+    "question_de": "Für wie viele Jahre wird der Landtag in Schleswig-Holstein gewählt?",
+    "answers_de": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "На сколько лет избирается парламент земли Шлезвиг-Гольштейн?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "На скільки років обирається парламент землі в Шлезвіг-Гольштейні?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "For how many years is the state parliament in Schleswig-Holstein elected?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Schleswig-Holstein'daki eyalet parlamentosu kaç yıllığına seçilir?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پارلمان ایالتی در شلزویگ-هولشتاین برای چند سال انتخاب می شود؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Pour combien d'années le parlement du Land de Schleswig-Holstein est-il élu ?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "كم سنة يتم انتخاب برلمان الولاية في شليسفيغ هولشتاين؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2404,
+    "land": "schleswig-holstein",
+    "number": 4,
+    "question_de": "Ab welchem Alter darf man in Schleswig-Holstein bei Kommunalwahlen wählen?",
+    "answers_de": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "В каком возрасте разрешено голосовать на местных выборах в земле Шлезвиг-Гольштейн?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "З якого віку можна голосувати на місцевих виборах у Шлезвіг-Гольштейні?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "At what age are you allowed to vote in local elections in Schleswig-Holstein?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Schleswig-Holstein'daki yerel seçimlerde hangi yaşta oy kullanabilirsiniz?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از چه سنی مجاز به رای دادن در انتخابات محلی شلزویگ-هولشتاین هستید؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "À quel âge peut-on voter aux élections locales dans le Schleswig-Holstein ?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "في أي عمر يُسمح لك بالتصويت في الانتخابات المحلية في شليسفيغ هولشتاين؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2405,
+    "land": "schleswig-holstein",
+    "number": 5,
+    "question_de": "Welche Farben hat die Landesflagge von Schleswig-Holstein?",
+    "answers_de": [
+      "weiß-blau",
+      "blau-weiß-rot",
+      "weiß-rot",
+      "grün-weiß-rot"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какого цвета государственный флаг земли Шлезвиг-Гольштейн?",
+        "answers": [
+          "бело-голубой",
+          "сине-бело-красный",
+          "бело-красный",
+          "зелено-бело-красный"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Якого кольору державний прапор землі Шлезвіг-Гольштейн?",
+        "answers": [
+          "біло-блакитний",
+          "синьо-біло-червоний",
+          "біло-червоний",
+          "зелено-біло-червоний"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What colors are the state flag of Schleswig-Holstein?",
+        "answers": [
+          "white-blue",
+          "blue-white-red",
+          "white-red",
+          "green-white-red"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Schleswig-Holstein eyalet bayrağı hangi renklerdir?",
+        "answers": [
+          "beyaz-mavi",
+          "mavi-beyaz-kırmızı",
+          "beyaz-kırmızı",
+          "yeşil-beyaz-kırmızı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پرچم ایالت شلسویگ هولشتاین چه رنگ هایی است؟",
+        "answers": [
+          "سفید-آبی",
+          "آبی-سفید-قرمز",
+          "سفید قرمز",
+          "سبز-سفید-قرمز"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "De quelles couleurs est le drapeau de l'État du Schleswig-Holstein ?",
+        "answers": [
+          "blanc-bleu",
+          "bleu-blanc-rouge",
+          "blanc-rouge",
+          "vert-blanc-rouge"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي ألوان علم ولاية شليسفيغ هولشتاين؟",
+        "answers": [
+          "الأبيض والأزرق",
+          "الأزرق والأبيض والأحمر",
+          "الأبيض والأحمر",
+          "الأخضر والأبيض والأحمر"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2406,
+    "land": "schleswig-holstein",
+    "number": 6,
+    "question_de": "Wo können Sie sich in Schleswig-Holstein über politische Themen informieren?",
+    "answers_de": [
+      "bei der Verbraucherzentrale",
+      "beim Ordnungsamt der Gemeinde",
+      "beim / bei der Landesbeauftragten für politische Bildung",
+      "bei den Kirchen"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Где можно узнать о политических проблемах в земле Шлезвиг-Гольштейн?",
+        "answers": [
+          "в центре консультирования потребителей",
+          "в городском отделе общественного порядка",
+          "у государственного представителя по политическому просвещению",
+          "в церквях"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Де можна дізнатися про політичні питання в Шлезвіг-Гольштейні?",
+        "answers": [
+          "в центрі консультації споживачів",
+          "в міському відділі громадського порядку",
+          "у державного уповноваженого з питань політичної освіти",
+          "при церквах"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Where can you find out about political issues in Schleswig-Holstein?",
+        "answers": [
+          "at the consumer advice center",
+          "at the municipal public order office",
+          "at the state representative for political education",
+          "at the churches"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Schleswig-Holstein'daki siyasi konular hakkında nereden bilgi edinebilirsiniz?",
+        "answers": [
+          "tüketici danışma merkezinde",
+          "belediye asayiş ofisinde",
+          "siyasi eğitimden sorumlu devlet temsilcisinde",
+          "kiliselerde"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از کجا می توانید در مورد مسائل سیاسی در شلزویگ-هولشتاین اطلاعات کسب کنید؟",
+        "answers": [
+          "در مرکز مشاوره مصرف کننده",
+          "در اداره نظم عمومی شهرداری",
+          "در نماینده ایالت برای آموزش سیاسی",
+          "در کلیساها"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Où peut-on s’informer sur les enjeux politiques du Schleswig-Holstein ?",
+        "answers": [
+          "au centre de conseil aux consommateurs",
+          "au bureau municipal de l'ordre public",
+          "chez le représentant de l'Etat pour l'éducation politique",
+          "dans les églises"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أين يمكنك التعرف على القضايا السياسية في شليسفيغ هولشتاين؟",
+        "answers": [
+          "في مركز استشارات المستهلك",
+          "في مكتب النظام العام بالبلدية",
+          "عند ممثلية الدولة للتربية السياسية",
+          "عند الكنائس"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2407,
+    "land": "schleswig-holstein",
+    "number": 7,
+    "question_de": "Die Landeshauptstadt von Schleswig-Holstein heißt ...",
+    "answers_de": [
+      "Husum.",
+      "Flensburg.",
+      "Lübeck.",
+      "Kiel."
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Столица земли Шлезвиг-Гольштейн называется...",
+        "answers": [
+          "Хусум.",
+          "Фленсбург.",
+          "Любек.",
+          "Киль."
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Столиця землі Шлезвіг-Гольштейн називається...",
+        "answers": [
+          "Хузум.",
+          "Фленсбург.",
+          "Любек.",
+          "Кіль."
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "The state capital of Schleswig-Holstein is called...",
+        "answers": [
+          "Husum.",
+          "Flensburg.",
+          "Lübeck.",
+          "Kiel."
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Schleswig-Holstein eyaletinin başkentinin adı...",
+        "answers": [
+          "Husum.",
+          "Flensburg.",
+          "Lübeck.",
+          "Kiel."
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "مرکز ایالت شلسویگ هولشتاین نام دارد...",
+        "answers": [
+          "هوسم.",
+          "فلنزبورگ",
+          "لوبک",
+          "کیل"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "La capitale du Land du Schleswig-Holstein s'appelle...",
+        "answers": [
+          "Husum.",
+          "Flensbourg.",
+          "Lübeck.",
+          "Kiel."
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "عاصمة ولاية شليسفيغ هولشتاين تسمى...",
+        "answers": [
+          "حسوم.",
+          "فلنسبورغ.",
+          "لوبيك.",
+          "كيل."
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2408,
+    "land": "schleswig-holstein",
+    "number": 8,
+    "question_de": "Welches Bundesland ist Schleswig-Holstein?",
+    "answers_de": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какая федеральная земля является Шлезвиг-Гольштейном?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Яка федеральна земля Шлезвіг-Гольштейн?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which federal state is Schleswig-Holstein?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Schleswig-Holstein hangi federal eyalettir?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "شلزویگ هولشتاین کدام ایالت فدرال است؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel État fédéral est le Schleswig-Holstein ?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي الولاية الفيدرالية التي هي شليسفيغ هولشتاين؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "schleswig_holstein_008"
+  },
+  {
+    "id": 2409,
+    "land": "schleswig-holstein",
+    "number": 9,
+    "question_de": "Wie nennt man die Regierungschefin/den Regierungschef in Schleswig-Holstein?",
+    "answers_de": [
+      "Erste Ministerin/Erster Minister",
+      "Premierministerin/Premierminister",
+      "Bürgermeisterin/Bürgermeister",
+      "Ministerpräsidentin/Ministerpräsident"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Как вы называете главу правительства земли Шлезвиг-Гольштейн?",
+        "answers": [
+          "Первый министр",
+          "Премьер-министр/Премьер-министр",
+          "Мэр/Мэр",
+          "Премьер-министр/Премьер-министр"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Як ви називаєте главу уряду в Шлезвіг-Гольштейні?",
+        "answers": [
+          "Перший міністр",
+          "Прем'єр-міністр/Прем'єр-міністр",
+          "Мер/мер",
+          "Прем'єр-міністр/Прем'єр-міністр"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What do you call the head of government in Schleswig-Holstein?",
+        "answers": [
+          "First Minister",
+          "Prime Minister/Prime Minister",
+          "Mayor/Mayor",
+          "Prime Minister/Prime Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Schleswig-Holstein'daki hükümet başkanına ne denir?",
+        "answers": [
+          "Birinci Bakan",
+          "Başbakan / Başbakan",
+          "Belediye Başkanı/Belediye Başkanı",
+          "Başbakan / Başbakan"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "به رئیس دولت در شلزویگ هولشتاین چه می گویید؟",
+        "answers": [
+          "وزیر اول",
+          "نخست وزیر/نخست وزیر",
+          "شهردار/شهردار",
+          "نخست وزیر/نخست وزیر"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Comment appelle-t-on le chef du gouvernement du Schleswig-Holstein ?",
+        "answers": [
+          "Premier ministre",
+          "Premier ministre/Premier ministre",
+          "Maire/Maire",
+          "Premier ministre/Premier ministre"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ماذا تسمون رئيس الحكومة في شليسفيغ هولشتاين؟",
+        "answers": [
+          "الوزير الأول",
+          "رئيس الوزراء / رئيس الوزراء",
+          "عمدة / عمدة",
+          "رئيس الوزراء / رئيس الوزراء"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2410,
+    "land": "schleswig-holstein",
+    "number": 10,
+    "question_de": "Welche Ministerin/welchen Minister hat Schleswig-Holstein nicht?",
+    "answers_de": [
+      "Justizministerin/Justizminister",
+      "Außenministerin/Außenminister",
+      "Finanzministerin/Finanzminister",
+      "Innenministerin/Innenminister"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какого министра нет в земле Шлезвиг-Гольштейн?",
+        "answers": [
+          "Министр юстиции/Министр юстиции",
+          "Министр иностранных дел/Министр иностранных дел",
+          "Министр финансов/Министр финансов",
+          "министр внутренних дел"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Якого міністра не має Шлезвіг-Гольштейн?",
+        "answers": [
+          "Міністр юстиції/Міністр юстиції",
+          "Міністр закордонних справ/міністр закордонних справ",
+          "Міністр фінансів/міністр фінансів",
+          "Міністр внутрішніх справ"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which minister does Schleswig-Holstein not have?",
+        "answers": [
+          "Minister of Justice/Minister of Justice",
+          "Foreign Minister/Foreign Minister",
+          "Finance Minister/Finance Minister",
+          "Interior Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Schleswig-Holstein'ın hangi bakanı yok?",
+        "answers": [
+          "Adalet Bakanı/Adalet Bakanı",
+          "Dışişleri Bakanı / Dışişleri Bakanı",
+          "Maliye Bakanı / Maliye Bakanı",
+          "İçişleri Bakanı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "شلزویگ هولشتاین کدام وزیر را ندارد؟",
+        "answers": [
+          "وزیر دادگستری / وزیر دادگستری",
+          "وزیر امور خارجه / وزیر امور خارجه",
+          "وزیر دارایی / وزیر دارایی",
+          "وزیر کشور"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel ministre le Schleswig-Holstein n’a-t-il pas ?",
+        "answers": [
+          "Ministre de la Justice/Ministre de la Justice",
+          "Ministre des Affaires étrangères/Ministre des Affaires étrangères",
+          "Ministre des Finances/Ministre des Finances",
+          "Ministre de l'Intérieur"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "من هو الوزير الذي لا يوجد في ولاية شليسفيغ هولشتاين؟",
+        "answers": [
+          "وزير العدل/وزير العدل",
+          "وزير الخارجية/وزير الخارجية",
+          "وزير المالية/وزير المالية",
+          "وزير الداخلية"
+        ],
+        "explanation": ""
+      }
+    }
+  }
+]

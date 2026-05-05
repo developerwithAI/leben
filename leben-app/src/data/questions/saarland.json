@@ -1,0 +1,874 @@
+[
+  {
+    "id": 2101,
+    "land": "saarland",
+    "number": 1,
+    "question_de": "Welches Wappen gehört zum Bundesland Saarland?",
+    "answers_de": [
+      "Schwarzes Wappen mit Mainzer Rad, Kreuz und goldenem Löwen",
+      "Rotes Wappen mit weißen Löwen und Sternen auf Blau",
+      "Ochsenkopf und roter Greif auf gelbem Wappen",
+      "Viergeteiltes Wappen mit silbernem Löwen und Kreuz"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой герб принадлежит федеральной земле Саар?",
+        "answers": [
+          "Черный герб с колесом Майнца, крестом и золотым львом",
+          "Красный герб с белыми львами и звездами на синем фоне.",
+          "Голова быка и красный грифон на желтом гербе",
+          "Четырехчастный герб с серебряным львом и крестом."
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який герб належить федеральній землі Саар?",
+        "answers": [
+          "Чорний герб із колесом Майнца, хрестом і золотим левом",
+          "Червоний герб із білими левами та зірками на синьому",
+          "Голова бика та червоний грифон на жовтому гербі",
+          "Чотиричастинний герб зі срібним левом і хрестом"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which coat of arms belongs to the federal state of Saarland?",
+        "answers": [
+          "Black coat of arms with Mainz wheel, cross and golden lion",
+          "Red coat of arms with white lions and stars on blue",
+          "Ox head and red griffin on a yellow coat of arms",
+          "Four-part coat of arms with a silver lion and cross"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hangi arması Saarland federal eyaletine aittir?",
+        "answers": [
+          "Mainz çarkı, haç ve altın aslanlı siyah arma",
+          "Mavi üzerine beyaz aslanlar ve yıldızlar bulunan kırmızı arması",
+          "Sarı bir arma üzerinde öküz başı ve kırmızı grifon",
+          "Gümüş aslanlı ve haçlı dört parçalı arma"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام نشان متعلق به ایالت فدرال زارلند است؟",
+        "answers": [
+          "نشان مشکی با چرخ ماینتس، صلیب و شیر طلایی",
+          "نشان قرمز رنگ با شیرهای سفید و ستاره روی آبی",
+          "سر گاو و گریفین قرمز روی یک نشان زرد رنگ",
+          "نشان چهار قسمتی با شیر نقره ای و صلیب"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles armoiries appartiennent au Land de la Sarre ?",
+        "answers": [
+          "Armoiries noires avec roue de Mayence, croix et lion d'or",
+          "Armoiries rouges avec lions blancs et étoiles sur bleu",
+          "Tête de bœuf et griffon rouge sur armoiries jaunes",
+          "Armoiries en quatre parties avec un lion et une croix en argent"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هو شعار النبالة الذي ينتمي إلى ولاية سارلاند الفيدرالية؟",
+        "answers": [
+          "شعار النبالة الأسود مع عجلة ماينز والصليب والأسد الذهبي",
+          "معطف أحمر من الأسلحة مع الأسود البيضاء والنجوم باللون الأزرق",
+          "رأس الثور والغريفين الأحمر على معطف أصفر من الأسلحة",
+          "شعار النبالة من أربعة أجزاء مع أسد فضي وصليب"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "saarland_001"
+  },
+  {
+    "id": 2102,
+    "land": "saarland",
+    "number": 2,
+    "question_de": "Welches ist ein Landkreis im Saarland?",
+    "answers_de": [
+      "Mecklenburgische Seenplatte",
+      "Altötting",
+      "Neunkirchen",
+      "Rhein-Sieg-Kreis"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой район в земле Саар?",
+        "answers": [
+          "Мекленбургский поозерный край",
+          "Альтёттинг",
+          "Нойнкирхен",
+          "Район Рейн-Зиг"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який район у Саарі?",
+        "answers": [
+          "Мекленбурзьке озеро",
+          "Altötting",
+          "Нойнкірхен",
+          "район Рейн-Зіг"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which is a district in Saarland?",
+        "answers": [
+          "Mecklenburg Lake District",
+          "Altötting",
+          "Neunkirchen",
+          "Rhein-Sieg district"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saarland'ın bir ilçesi hangisidir?",
+        "answers": [
+          "Mecklenburg Göller Bölgesi",
+          "Altötting",
+          "Neunkirchen",
+          "Rhein-Sieg bölgesi"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ناحیه در زارلند است؟",
+        "answers": [
+          "منطقه دریاچه مکلنبورگ",
+          "آلتوتینگ",
+          "Neunkirchen",
+          "منطقه راین-زیگ"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Qu'est-ce qu'un quartier de la Sarre?",
+        "answers": [
+          "Région des lacs du Mecklembourg",
+          "Altötting",
+          "Neunkirchen",
+          "Quartier Rhin-Sieg"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي منطقة في سارلاند؟",
+        "answers": [
+          "منطقة بحيرة مكلنبورغ",
+          "التوتينغ",
+          "نيونكيرشن",
+          "منطقة راين سيج"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2103,
+    "land": "saarland",
+    "number": 3,
+    "question_de": "Für wie viele Jahre wird der Landtag des Saarlandes gewählt?",
+    "answers_de": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "На сколько лет будет избираться парламент земли Саар?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "На скільки років обиратимуть парламент землі Саар?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "For how many years will the Saarland state parliament be elected?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saarland eyalet parlamentosu kaç yıllığına seçilecek?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پارلمان ایالت زارلند برای چند سال انتخاب می شود؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Pour combien d'années le Parlement du Land de la Sarre sera-t-il élu ?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "كم سنة سيتم انتخاب برلمان ولاية سارلاند؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2104,
+    "land": "saarland",
+    "number": 4,
+    "question_de": "Ab welchem Alter darf man im Saarland bei Kommunalwahlen wählen?",
+    "answers_de": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "С какого возраста разрешено голосовать на местных выборах в Сааре?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "З якого віку можна голосувати на місцевих виборах у Саарі?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "At what age are you allowed to vote in local elections in Saarland?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saarland'da yerel seçimlerde kaç yaşında oy kullanabilirsiniz?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از چه سنی مجاز به شرکت در انتخابات محلی سارلند هستید؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "A quel âge peut-on voter aux élections communales en Sarre ?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "في أي عمر يُسمح لك بالتصويت في الانتخابات المحلية في سارلاند؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2105,
+    "land": "saarland",
+    "number": 5,
+    "question_de": "Welche Farben hat die Landesflagge des Saarlandes?",
+    "answers_de": [
+      "weiß-blau",
+      "schwarz-rot-gold",
+      "schwarz-gelb",
+      "grün-weiß-rot"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какие цвета имеет государственный флаг Саара?",
+        "answers": [
+          "бело-голубой",
+          "черно-красно-золотой",
+          "черно-желтый",
+          "зелено-бело-красный"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Які кольори має державний прапор Саарланду?",
+        "answers": [
+          "біло-блакитний",
+          "чорно-червоно-золотий",
+          "чорно-жовтий",
+          "зелено-біло-червоний"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What colors does the state flag of Saarland have?",
+        "answers": [
+          "white-blue",
+          "black-red-gold",
+          "black-yellow",
+          "green-white-red"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saarland eyalet bayrağının renkleri nelerdir?",
+        "answers": [
+          "beyaz-mavi",
+          "siyah-kırmızı-altın",
+          "siyah-sarı",
+          "yeşil-beyaz-kırmızı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پرچم ایالت زارلند چه رنگ هایی دارد؟",
+        "answers": [
+          "سفید-آبی",
+          "سیاه-قرمز-طلایی",
+          "سیاه-زرد",
+          "سبز-سفید-قرمز"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles sont les couleurs du drapeau national de la Sarre ?",
+        "answers": [
+          "blanc-bleu",
+          "noir-rouge-or",
+          "noir-jaune",
+          "vert-blanc-rouge"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي ألوان علم ولاية سارلاند؟",
+        "answers": [
+          "الأبيض والأزرق",
+          "أسود-أحمر-ذهبي",
+          "أسود أصفر",
+          "الأخضر والأبيض والأحمر"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2106,
+    "land": "saarland",
+    "number": 6,
+    "question_de": "Wo können Sie sich im Saarland über politische Themen informieren?",
+    "answers_de": [
+      "bei den Kirchen",
+      "bei der Landeszentrale für politische Bildung",
+      "bei der Verbraucherzentrale",
+      "beim Ordnungsamt der Gemeinde"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Где можно узнать о политических проблемах в Сааре?",
+        "answers": [
+          "в церквях",
+          "в Государственном центре гражданского образования",
+          "в центре консультирования потребителей",
+          "в городском отделе общественного порядка"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Де можна дізнатися про політичні питання в Саарі?",
+        "answers": [
+          "при церквах",
+          "у Державному центрі громадянської освіти",
+          "в центрі консультації споживачів",
+          "в міському відділі громадського порядку"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Where can you find out about political issues in Saarland?",
+        "answers": [
+          "at the churches",
+          "at the State Center for Civic Education",
+          "at the consumer advice center",
+          "at the municipal public order office"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saarland'daki siyasi konular hakkında nereden bilgi edinebilirsiniz?",
+        "answers": [
+          "kiliselerde",
+          "Eyalet Sivil Eğitim Merkezi'nde",
+          "tüketici danışma merkezinde",
+          "belediye asayiş ofisinde"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از کجا می توانید از مسائل سیاسی در زارلند مطلع شوید؟",
+        "answers": [
+          "در کلیساها",
+          "در مرکز دولتی آموزش مدنی",
+          "در مرکز مشاوره مصرف کننده",
+          "در اداره نظم عمومی شهرداری"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Où s’informer sur les enjeux politiques en Sarre ?",
+        "answers": [
+          "dans les églises",
+          "au Centre d'État pour l'éducation civique",
+          "au centre de conseil aux consommateurs",
+          "au bureau municipal de l'ordre public"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أين يمكنك التعرف على القضايا السياسية في سارلاند؟",
+        "answers": [
+          "عند الكنائس",
+          "في مركز الدولة للتربية المدنية",
+          "في مركز استشارات المستهلك",
+          "في مكتب النظام العام بالبلدية"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2107,
+    "land": "saarland",
+    "number": 7,
+    "question_de": "Die Landeshauptstadt des Saarlandes heißt ...",
+    "answers_de": [
+      "Neunkirchen.",
+      "Homburg.",
+      "Saarbrücken.",
+      "Völklingen."
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Столица земли Саар называется...",
+        "answers": [
+          "Нойнкирхен.",
+          "Гомбург.",
+          "Саарбрюккен.",
+          "Фельклинген."
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Столиця землі Саарланд називається...",
+        "answers": [
+          "Нойнкірхен.",
+          "Гомбург.",
+          "Саарбрюкен.",
+          "Völklingen."
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "The state capital of Saarland is called...",
+        "answers": [
+          "Neunkirchen.",
+          "Homburg.",
+          "Saarbrücken.",
+          "Völklingen."
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saarland eyaletinin başkentinin adı...",
+        "answers": [
+          "Neunkirchen.",
+          "Homburg.",
+          "Saarbrücken.",
+          "Völklingen."
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "مرکز ایالت زارلند نام دارد...",
+        "answers": [
+          "Neunkirchen.",
+          "هامبورگ",
+          "ساربروکن",
+          "وکلینگن."
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "La capitale du Land de la Sarre s'appelle...",
+        "answers": [
+          "Neunkirchen.",
+          "Hombourg.",
+          "Sarrebruck.",
+          "Vœlklange."
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "عاصمة ولاية سارلاند تسمى...",
+        "answers": [
+          "نيونكيرشن.",
+          "هومبورغ.",
+          "ساربروكن.",
+          "فولكلينجن."
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2108,
+    "land": "saarland",
+    "number": 8,
+    "question_de": "Welches Bundesland ist das Saarland?",
+    "answers_de": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой федеральной землей является Саар?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Яка федеральна земля є Сааром?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which federal state is Saarland?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saarland hangi federal eyalettir?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ایالت فدرال سارلند است؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "De quel Land est la Sarre ?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي الولاية الفيدرالية سارلاند؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "saarland_008"
+  },
+  {
+    "id": 2109,
+    "land": "saarland",
+    "number": 9,
+    "question_de": "Wie nennt man die Regierungschefin/den Regierungschef des Saarlandes?",
+    "answers_de": [
+      "Erste Ministerin/Erster Minister",
+      "Premierministerin/Premierminister",
+      "Bürgermeisterin/Bürgermeister",
+      "Ministerpräsidentin/Ministerpräsident"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Как вы называете главу правительства Саара?",
+        "answers": [
+          "Первый министр",
+          "Премьер-министр/Премьер-министр",
+          "Мэр/Мэр",
+          "Премьер-министр/Премьер-министр"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Як ви називаєте главу уряду землі Саар?",
+        "answers": [
+          "Перший міністр",
+          "Прем'єр-міністр/Прем'єр-міністр",
+          "Мер/мер",
+          "Прем'єр-міністр/Прем'єр-міністр"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What do you call the head of government of Saarland?",
+        "answers": [
+          "First Minister",
+          "Prime Minister/Prime Minister",
+          "Mayor/Mayor",
+          "Prime Minister/Prime Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saarland hükümetinin başkanına ne denir?",
+        "answers": [
+          "Birinci Bakan",
+          "Başbakan / Başbakan",
+          "Belediye Başkanı/Belediye Başkanı",
+          "Başbakan / Başbakan"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "به رئیس دولت زارلند چه می گویید؟",
+        "answers": [
+          "وزیر اول",
+          "نخست وزیر/نخست وزیر",
+          "شهردار/شهردار",
+          "نخست وزیر/نخست وزیر"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Comment appelle-t-on le chef du gouvernement de la Sarre ?",
+        "answers": [
+          "Premier ministre",
+          "Premier ministre/Premier ministre",
+          "Maire/Maire",
+          "Premier ministre/Premier ministre"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ماذا تسمون رئيس حكومة سارلاند؟",
+        "answers": [
+          "الوزير الأول",
+          "رئيس الوزراء / رئيس الوزراء",
+          "عمدة / عمدة",
+          "رئيس الوزراء / رئيس الوزراء"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2110,
+    "land": "saarland",
+    "number": 10,
+    "question_de": "Welche Ministerin/welchen Minister hat das Saarland nicht?",
+    "answers_de": [
+      "Justizministerin/Justizminister",
+      "Außenministerin/Außenminister",
+      "Finanzministerin/Finanzminister",
+      "Innenministerin/Innenminister"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какого министра нет в Сааре?",
+        "answers": [
+          "Министр юстиции/Министр юстиции",
+          "Министр иностранных дел/Министр иностранных дел",
+          "Министр финансов/Министр финансов",
+          "министр внутренних дел"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Якого міністра немає в Саарі?",
+        "answers": [
+          "Міністр юстиції/Міністр юстиції",
+          "Міністр закордонних справ/міністр закордонних справ",
+          "Міністр фінансів/міністр фінансів",
+          "Міністр внутрішніх справ"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which minister does Saarland not have?",
+        "answers": [
+          "Minister of Justice/Minister of Justice",
+          "Foreign Minister/Foreign Minister",
+          "Finance Minister/Finance Minister",
+          "Interior Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saarland'ın hangi bakanı yok?",
+        "answers": [
+          "Adalet Bakanı/Adalet Bakanı",
+          "Dışişleri Bakanı / Dışişleri Bakanı",
+          "Maliye Bakanı / Maliye Bakanı",
+          "İçişleri Bakanı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "سارلند کدام وزیر را ندارد؟",
+        "answers": [
+          "وزیر دادگستری / وزیر دادگستری",
+          "وزیر امور خارجه / وزیر امور خارجه",
+          "وزیر دارایی / وزیر دارایی",
+          "وزیر کشور"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel ministre la Sarre n'a-t-elle pas ?",
+        "answers": [
+          "Ministre de la Justice/Ministre de la Justice",
+          "Ministre des Affaires étrangères/Ministre des Affaires étrangères",
+          "Ministre des Finances/Ministre des Finances",
+          "Ministre de l'Intérieur"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "من هو الوزير الذي لا يوجد في سارلاند؟",
+        "answers": [
+          "وزير العدل/وزير العدل",
+          "وزير الخارجية/وزير الخارجية",
+          "وزير المالية/وزير المالية",
+          "وزير الداخلية"
+        ],
+        "explanation": ""
+      }
+    }
+  }
+]

@@ -1,0 +1,874 @@
+[
+  {
+    "id": 1701,
+    "land": "mecklenburg-vorpommern",
+    "number": 1,
+    "question_de": "Welches Wappen gehört zum Bundesland Mecklenburg-Vorpommern?",
+    "answers_de": [
+      "Rotes Wappen mit weißen Löwen und Sternen auf Blau",
+      "Roter Adler auf weißem Schild",
+      "Ochsenkopf und roter Greif auf gelbem Wappen",
+      "Weißes Pferd auf rotem Schild"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой герб принадлежит федеральной земле Мекленбург-Передняя Померания?",
+        "answers": [
+          "Красный герб с белыми львами и звездами на синем фоне.",
+          "Красный орел на белом щите",
+          "Голова быка и красный грифон на желтом гербе",
+          "Белый конь на красном щите"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який герб належить федеральній землі Мекленбург-Передня Померанія?",
+        "answers": [
+          "Червоний герб із білими левами та зірками на синьому",
+          "Червоний орел на білому щиті",
+          "Голова бика та червоний грифон на жовтому гербі",
+          "Білий кінь на червоному щиті"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which coat of arms belongs to the federal state of Mecklenburg-Western Pomerania?",
+        "answers": [
+          "Red coat of arms with white lions and stars on blue",
+          "Red eagle on white shield",
+          "Ox head and red griffin on a yellow coat of arms",
+          "White horse on a red shield"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hangi arması Mecklenburg-Batı Pomeranya federal eyaletine aittir?",
+        "answers": [
+          "Mavi üzerine beyaz aslanlar ve yıldızlar bulunan kırmızı arması",
+          "Beyaz kalkan üzerinde kızıl kartal",
+          "Sarı bir arma üzerinde öküz başı ve kırmızı grifon",
+          "Kırmızı kalkanlı beyaz at"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام نشان متعلق به ایالت فدرال مکلنبورگ-پومرانی غربی است؟",
+        "answers": [
+          "نشان قرمز رنگ با شیرهای سفید و ستاره روی آبی",
+          "عقاب قرمز روی سپر سفید",
+          "سر گاو و گریفین قرمز روی یک نشان زرد رنگ",
+          "اسب سفید روی سپر قرمز"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles armoiries appartiennent au Land de Mecklembourg-Poméranie occidentale ?",
+        "answers": [
+          "Armoiries rouges avec lions blancs et étoiles sur bleu",
+          "Aigle rouge sur bouclier blanc",
+          "Tête de bœuf et griffon rouge sur blason jaune",
+          "Cheval blanc sur un bouclier rouge"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هو شعار النبالة الذي ينتمي إلى ولاية مكلنبورغ-فوربومرن الفيدرالية؟",
+        "answers": [
+          "معطف أحمر من الأسلحة مع الأسود البيضاء والنجوم باللون الأزرق",
+          "النسر الأحمر على الدرع الأبيض",
+          "رأس الثور والغريفين الأحمر على معطف أصفر من الأسلحة",
+          "حصان أبيض على درع أحمر"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "mecklenburg_vorpommern_001"
+  },
+  {
+    "id": 1702,
+    "land": "mecklenburg-vorpommern",
+    "number": 2,
+    "question_de": "Welches ist ein Landkreis in Mecklenburg-Vorpommern?",
+    "answers_de": [
+      "Prignitz",
+      "Mecklenburgische Seenplatte",
+      "Vogtlandkreis",
+      "Rhein-Sieg-Kreis"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой район в земле Мекленбург-Передняя Померания?",
+        "answers": [
+          "Пригниц",
+          "Мекленбургское поозерье",
+          "Фогтландский район",
+          "Райн-Зиг"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який район у землі Мекленбург-Передня Померанія?",
+        "answers": [
+          "Прігніц",
+          "Мекленбурзьке озеро",
+          "Район Фогтланд",
+          "район Рейн-Зіг"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which is a district in Mecklenburg-Western Pomerania?",
+        "answers": [
+          "Prignitz",
+          "Mecklenburg Lake District",
+          "Vogtland district",
+          "Rhein-Sieg district"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Mecklenburg-Batı Pomeranya'da bir bölge hangisidir?",
+        "answers": [
+          "Prignitz",
+          "Mecklenburg Göller Bölgesi",
+          "Vogtland bölgesi",
+          "Rhein-Sieg bölgesi"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ناحیه در مکلنبورگ-پومرانی غربی است؟",
+        "answers": [
+          "پریگنیتز",
+          "منطقه دریاچه مکلنبورگ",
+          "منطقه وگتلند",
+          "منطقه راین-زیگ"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Qu'est-ce qu'un quartier du Mecklembourg-Poméranie occidentale ?",
+        "answers": [
+          "Prignitz",
+          "Région des lacs du Mecklembourg",
+          "Quartier du Vogtland",
+          "Quartier Rhin-Sieg"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي منطقة مكلنبورغ-فوربومرن؟",
+        "answers": [
+          "بريجنيتز",
+          "منطقة بحيرة مكلنبورغ",
+          "منطقة فوجتلاند",
+          "منطقة راين سيج"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1703,
+    "land": "mecklenburg-vorpommern",
+    "number": 3,
+    "question_de": "Für wie viele Jahre wird der Landtag in Mecklenburg-Vorpommern gewählt?",
+    "answers_de": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "На сколько лет будет избираться парламент земли Мекленбург-Передняя Померания?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "На скільки років обиратимуть парламент землі Мекленбург-Передня Померанія?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "For how many years will the state parliament in Mecklenburg-Western Pomerania be elected?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Mecklenburg-Batı Pomeranya'daki eyalet parlamentosu kaç yıllığına seçilecek?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پارلمان ایالتی مکلنبورگ-پومرانی غربی برای چند سال انتخاب خواهد شد؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Pour combien d'années le parlement du Land de Mecklembourg-Poméranie occidentale sera-t-il élu ?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "كم سنة سيتم انتخاب برلمان ولاية مكلنبورغ-فوربومرن؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1704,
+    "land": "mecklenburg-vorpommern",
+    "number": 4,
+    "question_de": "Ab welchem Alter darf man in Mecklenburg-Vorpommern bei Kommunalwahlen wählen?",
+    "answers_de": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "С какого возраста разрешено голосовать на местных выборах в земле Мекленбург-Передняя Померания?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "З якого віку можна голосувати на місцевих виборах у землі Мекленбург-Передня Померанія?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "At what age are you allowed to vote in local elections in Mecklenburg-Western Pomerania?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Mecklenburg-Batı Pomeranya'da yerel seçimlerde hangi yaşta oy kullanabilirsiniz?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از چه سنی مجاز به رای دادن در انتخابات محلی مکلنبورگ- وسترن پومرانیا هستید؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "À quel âge peut-on voter aux élections locales en Mecklembourg-Poméranie occidentale ?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "في أي عمر يُسمح لك بالتصويت في الانتخابات المحلية في مكلنبورغ-فوربومرن؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1705,
+    "land": "mecklenburg-vorpommern",
+    "number": 5,
+    "question_de": "Welche Farben hat die Landesflagge von Mecklenburg-Vorpommern?",
+    "answers_de": [
+      "schwarz-rot-gold",
+      "blau-weiß-gelb-rot",
+      "grün-weiß-rot",
+      "schwarz-gelb"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какие цвета имеет государственный флаг земли Мекленбург-Передняя Померания?",
+        "answers": [
+          "черно-красно-золотой",
+          "сине-бело-желто-красный",
+          "зелено-бело-красный",
+          "черно-желтый"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Які кольори має державний прапор Мекленбург-Передня Померанія?",
+        "answers": [
+          "чорно-червоно-золотий",
+          "синьо-білий-жовто-червоний",
+          "зелено-біло-червоний",
+          "чорно-жовтий"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What colors does the state flag of Mecklenburg-Western Pomerania have?",
+        "answers": [
+          "black-red-gold",
+          "blue-white-yellow-red",
+          "green-white-red",
+          "black-yellow"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Mecklenburg-Batı Pomeranya eyalet bayrağında hangi renkler var?",
+        "answers": [
+          "siyah-kırmızı-altın",
+          "mavi-beyaz-sarı-kırmızı",
+          "yeşil-beyaz-kırmızı",
+          "siyah-sarı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پرچم ایالت مکلنبورگ-پومرانی غربی چه رنگ هایی دارد؟",
+        "answers": [
+          "سیاه-قرمز-طلایی",
+          "آبی-سفید-زرد-قرمز",
+          "سبز-سفید-قرمز",
+          "سیاه-زرد"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles sont les couleurs du drapeau national du Mecklembourg-Poméranie occidentale ?",
+        "answers": [
+          "noir-rouge-or",
+          "bleu-blanc-jaune-rouge",
+          "vert-blanc-rouge",
+          "noir-jaune"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي ألوان علم ولاية مكلنبورغ-فوربومرن؟",
+        "answers": [
+          "أسود-أحمر-ذهبي",
+          "الأزرق والأبيض والأصفر والأحمر",
+          "الأخضر والأبيض والأحمر",
+          "أسود أصفر"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1706,
+    "land": "mecklenburg-vorpommern",
+    "number": 6,
+    "question_de": "Wo können Sie sich in Mecklenburg-Vorpommern über politische Themen informieren?",
+    "answers_de": [
+      "bei der Landeszentrale für politische Bildung",
+      "bei den Kirchen",
+      "beim Ordnungsamt der Gemeinde",
+      "bei der Verbraucherzentrale"
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Где можно узнать о политических проблемах в земле Мекленбург-Передняя Померания?",
+        "answers": [
+          "в Государственном центре гражданского образования",
+          "в церквях",
+          "в городском отделе общественного порядка",
+          "в центре консультирования потребителей"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Де можна дізнатися про політичні питання в землі Мекленбург-Передня Померанія?",
+        "answers": [
+          "у Державному центрі громадянської освіти",
+          "при церквах",
+          "в міському відділі громадського порядку",
+          "в центрі консультації споживачів"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Where can you find out about political issues in Mecklenburg-Western Pomerania?",
+        "answers": [
+          "at the State Center for Civic Education",
+          "at the churches",
+          "at the municipal public order office",
+          "at the consumer advice center"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Mecklenburg-Batı Pomeranya'daki siyasi konular hakkında nereden bilgi edinebilirsiniz?",
+        "answers": [
+          "Eyalet Sivil Eğitim Merkezi'nde",
+          "kiliselerde",
+          "belediye asayiş ofisinde",
+          "tüketici danışma merkezinde"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از کجا می توانید در مورد مسائل سیاسی در مکلنبورگ-پومرانی غربی مطلع شوید؟",
+        "answers": [
+          "در مرکز دولتی آموزش مدنی",
+          "در کلیساها",
+          "در اداره نظم عمومی شهرداری",
+          "در مرکز مشاوره مصرف کننده"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Où peut-on s'informer sur les questions politiques en Mecklembourg-Poméranie occidentale ?",
+        "answers": [
+          "au Centre d'État pour l'éducation civique",
+          "dans les églises",
+          "au bureau municipal de l'ordre public",
+          "au centre de conseil aux consommateurs"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أين يمكنك التعرف على القضايا السياسية في مكلنبورغ-فوربومرن؟",
+        "answers": [
+          "في مركز الدولة للتربية المدنية",
+          "عند الكنائس",
+          "في مكتب النظام العام بالبلدية",
+          "في مركز استشارات المستهلك"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1707,
+    "land": "mecklenburg-vorpommern",
+    "number": 7,
+    "question_de": "Die Landeshauptstadt von Mecklenburg-Vorpommern heißt ...",
+    "answers_de": [
+      "Greifswald.",
+      "Schwerin.",
+      "Rostock.",
+      "Wismar."
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Столица земли Мекленбург-Передняя Померания называется...",
+        "answers": [
+          "Грайфсвальд.",
+          "Шверин.",
+          "Росток.",
+          "Висмар."
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Столиця землі Мекленбург-Передня Померанія називається...",
+        "answers": [
+          "Грайфсвальд.",
+          "Шверін.",
+          "Росток.",
+          "Вісмар."
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "The state capital of Mecklenburg-Western Pomerania is called...",
+        "answers": [
+          "Greifswald.",
+          "Schwerin.",
+          "Rostock.",
+          "Wismar."
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Mecklenburg-Batı Pomeranya eyaletinin başkentinin adı...",
+        "answers": [
+          "Greifswald.",
+          "Schwerin.",
+          "Rostock.",
+          "Wismar."
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "مرکز ایالت مکلنبورگ-پومرانی غربی نام دارد...",
+        "answers": [
+          "گریفسوالد.",
+          "شورین.",
+          "روستوک",
+          "ویسمار."
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "La capitale du Land de Mecklembourg-Poméranie occidentale s'appelle...",
+        "answers": [
+          "Greifswald.",
+          "Schwerin.",
+          "Rostock.",
+          "Wismar."
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "تسمى عاصمة ولاية مكلنبورغ-فوربومرن...",
+        "answers": [
+          "غرايفسفالد.",
+          "شفيرين.",
+          "روستوك.",
+          "فيسمار."
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1708,
+    "land": "mecklenburg-vorpommern",
+    "number": 8,
+    "question_de": "Welches Bundesland ist Mecklenburg-Vorpommern?",
+    "answers_de": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какая федеральная земля является Мекленбург-Передней Померанией?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Яка федеральна земля є Мекленбург-Передня Померанія?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which federal state is Mecklenburg-Western Pomerania?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Mecklenburg-Batı Pomeranya hangi federal eyalettir?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "مکلنبورگ-پومرانی غربی کدام ایالت فدرال است؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel Land est le Mecklembourg-Poméranie occidentale ?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي الولاية الفيدرالية التي هي مكلنبورغ-فوربومرن؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "mecklenburg_vorpommern_008"
+  },
+  {
+    "id": 1709,
+    "land": "mecklenburg-vorpommern",
+    "number": 9,
+    "question_de": "Wie nennt man die Regierungschefin/den Regierungschef in Mecklenburg-Vorpommern?",
+    "answers_de": [
+      "Erste Ministerin/Erster Minister",
+      "Premierministerin/Premierminister",
+      "Bürgermeisterin/Bürgermeister",
+      "Ministerpräsidentin/Ministerpräsident"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Как вы называете главу правительства земли Мекленбург-Передняя Померания?",
+        "answers": [
+          "Первый министр",
+          "Премьер-министр/Премьер-министр",
+          "Мэр/Мэр",
+          "Премьер-министр/Премьер-министр"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Як ви називаєте главу уряду землі Мекленбург-Передня Померанія?",
+        "answers": [
+          "Перший міністр",
+          "Прем'єр-міністр/Прем'єр-міністр",
+          "Мер/мер",
+          "Прем'єр-міністр/Прем'єр-міністр"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What do you call the head of government in Mecklenburg-Western Pomerania?",
+        "answers": [
+          "First Minister",
+          "Prime Minister/Prime Minister",
+          "Mayor/Mayor",
+          "Prime Minister/Prime Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Mecklenburg-Batı Pomeranya'daki hükümet başkanına ne diyorsunuz?",
+        "answers": [
+          "Birinci Bakan",
+          "Başbakan / Başbakan",
+          "Belediye Başkanı/Belediye Başkanı",
+          "Başbakan / Başbakan"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "شما رئیس دولت مکلنبورگ-پومرانی غربی را چه می نامید؟",
+        "answers": [
+          "وزیر اول",
+          "نخست وزیر/نخست وزیر",
+          "شهردار/شهردار",
+          "نخست وزیر/نخست وزیر"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Comment appelle-t-on le chef du gouvernement du Mecklembourg-Poméranie occidentale ?",
+        "answers": [
+          "Premier ministre",
+          "Premier ministre/Premier ministre",
+          "Maire/Maire",
+          "Premier ministre/Premier ministre"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ماذا تسمون رئيس الحكومة في مكلنبورغ-بوميرانيا الغربية؟",
+        "answers": [
+          "الوزير الأول",
+          "رئيس الوزراء / رئيس الوزراء",
+          "عمدة / عمدة",
+          "رئيس الوزراء / رئيس الوزراء"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1710,
+    "land": "mecklenburg-vorpommern",
+    "number": 10,
+    "question_de": "Welche Ministerin/welchen Minister hat Mecklenburg-Vorpommern nicht?",
+    "answers_de": [
+      "Justizministerin/Justizminister",
+      "Außenministerin/Außenminister",
+      "Finanzministerin/Finanzminister",
+      "Innenministerin/Innenminister"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какого министра нет в земле Мекленбург-Передняя Померания?",
+        "answers": [
+          "Министр юстиции/Министр юстиции",
+          "Министр иностранных дел/Министр иностранных дел",
+          "Министр финансов/Министр финансов",
+          "министр внутренних дел"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Якого міністра не має Мекленбург-Передня Померанія?",
+        "answers": [
+          "Міністр юстиції/Міністр юстиції",
+          "Міністр закордонних справ/міністр закордонних справ",
+          "Міністр фінансів/міністр фінансів",
+          "Міністр внутрішніх справ"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which minister does Mecklenburg-Western Pomerania not have?",
+        "answers": [
+          "Minister of Justice/Minister of Justice",
+          "Foreign Minister/Foreign Minister",
+          "Finance Minister/Finance Minister",
+          "Interior Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Mecklenburg-Batı Pomeranya'nın hangi bakanı yok?",
+        "answers": [
+          "Adalet Bakanı/Adalet Bakanı",
+          "Dışişleri Bakanı / Dışişleri Bakanı",
+          "Maliye Bakanı / Maliye Bakanı",
+          "İçişleri Bakanı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "مکلنبورگ وسترن پومرانیا کدام وزیر را ندارد؟",
+        "answers": [
+          "وزیر دادگستری / وزیر دادگستری",
+          "وزیر امور خارجه / وزیر امور خارجه",
+          "وزیر دارایی / وزیر دارایی",
+          "وزیر کشور"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel ministre le Mecklembourg-Poméranie occidentale n'a-t-il pas ?",
+        "answers": [
+          "Ministre de la Justice/Ministre de la Justice",
+          "Ministre des Affaires étrangères/Ministre des Affaires étrangères",
+          "Ministre des Finances/Ministre des Finances",
+          "Ministre de l'Intérieur"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "من هو الوزير الذي لا يوجد في مكلنبورغ-فوربومرن؟",
+        "answers": [
+          "وزير العدل/وزير العدل",
+          "وزير الخارجية/وزير الخارجية",
+          "وزير المالية/وزير المالية",
+          "وزير الداخلية"
+        ],
+        "explanation": ""
+      }
+    }
+  }
+]

@@ -1,0 +1,874 @@
+[
+  {
+    "id": 1201,
+    "land": "berlin",
+    "number": 1,
+    "question_de": "Welches Wappen gehört zum Bundesland Berlin?",
+    "answers_de": [
+      "Weißes Schloss mit Türmen auf rotem Schild",
+      "Silberner Schlüssel auf rotem Schild",
+      "Weißer Löwe auf blau-weißem Wappen",
+      "Schwarzer Bär auf weißem Schild mit Krone"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой герб принадлежит федеральной земле Берлин?",
+        "answers": [
+          "Белый замок с башнями на красном щите",
+          "Серебряный ключ на красном щите",
+          "Белый лев на сине-белом гербе",
+          "Черный медведь на белом щите с короной"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який герб належить федеральній землі Берлін?",
+        "answers": [
+          "Білий замок з вежами на червоному щиті",
+          "Срібний ключ на червоному щиті",
+          "Білий лев на синьо-білому гербі",
+          "Чорний ведмідь на білому щиті з короною"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which coat of arms belongs to the federal state of Berlin?",
+        "answers": [
+          "White castle with towers on red shield",
+          "Silver key on red shield",
+          "White lion on blue and white coat of arms",
+          "Black bear on white shield with crown"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hangi arması Berlin federal eyaletine aittir?",
+        "answers": [
+          "Kırmızı kalkan üzerinde kuleleri olan beyaz kale",
+          "Kırmızı kalkandaki gümüş anahtar",
+          "Mavi ve beyaz arması üzerinde beyaz aslan",
+          "Beyaz kalkan üzerinde taçlı siyah ayı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام نشان متعلق به ایالت فدرال برلین است؟",
+        "answers": [
+          "قلعه سفید با برج های روی سپر قرمز",
+          "کلید نقره ای روی سپر قرمز",
+          "شیر سفید روی نشان آبی و سفید",
+          "خرس سیاه روی سپر سفید با تاج"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles armoiries appartiennent à l'État fédéral de Berlin ?",
+        "answers": [
+          "Château blanc avec tours sur bouclier rouge",
+          "Clé argentée sur bouclier rouge",
+          "Lion blanc sur armoiries bleues et blanches",
+          "Ours noir sur bouclier blanc avec couronne"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هو شعار النبالة الذي ينتمي إلى ولاية برلين الفيدرالية؟",
+        "answers": [
+          "القلعة البيضاء مع الأبراج على الدرع الأحمر",
+          "المفتاح الفضي على الدرع الأحمر",
+          "أسد أبيض على معطف من الأسلحة باللونين الأزرق والأبيض",
+          "الدب الأسود على الدرع الأبيض مع التاج"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "berlin_001"
+  },
+  {
+    "id": 1202,
+    "land": "berlin",
+    "number": 2,
+    "question_de": "Welches ist ein Bezirk von Berlin?",
+    "answers_de": [
+      "Altona",
+      "Prignitz",
+      "Pankow",
+      "Mecklenburgische Seenplatte"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой район Берлина?",
+        "answers": [
+          "Альтона",
+          "Пригниц",
+          "Панков",
+          "Мекленбургское поозерье"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який район Берліна?",
+        "answers": [
+          "Альтона",
+          "Прігніц",
+          "Паньков",
+          "Мекленбурзьке озеро"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which is a district of Berlin?",
+        "answers": [
+          "Altona",
+          "Prignitz",
+          "Pankow",
+          "Mecklenburg Lake District"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Berlin'in bir bölgesi hangisidir?",
+        "answers": [
+          "Altona",
+          "Prignitz",
+          "Pankow",
+          "Mecklenburg Göller Bölgesi"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ناحیه از برلین است؟",
+        "answers": [
+          "آلتونا",
+          "پریگنیتز",
+          "پانکو",
+          "منطقه دریاچه مکلنبورگ"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel est un quartier de Berlin ?",
+        "answers": [
+          "Altona",
+          "Prignitz",
+          "Pankow",
+          "Région des lacs du Mecklembourg"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي منطقة برلين؟",
+        "answers": [
+          "التونا",
+          "بريجنيتز",
+          "بانكوف",
+          "منطقة بحيرة مكلنبورغ"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1203,
+    "land": "berlin",
+    "number": 3,
+    "question_de": "Für wie viele Jahre wird das Landesparlament in Berlin gewählt?",
+    "answers_de": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "На сколько лет будет избираться государственный парламент в Берлине?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "На скільки років обиратимуть парламент землі в Берліні?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "For how many years will the state parliament in Berlin be elected?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Berlin'deki eyalet parlamentosu kaç yıllığına seçilecek?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پارلمان ایالتی در برلین برای چند سال انتخاب می شود؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Pour combien d’années le parlement du Land de Berlin sera-t-il élu ?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "كم سنة سيتم انتخاب برلمان الولاية في برلين؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1204,
+    "land": "berlin",
+    "number": 4,
+    "question_de": "Ab welchem Alter darf man in Berlin bei Kommunalwahlen (Wahl der Bezirksverordnetenversammlung) wählen?",
+    "answers_de": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "В каком возрасте разрешено голосовать на местных выборах (выборах в окружные советы) в Берлине?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "З якого віку можна голосувати на місцевих виборах (виборах до окружної ради) у Берліні?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "At what age are you allowed to vote in local elections (district council elections) in Berlin?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Berlin'deki yerel seçimlerde (bölge meclisi seçimleri) hangi yaşta oy kullanabilirsiniz?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از چه سنی مجاز به شرکت در انتخابات محلی (انتخابات شورای منطقه) در برلین هستید؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "À quel âge peut-on voter aux élections communales (élections des conseils de district) à Berlin ?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "في أي عمر يُسمح لك بالتصويت في الانتخابات المحلية (انتخابات المجالس المحلية) في برلين؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1205,
+    "land": "berlin",
+    "number": 5,
+    "question_de": "Welche Farben hat die Landesflagge von Berlin?",
+    "answers_de": [
+      "blau-weiß-rot",
+      "weiß-rot",
+      "grün-weiß-rot",
+      "schwarz-gold"
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какие цвета имеет государственный флаг Берлина?",
+        "answers": [
+          "сине-бело-красный",
+          "бело-красный",
+          "зелено-бело-красный",
+          "черно-золотой"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Які кольори має державний прапор Берліна?",
+        "answers": [
+          "синьо-біло-червоний",
+          "біло-червоний",
+          "зелено-біло-червоний",
+          "чорно-золотий"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What colors does the state flag of Berlin have?",
+        "answers": [
+          "blue-white-red",
+          "white-red",
+          "green-white-red",
+          "black-gold"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Berlin eyalet bayrağında hangi renkler var?",
+        "answers": [
+          "mavi-beyaz-kırmızı",
+          "beyaz-kırmızı",
+          "yeşil-beyaz-kırmızı",
+          "siyah-altın"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پرچم ایالت برلین چه رنگ هایی دارد؟",
+        "answers": [
+          "آبی-سفید-قرمز",
+          "سفید قرمز",
+          "سبز-سفید-قرمز",
+          "طلایی سیاه"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles sont les couleurs du drapeau national de Berlin ?",
+        "answers": [
+          "bleu-blanc-rouge",
+          "blanc-rouge",
+          "vert-blanc-rouge",
+          "noir-or"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي ألوان علم ولاية برلين؟",
+        "answers": [
+          "الأزرق والأبيض والأحمر",
+          "الأبيض والأحمر",
+          "الأخضر والأبيض والأحمر",
+          "الذهب الأسود"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1206,
+    "land": "berlin",
+    "number": 6,
+    "question_de": "Wo können Sie sich in Berlin über politische Themen informieren?",
+    "answers_de": [
+      "beim Ordnungsamt der Gemeinde",
+      "bei den Kirchen",
+      "bei der Verbraucherzentrale",
+      "bei der Landeszentrale für politische Bildung"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Где можно узнать о политических проблемах в Берлине?",
+        "answers": [
+          "в городском отделе общественного порядка",
+          "в церквях",
+          "в центре консультирования потребителей",
+          "в Государственном центре гражданского образования"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Де можна дізнатися про політичні питання в Берліні?",
+        "answers": [
+          "в міському відділі громадського порядку",
+          "при церквах",
+          "в центрі консультації споживачів",
+          "у Державному центрі громадянської освіти"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Where can you find out about political issues in Berlin?",
+        "answers": [
+          "at the municipal public order office",
+          "at the churches",
+          "at the consumer advice center",
+          "at the State Center for Civic Education"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Berlin'deki siyasi konular hakkında nereden bilgi edinebilirsiniz?",
+        "answers": [
+          "belediye asayiş ofisinde",
+          "kiliselerde",
+          "tüketici danışma merkezinde",
+          "Eyalet Sivil Eğitim Merkezi'nde"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از کجا می توانید از مسائل سیاسی در برلین مطلع شوید؟",
+        "answers": [
+          "در اداره نظم عمومی شهرداری",
+          "در کلیساها",
+          "در مرکز مشاوره مصرف کننده",
+          "در مرکز دولتی آموزش مدنی"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Où s’informer sur les enjeux politiques à Berlin ?",
+        "answers": [
+          "au bureau municipal de l'ordre public",
+          "dans les églises",
+          "au centre de conseil aux consommateurs",
+          "au Centre d'État pour l'éducation civique"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أين يمكنك التعرف على القضايا السياسية في برلين؟",
+        "answers": [
+          "في مكتب النظام العام بالبلدية",
+          "عند الكنائس",
+          "في مركز استشارات المستهلك",
+          "في مركز الدولة للتربية المدنية"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1207,
+    "land": "berlin",
+    "number": 7,
+    "question_de": "Welches Bundesland ist ein Stadtstaat?",
+    "answers_de": [
+      "Berlin",
+      "Saarland",
+      "Brandenburg",
+      "Hessen"
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какая федеральная земля является городом-государством?",
+        "answers": [
+          "Берлин",
+          "Саар",
+          "Бранденбург",
+          "Гессен"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Яка федеральна земля є містом?",
+        "answers": [
+          "Берлін",
+          "Саар",
+          "Бранденбург",
+          "Гессен"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which federal state is a city state?",
+        "answers": [
+          "Berlin",
+          "Saarland",
+          "Brandenburg",
+          "Hesse"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hangi federal eyalet şehir devletidir?",
+        "answers": [
+          "berlin",
+          "Saarland",
+          "Brandenburg",
+          "Hessen"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ایالت فدرال ایالت شهری است؟",
+        "answers": [
+          "برلین",
+          "زارلند",
+          "براندنبورگ",
+          "هسن"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel État fédéral est une cité-État ?",
+        "answers": [
+          "Berlin",
+          "Sarre",
+          "Brandebourg",
+          "Hesse"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي الولاية الفيدرالية التي تعتبر دولة مدينة؟",
+        "answers": [
+          "برلين",
+          "سارلاند",
+          "براندنبورغ",
+          "هيس"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1208,
+    "land": "berlin",
+    "number": 8,
+    "question_de": "Welches Bundesland ist Berlin?",
+    "answers_de": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой федеральной землей является Берлин?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Яка федеральна земля Берлін?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which federal state is Berlin?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Berlin hangi federal eyalettir?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ایالت فدرال برلین است؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel État fédéral est Berlin ?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي الولاية الفيدرالية برلين؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "berlin_008"
+  },
+  {
+    "id": 1209,
+    "land": "berlin",
+    "number": 9,
+    "question_de": "Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Berlin?",
+    "answers_de": [
+      "Ministerpräsidentin/Ministerpräsident",
+      "Oberbürgermeisterin/Oberbürgermeister",
+      "Präsidentin/Präsident des Senates",
+      "Regierende Bürgermeisterin/Regierender Bürgermeister"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Как вы называете главу правительства города-государства Берлин?",
+        "answers": [
+          "Премьер-министр/Премьер-министр",
+          "Мэр/лорд-мэр",
+          "Председатель Сената",
+          "Управляющий мэр"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Як ви називаєте главу уряду міста Берлін?",
+        "answers": [
+          "Прем'єр-міністр/Прем'єр-міністр",
+          "Мер/лорд-мер",
+          "Голова Сенату",
+          "Правлячий мер"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What do you call the head of government of the city state of Berlin?",
+        "answers": [
+          "Prime Minister/Prime Minister",
+          "Mayor/Lord Mayor",
+          "President of the Senate",
+          "Governing Mayor"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Berlin şehir devletinin hükümet başkanına ne denir?",
+        "answers": [
+          "Başbakan / Başbakan",
+          "Belediye Başkanı / Belediye Başkanı",
+          "Senato Başkanı",
+          "Yönetici Belediye Başkanı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "رئیس دولت شهر برلین را چه می نامید؟",
+        "answers": [
+          "نخست وزیر/نخست وزیر",
+          "شهردار/لرد شهردار",
+          "رئیس مجلس سنا",
+          "شهردار حاکم"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Comment appelle-t-on le chef du gouvernement de la cité-État de Berlin ?",
+        "answers": [
+          "Premier ministre/Premier ministre",
+          "Maire/Lord-Maire",
+          "Président du Sénat",
+          "Maire gouverneur"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ماذا تسمي رئيس حكومة ولاية مدينة برلين؟",
+        "answers": [
+          "رئيس الوزراء / رئيس الوزراء",
+          "عمدة / اللورد عمدة",
+          "رئيس مجلس الشيوخ",
+          "عمدة الحكم"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1210,
+    "land": "berlin",
+    "number": 10,
+    "question_de": "Welche Senatorin/welchen Senator hat Berlin nicht?",
+    "answers_de": [
+      "Finanzsenatorin/Finanzsenator",
+      "Innensenatorin/Innensenator",
+      "Senatorin/Senator für Außenbeziehungen",
+      "Justizsenatorin/Justizsenator"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какого сенатора нет в Берлине?",
+        "answers": [
+          "Финансовый сенатор",
+          "Сенатор внутренних дел",
+          "Сенатор по международным отношениям",
+          "Сенатор юстиции"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Якого сенатора немає в Берліні?",
+        "answers": [
+          "Сенатор фінансів",
+          "Сенатор внутрішніх справ",
+          "Сенатор із зовнішніх відносин",
+          "Сенатор юстиції"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which senator does Berlin not have?",
+        "answers": [
+          "Finance Senator",
+          "Interior Senator",
+          "Senator for Foreign Relations",
+          "Senator for Justice"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Berlin'de hangi senatör yok?",
+        "answers": [
+          "Finans Senatörü",
+          "İçişleri Senatörü",
+          "Dış İlişkiler Senatörü",
+          "Adalet Senatörü"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "برلین کدام سناتور را ندارد؟",
+        "answers": [
+          "سناتور امور مالی",
+          "سناتور کشور",
+          "سناتور روابط خارجی",
+          "سناتور عدالت"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel sénateur Berlin n’a-t-il pas ?",
+        "answers": [
+          "Sénateur des Finances",
+          "Sénateur de l'Intérieur",
+          "Sénateur des Relations extérieures",
+          "Sénateur de la Justice"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أي عضو في مجلس الشيوخ لا يوجد في برلين؟",
+        "answers": [
+          "السيناتور المالي",
+          "عضو مجلس الشيوخ الداخلي",
+          "السيناتور للعلاقات الخارجية",
+          "السيناتور من أجل العدالة"
+        ],
+        "explanation": ""
+      }
+    }
+  }
+]

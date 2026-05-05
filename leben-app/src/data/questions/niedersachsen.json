@@ -1,0 +1,874 @@
+[
+  {
+    "id": 1801,
+    "land": "niedersachsen",
+    "number": 1,
+    "question_de": "Welches Wappen gehört zum Bundesland Niedersachsen?",
+    "answers_de": [
+      "Blau-weißes Rautenmuster mit Krone",
+      "Blauer Löwe und weißer Stern auf gelbem Schild",
+      "Weißes Pferd auf rotem Schild",
+      "Gelbe und schwarze Streifen mit grüner Diagonale"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой герб принадлежит федеральной земле Нижняя Саксония?",
+        "answers": [
+          "Синий и белый ромбовидный узор с короной",
+          "Синий лев и белая звезда на желтом щите",
+          "Белый конь на красном щите",
+          "Желтые и черные полосы с зеленой диагональю"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який герб належить федеральній землі Нижня Саксонія?",
+        "answers": [
+          "Синій і білий алмаз візерунок з короною",
+          "Синій лев і біла зірка на жовтому щиті",
+          "Білий кінь на червоному щиті",
+          "Жовто-чорні смуги із зеленою діагоналлю"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which coat of arms belongs to the federal state of Lower Saxony?",
+        "answers": [
+          "Blue and white diamond pattern with crown",
+          "Blue lion and white star on yellow shield",
+          "White horse on a red shield",
+          "Yellow and black stripes with a green diagonal"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hangi arması Aşağı Saksonya eyaletine aittir?",
+        "answers": [
+          "Mavi ve beyaz elmas desenli taç",
+          "Sarı kalkan üzerinde mavi aslan ve beyaz yıldız",
+          "Kırmızı kalkanlı beyaz at",
+          "Yeşil köşegenli sarı ve siyah çizgiler"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام نشان متعلق به ایالت فدرال نیدرزاکسن است؟",
+        "answers": [
+          "الگوی الماس آبی و سفید با تاج",
+          "شیر آبی و ستاره سفید روی سپر زرد",
+          "اسب سفید روی سپر قرمز",
+          "نوارهای زرد و مشکی با مورب سبز"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles armoiries appartiennent au Land de Basse-Saxe ?",
+        "answers": [
+          "Motif diamant bleu et blanc avec couronne",
+          "Lion bleu et étoile blanche sur bouclier jaune",
+          "Cheval blanc sur un bouclier rouge",
+          "Rayures jaunes et noires avec une diagonale verte"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هو شعار النبالة الذي ينتمي إلى ولاية ساكسونيا السفلى الفيدرالية؟",
+        "answers": [
+          "نمط الماس الأزرق والأبيض مع التاج",
+          "الأسد الأزرق والنجمة البيضاء على الدرع الأصفر",
+          "حصان أبيض على درع أحمر",
+          "خطوط صفراء وسوداء بقطر أخضر"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "niedersachsen_001"
+  },
+  {
+    "id": 1802,
+    "land": "niedersachsen",
+    "number": 2,
+    "question_de": "Welches ist ein Landkreis in Niedersachsen?",
+    "answers_de": [
+      "Ammerland",
+      "Rhein-Sieg-Kreis",
+      "Nordfriesland",
+      "Vogtlandkreis"
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой район в Нижней Саксонии?",
+        "answers": [
+          "Аммерланд",
+          "Райн-Зиг",
+          "Северная Фризия",
+          "Фогтландский район"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який район у Нижній Саксонії?",
+        "answers": [
+          "Аммерланд",
+          "район Рейн-Зіг",
+          "Північна Фризія",
+          "Район Фогтланд"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which is a district in Lower Saxony?",
+        "answers": [
+          "Ammerland",
+          "Rhein-Sieg district",
+          "North Frisia",
+          "Vogtland district"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Aşağı Saksonya'da bir bölge hangisidir?",
+        "answers": [
+          "Ammerland",
+          "Rhein-Sieg bölgesi",
+          "Kuzey Frizya",
+          "Vogtland bölgesi"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ناحیه در نیدرزاکسن است؟",
+        "answers": [
+          "آمرلند",
+          "منطقه راین-زیگ",
+          "فریزیای شمالی",
+          "منطقه وگتلند"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Qu'est-ce qu'un quartier de Basse-Saxe ?",
+        "answers": [
+          "Pays d'Ammer",
+          "Quartier Rhin-Sieg",
+          "Frise du Nord",
+          "Quartier du Vogtland"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي منطقة في ولاية سكسونيا السفلى؟",
+        "answers": [
+          "أميرلاند",
+          "منطقة راين سيج",
+          "فريزيا الشمالية",
+          "منطقة فوجتلاند"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1803,
+    "land": "niedersachsen",
+    "number": 3,
+    "question_de": "Für wie viele Jahre wird der Landtag in Niedersachsen gewählt?",
+    "answers_de": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "На сколько лет избирается земельный парламент Нижней Саксонии?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "На скільки років обирається парламент землі в Нижній Саксонії?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "For how many years is the state parliament in Lower Saxony elected?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Aşağı Saksonya eyalet parlamentosu kaç yıllığına seçilir?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پارلمان ایالتی در نیدرزاکسن برای چند سال انتخاب می شود؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Pour combien d'années le parlement du Land de Basse-Saxe est-il élu ?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "كم سنة يتم انتخاب برلمان الولاية في ولاية ساكسونيا السفلى؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1804,
+    "land": "niedersachsen",
+    "number": 4,
+    "question_de": "Ab welchem Alter darf man in Niedersachsen bei Kommunalwahlen wählen?",
+    "answers_de": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "В каком возрасте разрешено голосовать на местных выборах в Нижней Саксонии?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "З якого віку можна голосувати на місцевих виборах у Нижній Саксонії?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "At what age are you allowed to vote in local elections in Lower Saxony?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Aşağı Saksonya'daki yerel seçimlerde hangi yaşta oy kullanabilirsiniz?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از چه سنی مجاز به شرکت در انتخابات محلی در نیدرزاکسن هستید؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "A quel âge peut-on voter aux élections communales en Basse-Saxe ?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "في أي عمر يُسمح لك بالتصويت في الانتخابات المحلية في ولاية ساكسونيا السفلى؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1805,
+    "land": "niedersachsen",
+    "number": 5,
+    "question_de": "Welche Farben hat die Landesflagge von Niedersachsen?",
+    "answers_de": [
+      "weiß-blau",
+      "schwarz-rot-gold",
+      "schwarz-gelb",
+      "blau-weiß-rot"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какие цвета имеет государственный флаг Нижней Саксонии?",
+        "answers": [
+          "бело-голубой",
+          "черно-красно-золотой",
+          "черно-желтый",
+          "сине-бело-красный"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Які кольори має державний прапор Нижньої Саксонії?",
+        "answers": [
+          "біло-блакитний",
+          "чорно-червоно-золотий",
+          "чорно-жовтий",
+          "синьо-біло-червоний"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What colors does the state flag of Lower Saxony have?",
+        "answers": [
+          "white-blue",
+          "black-red-gold",
+          "black-yellow",
+          "blue-white-red"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Aşağı Saksonya eyalet bayrağının renkleri nelerdir?",
+        "answers": [
+          "beyaz-mavi",
+          "siyah-kırmızı-altın",
+          "siyah-sarı",
+          "mavi-beyaz-kırmızı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پرچم ایالت نیدرزاکسن چه رنگ هایی دارد؟",
+        "answers": [
+          "سفید-آبی",
+          "سیاه-قرمز-طلایی",
+          "سیاه-زرد",
+          "آبی-سفید-قرمز"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles sont les couleurs du drapeau national de la Basse-Saxe ?",
+        "answers": [
+          "blanc-bleu",
+          "noir-rouge-or",
+          "noir-jaune",
+          "bleu-blanc-rouge"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي ألوان علم ولاية ساكسونيا السفلى؟",
+        "answers": [
+          "الأبيض والأزرق",
+          "أسود-أحمر-ذهبي",
+          "أسود أصفر",
+          "الأزرق والأبيض والأحمر"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1806,
+    "land": "niedersachsen",
+    "number": 6,
+    "question_de": "Wo können Sie sich in Niedersachsen über politische Themen informieren?",
+    "answers_de": [
+      "bei der Landeszentrale für politische Bildung",
+      "beim Ordnungsamt der Gemeinde",
+      "bei der Verbraucherzentrale",
+      "bei den Kirchen"
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Где можно узнать о политических проблемах в Нижней Саксонии?",
+        "answers": [
+          "в Государственном центре гражданского образования",
+          "в городском отделе общественного порядка",
+          "в центре консультирования потребителей",
+          "в церквях"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Де можна дізнатися про політичні питання в Нижній Саксонії?",
+        "answers": [
+          "у Державному центрі громадянської освіти",
+          "в міському відділі громадського порядку",
+          "в центрі консультації споживачів",
+          "при церквах"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Where can you find out about political issues in Lower Saxony?",
+        "answers": [
+          "at the State Center for Civic Education",
+          "at the municipal public order office",
+          "at the consumer advice center",
+          "at the churches"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Aşağı Saksonya'daki siyasi konular hakkında nereden bilgi edinebilirsiniz?",
+        "answers": [
+          "Eyalet Sivil Eğitim Merkezi'nde",
+          "belediye asayiş ofisinde",
+          "tüketici danışma merkezinde",
+          "kiliselerde"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از کجا می توانید از مسائل سیاسی در نیدرزاکسن مطلع شوید؟",
+        "answers": [
+          "در مرکز دولتی آموزش مدنی",
+          "در اداره نظم عمومی شهرداری",
+          "در مرکز مشاوره مصرف کننده",
+          "در کلیساها"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Où s’informer sur les enjeux politiques en Basse-Saxe ?",
+        "answers": [
+          "au Centre d'État pour l'éducation civique",
+          "au bureau municipal de l'ordre public",
+          "au centre de conseil aux consommateurs",
+          "dans les églises"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أين يمكنك التعرف على القضايا السياسية في ولاية ساكسونيا السفلى؟",
+        "answers": [
+          "في مركز الدولة للتربية المدنية",
+          "في مكتب النظام العام بالبلدية",
+          "في مركز استشارات المستهلك",
+          "عند الكنائس"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1807,
+    "land": "niedersachsen",
+    "number": 7,
+    "question_de": "Die Landeshauptstadt von Niedersachsen heißt ...",
+    "answers_de": [
+      "Hannover.",
+      "Braunschweig.",
+      "Wolfsburg.",
+      "Osnabrück."
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Столица земли Нижняя Саксония называется...",
+        "answers": [
+          "Ганновер.",
+          "Брауншвейг.",
+          "Вольфсбург.",
+          "Оснабрюк."
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Столиця землі Нижня Саксонія називається...",
+        "answers": [
+          "Ганновер.",
+          "Брауншвейг.",
+          "Вольфсбург.",
+          "Оснабрюк."
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "The state capital of Lower Saxony is called...",
+        "answers": [
+          "Hanover.",
+          "Braunschweig.",
+          "Wolfsburg.",
+          "Osnabruck."
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Aşağı Saksonya eyaletinin başkentinin adı...",
+        "answers": [
+          "Hannover.",
+          "Braunschweig.",
+          "Wolfsburg.",
+          "Osnabrück."
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "مرکز ایالت نیدرزاکسن نام دارد...",
+        "answers": [
+          "هانوفر",
+          "براونشوایگ",
+          "ولفسبورگ",
+          "اسنابروک"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "La capitale du Land de Basse-Saxe s'appelle...",
+        "answers": [
+          "Hanovre.",
+          "Brunswick.",
+          "Wolfsbourg.",
+          "Osnabrück."
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "عاصمة ولاية ساكسونيا السفلى تسمى...",
+        "answers": [
+          "هانوفر.",
+          "براونشفايغ.",
+          "فولفسبورج.",
+          "أوسنابروك."
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1808,
+    "land": "niedersachsen",
+    "number": 8,
+    "question_de": "Welches Bundesland ist Niedersachsen?",
+    "answers_de": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какая федеральная земля является Нижняя Саксония?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Яка федеральна земля є Нижньою Саксонією?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which federal state is Lower Saxony?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Aşağı Saksonya hangi federal eyalettir?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ایالت فدرال نیدرزاکسن است؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel Land est la Basse-Saxe ?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي الولاية الفيدرالية التي تقع في ولاية ساكسونيا السفلى؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "niedersachsen_008"
+  },
+  {
+    "id": 1809,
+    "land": "niedersachsen",
+    "number": 9,
+    "question_de": "Wie nennt man die Regierungschefin/den Regierungschef in Niedersachsen?",
+    "answers_de": [
+      "Erste Ministerin/Erster Minister",
+      "Premierministerin/Premierminister",
+      "Bürgermeisterin/Bürgermeister",
+      "Ministerpräsidentin/Ministerpräsident"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Как вы называете главу правительства Нижней Саксонии?",
+        "answers": [
+          "Первый министр",
+          "Премьер-министр/Премьер-министр",
+          "Мэр/Мэр",
+          "Премьер-министр/Премьер-министр"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Як ви називаєте главу уряду Нижньої Саксонії?",
+        "answers": [
+          "Перший міністр",
+          "Прем'єр-міністр/Прем'єр-міністр",
+          "Мер/мер",
+          "Прем'єр-міністр/Прем'єр-міністр"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What do you call the head of government in Lower Saxony?",
+        "answers": [
+          "First Minister",
+          "Prime Minister/Prime Minister",
+          "Mayor/Mayor",
+          "Prime Minister/Prime Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Aşağı Saksonya'daki hükümet başkanına ne denir?",
+        "answers": [
+          "Birinci Bakan",
+          "Başbakan / Başbakan",
+          "Belediye Başkanı/Belediye Başkanı",
+          "Başbakan / Başbakan"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "به رئیس دولت در نیدرزاکسن چه می گویید؟",
+        "answers": [
+          "وزیر اول",
+          "نخست وزیر/نخست وزیر",
+          "شهردار/شهردار",
+          "نخست وزیر/نخست وزیر"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Comment appelle-t-on le chef du gouvernement de Basse-Saxe ?",
+        "answers": [
+          "Premier ministre",
+          "Premier ministre/Premier ministre",
+          "Maire/Maire",
+          "Premier ministre/Premier ministre"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ماذا تسمون رئيس الحكومة في ولاية ساكسونيا السفلى؟",
+        "answers": [
+          "الوزير الأول",
+          "رئيس الوزراء / رئيس الوزراء",
+          "عمدة / عمدة",
+          "رئيس الوزراء / رئيس الوزراء"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1810,
+    "land": "niedersachsen",
+    "number": 10,
+    "question_de": "Welche Ministerin/welchen Minister hat Niedersachsen nicht?",
+    "answers_de": [
+      "Justizministerin/Justizminister",
+      "Außenministerin/Außenminister",
+      "Finanzministerin/Finanzminister",
+      "Innenministerin/Innenminister"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какого министра нет в Нижней Саксонии?",
+        "answers": [
+          "Министр юстиции/Министр юстиции",
+          "Министр иностранных дел/Министр иностранных дел",
+          "Министр финансов/Министр финансов",
+          "министр внутренних дел"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Якого міністра не має Нижня Саксонія?",
+        "answers": [
+          "Міністр юстиції/Міністр юстиції",
+          "Міністр закордонних справ/міністр закордонних справ",
+          "Міністр фінансів/міністр фінансів",
+          "Міністр внутрішніх справ"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which minister does Lower Saxony not have?",
+        "answers": [
+          "Minister of Justice/Minister of Justice",
+          "Foreign Minister/Foreign Minister",
+          "Finance Minister/Finance Minister",
+          "Interior Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Aşağı Saksonya'da hangi bakan yok?",
+        "answers": [
+          "Adalet Bakanı/Adalet Bakanı",
+          "Dışişleri Bakanı / Dışişleri Bakanı",
+          "Maliye Bakanı / Maliye Bakanı",
+          "İçişleri Bakanı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "نیدرزاکسن کدام وزیر را ندارد؟",
+        "answers": [
+          "وزیر دادگستری / وزیر دادگستری",
+          "وزیر امور خارجه / وزیر امور خارجه",
+          "وزیر دارایی / وزیر دارایی",
+          "وزیر کشور"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel ministre la Basse-Saxe n'a-t-elle pas ?",
+        "answers": [
+          "Ministre de la Justice/Ministre de la Justice",
+          "Ministre des Affaires étrangères/Ministre des Affaires étrangères",
+          "Ministre des Finances/Ministre des Finances",
+          "Ministre de l'Intérieur"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "من هو الوزير الذي لا يوجد في ولاية ساكسونيا السفلى؟",
+        "answers": [
+          "وزير العدل/وزير العدل",
+          "وزير الخارجية/وزير الخارجية",
+          "وزير المالية/وزير المالية",
+          "وزير الداخلية"
+        ],
+        "explanation": ""
+      }
+    }
+  }
+]

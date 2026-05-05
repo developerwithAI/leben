@@ -1,0 +1,874 @@
+[
+  {
+    "id": 1101,
+    "land": "bayern",
+    "number": 1,
+    "question_de": "Welches Wappen gehört zum Freistaat Bayern?",
+    "answers_de": [
+      "Drei schwarze Löwen auf gelbem Schild",
+      "Blau-weißes Rautenmuster mit Krone",
+      "Adler und Bär auf gelbem Wappen mit schwarzen Streifen",
+      "Ochsenkopf und roter Greif auf gelbem Wappen"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой герб принадлежит Свободному государству Бавария?",
+        "answers": [
+          "Три черных льва на желтом щите",
+          "Синий и белый ромбовидный узор с короной",
+          "Орел и медведь на желтом гербе с черными полосами.",
+          "Голова быка и красный грифон на желтом гербе"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який герб належить Вільній державі Баварія?",
+        "answers": [
+          "Три чорні леви на жовтому щиті",
+          "Синій і білий алмаз візерунок з короною",
+          "Орел і ведмідь на жовтому гербі з чорними смугами",
+          "Голова бика та червоний грифон на жовтому гербі"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which coat of arms belongs to the Free State of Bavaria?",
+        "answers": [
+          "Three black lions on a yellow shield",
+          "Blue and white diamond pattern with crown",
+          "Eagle and bear on yellow coat of arms with black stripes",
+          "Ox head and red griffin on a yellow coat of arms"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hangi arması Özgür Bavyera Eyaleti'ne aittir?",
+        "answers": [
+          "Sarı bir kalkan üzerinde üç siyah aslan",
+          "Mavi ve beyaz elmas desenli taç",
+          "Siyah çizgili sarı armalı kartal ve ayı",
+          "Sarı bir arma üzerinde öküz başı ve kırmızı grifon"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام نشان متعلق به ایالت آزاد بایرن است؟",
+        "answers": [
+          "سه شیر سیاه روی یک سپر زرد",
+          "الگوی الماس آبی و سفید با تاج",
+          "عقاب و خرس روی نشان زرد رنگ با خطوط مشکی",
+          "سر گاو و گریفین قرمز روی یک نشان زرد رنگ"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles armoiries appartiennent à l'État libre de Bavière ?",
+        "answers": [
+          "Trois lions noirs sur un bouclier jaune",
+          "Motif diamant bleu et blanc avec couronne",
+          "Aigle et ours sur armoiries jaunes à rayures noires",
+          "Tête de bœuf et griffon rouge sur blason jaune"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أي شعار ينتمي إلى ولاية بافاريا الحرة؟",
+        "answers": [
+          "ثلاثة أسود أسود على درع أصفر",
+          "نمط الماس الأزرق والأبيض مع التاج",
+          "النسر والدب على معطف أصفر من الأسلحة مع خطوط سوداء",
+          "رأس الثور والغريفين الأحمر على معطف أصفر من الأسلحة"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "bayern_001"
+  },
+  {
+    "id": 1102,
+    "land": "bayern",
+    "number": 2,
+    "question_de": "Welches ist ein Landkreis in Bayern?",
+    "answers_de": [
+      "Prignitz",
+      "Rhein-Sieg-Kreis",
+      "Nordfriesland",
+      "Altötting"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой район в Баварии?",
+        "answers": [
+          "Пригниц",
+          "Район Рейн-Зиг",
+          "Северная Фризия",
+          "Альтёттинг"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який район у Баварії?",
+        "answers": [
+          "Прігніц",
+          "район Рейн-Зіг",
+          "Північна Фризія",
+          "Altötting"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which is a district in Bavaria?",
+        "answers": [
+          "Prignitz",
+          "Rhein-Sieg district",
+          "North Frisia",
+          "Altötting"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Bavyera'da bir bölge hangisidir?",
+        "answers": [
+          "Prignitz",
+          "Rhein-Sieg bölgesi",
+          "Kuzey Frizya",
+          "Altötting"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ناحیه در بایرن است؟",
+        "answers": [
+          "پریگنیتز",
+          "منطقه راین-زیگ",
+          "فریزیای شمالی",
+          "آلتوتینگ"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Qu'est-ce qu'un quartier de Bavière ?",
+        "answers": [
+          "Prignitz",
+          "Quartier Rhin-Sieg",
+          "Frise du Nord",
+          "Altötting"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي منطقة في بافاريا؟",
+        "answers": [
+          "بريجنيتز",
+          "منطقة راين سيج",
+          "فريزيا الشمالية",
+          "التوتينغ"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1103,
+    "land": "bayern",
+    "number": 3,
+    "question_de": "Für wie viele Jahre wird der Landtag in Bayern gewählt?",
+    "answers_de": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "На сколько лет избирается парламент земли Баварии?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "На скільки років обирається парламент землі в Баварії?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "For how many years is the state parliament in Bavaria elected?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Bavyera eyalet parlamentosu kaç yıllığına seçilir?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پارلمان ایالتی بایرن برای چند سال انتخاب می شود؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Pour combien d'années le parlement du Land de Bavière est-il élu ?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "كم سنة يتم انتخاب برلمان الولاية في بافاريا؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1104,
+    "land": "bayern",
+    "number": 4,
+    "question_de": "Ab welchem Alter darf man in Bayern bei Kommunalwahlen wählen?",
+    "answers_de": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "С какого возраста можно голосовать на местных выборах в Баварии?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "З якого віку можна голосувати на місцевих виборах у Баварії?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "At what age are you allowed to vote in local elections in Bavaria?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Bavyera'daki yerel seçimlerde hangi yaşta oy kullanabilirsiniz?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از چه سنی مجاز به شرکت در انتخابات محلی بایرن هستید؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "A quel âge peut-on voter aux élections communales en Bavière ?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "في أي عمر يُسمح لك بالتصويت في الانتخابات المحلية في بافاريا؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1105,
+    "land": "bayern",
+    "number": 5,
+    "question_de": "Welche Farben hat die Landesflagge von Bayern?",
+    "answers_de": [
+      "blau-weiß-rot",
+      "weiß-blau",
+      "grün-weiß-rot",
+      "schwarz-gelb"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какие цвета имеет государственный флаг Баварии?",
+        "answers": [
+          "сине-бело-красный",
+          "бело-голубой",
+          "зелено-бело-красный",
+          "черно-желтый"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Які кольори має державний прапор Баварії?",
+        "answers": [
+          "синьо-біло-червоний",
+          "біло-блакитний",
+          "зелено-біло-червоний",
+          "чорно-жовтий"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What colors does the state flag of Bavaria have?",
+        "answers": [
+          "blue-white-red",
+          "white-blue",
+          "green-white-red",
+          "black-yellow"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Bavyera eyalet bayrağında hangi renkler var?",
+        "answers": [
+          "mavi-beyaz-kırmızı",
+          "beyaz-mavi",
+          "yeşil-beyaz-kırmızı",
+          "siyah-sarı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پرچم ایالت بایرن چه رنگ هایی دارد؟",
+        "answers": [
+          "آبی-سفید-قرمز",
+          "سفید-آبی",
+          "سبز-سفید-قرمز",
+          "سیاه-زرد"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles sont les couleurs du drapeau de la Bavière ?",
+        "answers": [
+          "bleu-blanc-rouge",
+          "blanc-bleu",
+          "vert-blanc-rouge",
+          "noir-jaune"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي ألوان علم ولاية بافاريا؟",
+        "answers": [
+          "الأزرق والأبيض والأحمر",
+          "الأبيض والأزرق",
+          "الأخضر والأبيض والأحمر",
+          "أسود أصفر"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1106,
+    "land": "bayern",
+    "number": 6,
+    "question_de": "Wo können Sie sich in Bayern über politische Themen informieren?",
+    "answers_de": [
+      "beim Ordnungsamt der Gemeinde",
+      "bei der Landeszentrale für politische Bildung",
+      "bei der Verbraucherzentrale",
+      "bei den Kirchen"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Где можно узнать о политических проблемах в Баварии?",
+        "answers": [
+          "в городском отделе общественного порядка",
+          "в Государственном центре гражданского образования",
+          "в центре консультирования потребителей",
+          "в церквях"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Де можна дізнатися про політичні питання в Баварії?",
+        "answers": [
+          "в міському відділі громадського порядку",
+          "у Державному центрі громадянської освіти",
+          "в центрі консультації споживачів",
+          "при церквах"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Where can you find out about political issues in Bavaria?",
+        "answers": [
+          "at the municipal public order office",
+          "at the State Center for Civic Education",
+          "at the consumer advice center",
+          "at the churches"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Bavyera'daki siyasi konular hakkında nereden bilgi edinebilirsiniz?",
+        "answers": [
+          "belediye asayiş ofisinde",
+          "Eyalet Sivil Eğitim Merkezi'nde",
+          "tüketici danışma merkezinde",
+          "kiliselerde"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از کجا می توانید از مسائل سیاسی در بایرن مطلع شوید؟",
+        "answers": [
+          "در اداره نظم عمومی شهرداری",
+          "در مرکز دولتی آموزش مدنی",
+          "در مرکز مشاوره مصرف کننده",
+          "در کلیساها"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Où s’informer sur les enjeux politiques en Bavière ?",
+        "answers": [
+          "au bureau municipal de l'ordre public",
+          "au Centre d'État pour l'éducation civique",
+          "au centre de conseil aux consommateurs",
+          "dans les églises"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أين يمكنك التعرف على القضايا السياسية في بافاريا؟",
+        "answers": [
+          "في مكتب النظام العام بالبلدية",
+          "في مركز الدولة للتربية المدنية",
+          "في مركز استشارات المستهلك",
+          "عند الكنائس"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1107,
+    "land": "bayern",
+    "number": 7,
+    "question_de": "Die Landeshauptstadt von Bayern heißt ...",
+    "answers_de": [
+      "Ingolstadt.",
+      "Regensburg.",
+      "Nürnberg.",
+      "München."
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Столица земли Бавария называется...",
+        "answers": [
+          "Ингольштадт.",
+          "Регенсбург.",
+          "Нюрнберг.",
+          "Мюнхен."
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Столиця землі Баварія називається...",
+        "answers": [
+          "Інгольштадт.",
+          "Регенсбург.",
+          "Нюрнберг.",
+          "Мюнхен."
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "The state capital of Bavaria is called...",
+        "answers": [
+          "Ingolstadt.",
+          "Regensburg.",
+          "Nuremberg.",
+          "Munich."
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Bavyera eyaletinin başkentinin adı...",
+        "answers": [
+          "Ingolstadt.",
+          "Regensburg.",
+          "Nürnberg.",
+          "Münih."
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پایتخت ایالت بایرن به نام ...",
+        "answers": [
+          "اینگولشتات",
+          "رگنسبورگ",
+          "نورنبرگ",
+          "مونیخ"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "La capitale du Land de Bavière s'appelle...",
+        "answers": [
+          "Ingolstadt.",
+          "Ratisbonne.",
+          "Nuremberg.",
+          "Munich."
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "عاصمة ولاية بافاريا تسمى...",
+        "answers": [
+          "إنغولشتات.",
+          "ريغنسبورغ.",
+          "نورمبرغ.",
+          "ميونيخ."
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1108,
+    "land": "bayern",
+    "number": 8,
+    "question_de": "Welches Bundesland ist Bayern?",
+    "answers_de": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какая федеральная земля является Баварией?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Яка федеральна земля Баварія?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which federal state is Bavaria?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Bavyera hangi federal eyalettir?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "باواریا کدام ایالت فدرال است؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel Land est la Bavière ?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي الولاية الفيدرالية بافاريا؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "bayern_008"
+  },
+  {
+    "id": 1109,
+    "land": "bayern",
+    "number": 9,
+    "question_de": "Wie nennt man die Regierungschefin/den Regierungschef in Bayern?",
+    "answers_de": [
+      "Erste Ministerin/Erster Minister",
+      "Premierministerin/Premierminister",
+      "Bürgermeisterin/Bürgermeister",
+      "Ministerpräsidentin/Ministerpräsident"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Как вы называете главу правительства Баварии?",
+        "answers": [
+          "Первый министр",
+          "Премьер-министр/Премьер-министр",
+          "Мэр/Мэр",
+          "Премьер-министр/Премьер-министр"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Як ви називаєте главу уряду Баварії?",
+        "answers": [
+          "Перший міністр",
+          "Прем'єр-міністр/Прем'єр-міністр",
+          "Мер/мер",
+          "Прем'єр-міністр/Прем'єр-міністр"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What do you call the head of government in Bavaria?",
+        "answers": [
+          "First Minister",
+          "Prime Minister/Prime Minister",
+          "Mayor/Mayor",
+          "Prime Minister/Prime Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Bavyera'daki hükümet başkanına ne denir?",
+        "answers": [
+          "Birinci Bakan",
+          "Başbakan / Başbakan",
+          "Belediye Başkanı/Belediye Başkanı",
+          "Başbakan / Başbakan"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "رئیس دولت در بایرن را چه می نامید؟",
+        "answers": [
+          "وزیر اول",
+          "نخست وزیر/نخست وزیر",
+          "شهردار/شهردار",
+          "نخست وزیر/نخست وزیر"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Comment appelle-t-on le chef du gouvernement de Bavière ?",
+        "answers": [
+          "Premier ministre",
+          "Premier ministre/Premier ministre",
+          "Maire/Maire",
+          "Premier ministre/Premier ministre"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ماذا تسمون رئيس الحكومة في بافاريا؟",
+        "answers": [
+          "الوزير الأول",
+          "رئيس الوزراء / رئيس الوزراء",
+          "عمدة / عمدة",
+          "رئيس الوزراء / رئيس الوزراء"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1110,
+    "land": "bayern",
+    "number": 10,
+    "question_de": "Welche Ministerin/welchen Minister hat Bayern nicht?",
+    "answers_de": [
+      "Justizministerin/Justizminister",
+      "Außenministerin/Außenminister",
+      "Finanzministerin/Finanzminister",
+      "Innenministerin/Innenminister"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какого министра нет в Баварии?",
+        "answers": [
+          "Министр юстиции/Министр юстиции",
+          "Министр иностранных дел/Министр иностранных дел",
+          "Министр финансов/Министр финансов",
+          "министр внутренних дел"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Якого міністра немає в Баварії?",
+        "answers": [
+          "Міністр юстиції/Міністр юстиції",
+          "Міністр закордонних справ/міністр закордонних справ",
+          "Міністр фінансів/міністр фінансів",
+          "Міністр внутрішніх справ"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which minister does Bavaria not have?",
+        "answers": [
+          "Minister of Justice/Minister of Justice",
+          "Foreign Minister/Foreign Minister",
+          "Finance Minister/Finance Minister",
+          "Interior Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Bavyera'da hangi bakan yok?",
+        "answers": [
+          "Adalet Bakanı/Adalet Bakanı",
+          "Dışişleri Bakanı / Dışişleri Bakanı",
+          "Maliye Bakanı / Maliye Bakanı",
+          "İçişleri Bakanı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "باواریا کدام وزیر را ندارد؟",
+        "answers": [
+          "وزیر دادگستری / وزیر دادگستری",
+          "وزیر امور خارجه / وزیر امور خارجه",
+          "وزیر دارایی / وزیر دارایی",
+          "وزیر کشور"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel ministre la Bavière n’a-t-elle pas ?",
+        "answers": [
+          "Ministre de la Justice/Ministre de la Justice",
+          "Ministre des Affaires étrangères/Ministre des Affaires étrangères",
+          "Ministre des Finances/Ministre des Finances",
+          "Ministre de l'Intérieur"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "من هو الوزير الذي لا تملكه بافاريا؟",
+        "answers": [
+          "وزير العدل/وزير العدل",
+          "وزير الخارجية/وزير الخارجية",
+          "وزير المالية/وزير المالية",
+          "وزير الداخلية"
+        ],
+        "explanation": ""
+      }
+    }
+  }
+]

@@ -1,0 +1,874 @@
+[
+  {
+    "id": 2201,
+    "land": "sachsen",
+    "number": 1,
+    "question_de": "Welches Wappen gehört zum Freistaat Sachsen?",
+    "answers_de": [
+      "Blau-weißes Rautenmuster mit Krone",
+      "Schwarzer Bär auf weißem Schild mit Krone",
+      "Weißes Pferd auf rotem Schild",
+      "Gelbe und schwarze Streifen mit grüner Diagonale"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой герб принадлежит Свободному государству Саксония?",
+        "answers": [
+          "Синий и белый ромбовидный узор с короной",
+          "Черный медведь на белом щите с короной",
+          "Белый конь на красном щите",
+          "Желтые и черные полосы с зеленой диагональю"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який герб належить Вільній державі Саксонія?",
+        "answers": [
+          "Синій і білий алмаз візерунок з короною",
+          "Чорний ведмідь на білому щиті з короною",
+          "Білий кінь на червоному щиті",
+          "Жовто-чорні смуги із зеленою діагоналлю"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which coat of arms belongs to the Free State of Saxony?",
+        "answers": [
+          "Blue and white diamond pattern with crown",
+          "Black bear on white shield with crown",
+          "White horse on a red shield",
+          "Yellow and black stripes with a green diagonal"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hangi arması Özgür Saksonya Eyaleti'ne aittir?",
+        "answers": [
+          "Mavi ve beyaz elmas desenli taç",
+          "Beyaz kalkanlı, taçlı siyah ayı",
+          "Kırmızı kalkanlı beyaz at",
+          "Yeşil köşegenli sarı ve siyah çizgiler"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام نشان متعلق به ایالت آزاد ساکسونی است؟",
+        "answers": [
+          "الگوی الماس آبی و سفید با تاج",
+          "خرس سیاه روی سپر سفید با تاج",
+          "اسب سفید روی سپر قرمز",
+          "نوارهای زرد و مشکی با مورب سبز"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles armoiries appartiennent à l'État libre de Saxe ?",
+        "answers": [
+          "Motif diamant bleu et blanc avec couronne",
+          "Ours noir sur bouclier blanc avec couronne",
+          "Cheval blanc sur un bouclier rouge",
+          "Rayures jaunes et noires avec une diagonale verte"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أي شعار ينتمي إلى ولاية ساكسونيا الحرة؟",
+        "answers": [
+          "نمط الماس الأزرق والأبيض مع التاج",
+          "الدب الأسود على الدرع الأبيض مع التاج",
+          "حصان أبيض على درع أحمر",
+          "خطوط صفراء وسوداء بقطر أخضر"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "sachsen_001"
+  },
+  {
+    "id": 2202,
+    "land": "sachsen",
+    "number": 2,
+    "question_de": "Welches ist ein Landkreis in Sachsen?",
+    "answers_de": [
+      "Vogtlandkreis",
+      "Altötting",
+      "Uckermark",
+      "Nordfriesland"
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой район в Саксонии?",
+        "answers": [
+          "Фогтландский район",
+          "Альтёттинг",
+          "Укермарк",
+          "Северная Фризия"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який район у Саксонії?",
+        "answers": [
+          "Район Фогтланд",
+          "Altötting",
+          "Uckermark",
+          "Північна Фризія"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which is a district in Saxony?",
+        "answers": [
+          "Vogtland district",
+          "Altötting",
+          "Uckermark",
+          "North Frisia"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saksonya'nın bir bölgesi hangisidir?",
+        "answers": [
+          "Vogtland bölgesi",
+          "Altötting",
+          "Uckermark",
+          "Kuzey Frizya"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ناحیه در زاکسن است؟",
+        "answers": [
+          "منطقه وگتلند",
+          "آلتوتینگ",
+          "اوکرمارک",
+          "فریزیای شمالی"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Qu'est-ce qu'un quartier de Saxe ?",
+        "answers": [
+          "Quartier du Vogtland",
+          "Altötting",
+          "Uckermark",
+          "Frise du Nord"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي منطقة في ولاية ساكسونيا؟",
+        "answers": [
+          "منطقة فوجتلاند",
+          "التوتينغ",
+          "أوكرمارك",
+          "فريزيا الشمالية"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2203,
+    "land": "sachsen",
+    "number": 3,
+    "question_de": "Für wie viele Jahre wird der Landtag in Sachsen gewählt?",
+    "answers_de": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "На сколько лет избирается земельный парламент в Саксонии?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "На скільки років обирається парламент землі в Саксонії?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "For how many years is the state parliament in Saxony elected?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saksonya'da eyalet parlamentosu kaç yıllığına seçilir?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پارلمان ایالتی در زاکسن برای چند سال انتخاب می شود؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Pour combien d'années le parlement du Land de Saxe est-il élu ?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "كم سنة يتم انتخاب برلمان الولاية في ولاية ساكسونيا؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2204,
+    "land": "sachsen",
+    "number": 4,
+    "question_de": "Ab welchem Alter darf man in Sachsen bei Kommunalwahlen wählen?",
+    "answers_de": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "С какого возраста можно голосовать на местных выборах в Саксонии?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "З якого віку можна голосувати на місцевих виборах у Саксонії?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "At what age are you allowed to vote in local elections in Saxony?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saksonya'da yerel seçimlerde hangi yaşta oy kullanabilirsiniz?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از چه سنی مجاز به شرکت در انتخابات محلی در زاکسن هستید؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "A quel âge peut-on voter aux élections communales en Saxe ?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "في أي عمر يُسمح لك بالتصويت في الانتخابات المحلية في ولاية ساكسونيا؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2205,
+    "land": "sachsen",
+    "number": 5,
+    "question_de": "Welche Farben hat die Landesflagge von Sachsen?",
+    "answers_de": [
+      "blau-weiß-rot",
+      "weiß-grün",
+      "grün-weiß-rot",
+      "schwarz-gelb"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какие цвета имеет государственный флаг Саксонии?",
+        "answers": [
+          "сине-бело-красный",
+          "бело-зеленый",
+          "зелено-бело-красный",
+          "черно-желтый"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Які кольори має державний прапор Саксонії?",
+        "answers": [
+          "синьо-біло-червоний",
+          "біло-зелений",
+          "зелено-біло-червоний",
+          "чорно-жовтий"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What colors does the state flag of Saxony have?",
+        "answers": [
+          "blue-white-red",
+          "white-green",
+          "green-white-red",
+          "black-yellow"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saksonya eyalet bayrağının renkleri nelerdir?",
+        "answers": [
+          "mavi-beyaz-kırmızı",
+          "beyaz-yeşil",
+          "yeşil-beyaz-kırmızı",
+          "siyah-sarı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پرچم ایالت زاکسن چه رنگ هایی دارد؟",
+        "answers": [
+          "آبی-سفید-قرمز",
+          "سفید-سبز",
+          "سبز-سفید-قرمز",
+          "سیاه-زرد"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles sont les couleurs du drapeau national de la Saxe ?",
+        "answers": [
+          "bleu-blanc-rouge",
+          "blanc-vert",
+          "vert-blanc-rouge",
+          "noir-jaune"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي ألوان علم ولاية ساكسونيا؟",
+        "answers": [
+          "الأزرق والأبيض والأحمر",
+          "الأبيض والأخضر",
+          "الأخضر والأبيض والأحمر",
+          "أسود أصفر"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2206,
+    "land": "sachsen",
+    "number": 6,
+    "question_de": "Wo können Sie sich in Sachsen über politische Themen informieren?",
+    "answers_de": [
+      "bei der Landeszentrale für politische Bildung",
+      "beim Ordnungsamt der Gemeinde",
+      "bei den Kirchen",
+      "bei der Verbraucherzentrale"
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Где можно узнать о политических проблемах в Саксонии?",
+        "answers": [
+          "в Государственном центре гражданского образования",
+          "в городском отделе общественного порядка",
+          "в церквях",
+          "в центре консультирования потребителей"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Де можна дізнатися про політичні питання в Саксонії?",
+        "answers": [
+          "у Державному центрі громадянської освіти",
+          "в міському відділі громадського порядку",
+          "при церквах",
+          "в центрі консультації споживачів"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Where can you find out about political issues in Saxony?",
+        "answers": [
+          "at the State Center for Civic Education",
+          "at the municipal public order office",
+          "at the churches",
+          "at the consumer advice center"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saksonya'daki siyasi konular hakkında nereden bilgi edinebilirsiniz?",
+        "answers": [
+          "Eyalet Sivil Eğitim Merkezi'nde",
+          "belediye asayiş ofisinde",
+          "kiliselerde",
+          "tüketici danışma merkezinde"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از کجا می توانید از مسائل سیاسی در زاکسن مطلع شوید؟",
+        "answers": [
+          "در مرکز دولتی آموزش مدنی",
+          "در اداره نظم عمومی شهرداری",
+          "در کلیساها",
+          "در مرکز مشاوره مصرف کننده"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Où peut-on s’informer sur les questions politiques en Saxe ?",
+        "answers": [
+          "au Centre d'État pour l'éducation civique",
+          "au bureau municipal de l'ordre public",
+          "dans les églises",
+          "au centre de conseil aux consommateurs"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أين يمكنك التعرف على القضايا السياسية في ولاية ساكسونيا؟",
+        "answers": [
+          "في مركز الدولة للتربية المدنية",
+          "في مكتب النظام العام بالبلدية",
+          "عند الكنائس",
+          "في مركز استشارات المستهلك"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2207,
+    "land": "sachsen",
+    "number": 7,
+    "question_de": "Die Landeshauptstadt von Sachsen heißt ...",
+    "answers_de": [
+      "Leipzig.",
+      "Dresden.",
+      "Chemnitz.",
+      "Zwickau."
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Столица земли Саксония называется...",
+        "answers": [
+          "Лейпциг.",
+          "Дрезден.",
+          "Хемниц.",
+          "Цвикау."
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Столиця землі Саксонія називається...",
+        "answers": [
+          "Лейпциг.",
+          "Дрезден.",
+          "Хемніц.",
+          "Цвікау."
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "The state capital of Saxony is called...",
+        "answers": [
+          "Leipzig.",
+          "Dresden.",
+          "Chemnitz.",
+          "Zwickau."
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saksonya eyaletinin başkentinin adı...",
+        "answers": [
+          "Leipzig.",
+          "Dresden.",
+          "Chemnitz.",
+          "Zwickau."
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "مرکز ایالت ساکسونی نام دارد...",
+        "answers": [
+          "لایپزیگ",
+          "درسدن",
+          "کمنیتس.",
+          "زویکائو"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "La capitale de l'État de Saxe s'appelle...",
+        "answers": [
+          "Leipzig.",
+          "Dresde.",
+          "Chemnitz.",
+          "Zwickau."
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "عاصمة ولاية ساكسونيا تسمى...",
+        "answers": [
+          "لايبزيغ.",
+          "دريسدن.",
+          "كيمنتس.",
+          "تسفيكاو."
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2208,
+    "land": "sachsen",
+    "number": 8,
+    "question_de": "Welches Bundesland ist Sachsen?",
+    "answers_de": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какая федеральная земля является Саксонией?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Яка федеральна земля Саксонія?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which federal state is Saxony?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saksonya hangi federal eyalettir?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ایالت فدرال زاکسن است؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel Land est la Saxe ?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي الولاية الفيدرالية التي تسمى ساكسونيا؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "sachsen_008"
+  },
+  {
+    "id": 2209,
+    "land": "sachsen",
+    "number": 9,
+    "question_de": "Wie nennt man die Regierungschefin/den Regierungschef in Sachsen?",
+    "answers_de": [
+      "Erste Ministerin/Erster Minister",
+      "Premierministerin/Premierminister",
+      "Bürgermeisterin/Bürgermeister",
+      "Ministerpräsidentin/Ministerpräsident"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Как вы называете главу правительства Саксонии?",
+        "answers": [
+          "Первый министр",
+          "Премьер-министр/Премьер-министр",
+          "Мэр/Мэр",
+          "Премьер-министр/Премьер-министр"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Як ви називаєте главу уряду Саксонії?",
+        "answers": [
+          "Перший міністр",
+          "Прем'єр-міністр/Прем'єр-міністр",
+          "Мер/мер",
+          "Прем'єр-міністр/Прем'єр-міністр"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What do you call the head of government in Saxony?",
+        "answers": [
+          "First Minister",
+          "Prime Minister/Prime Minister",
+          "Mayor/Mayor",
+          "Prime Minister/Prime Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saksonya'daki hükümet başkanına ne denir?",
+        "answers": [
+          "Birinci Bakan",
+          "Başbakan / Başbakan",
+          "Belediye Başkanı/Belediye Başkanı",
+          "Başbakan / Başbakan"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "به رئیس دولت در زاکسن چه می گویید؟",
+        "answers": [
+          "وزیر اول",
+          "نخست وزیر/نخست وزیر",
+          "شهردار/شهردار",
+          "نخست وزیر/نخست وزیر"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Comment appelle-t-on le chef du gouvernement de Saxe ?",
+        "answers": [
+          "Premier ministre",
+          "Premier ministre/Premier ministre",
+          "Maire/Maire",
+          "Premier ministre/Premier ministre"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ماذا تسمون رئيس الحكومة في ولاية ساكسونيا؟",
+        "answers": [
+          "الوزير الأول",
+          "رئيس الوزراء / رئيس الوزراء",
+          "عمدة / عمدة",
+          "رئيس الوزراء / رئيس الوزراء"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 2210,
+    "land": "sachsen",
+    "number": 10,
+    "question_de": "Welche Ministerin/welchen Minister hat Sachsen nicht?",
+    "answers_de": [
+      "Justizministerin/Justizminister",
+      "Außenministerin/Außenminister",
+      "Finanzministerin/Finanzminister",
+      "Innenministerin/Innenminister"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какого министра нет в Саксонии?",
+        "answers": [
+          "Министр юстиции/Министр юстиции",
+          "Министр иностранных дел/Министр иностранных дел",
+          "Министр финансов/Министр финансов",
+          "министр внутренних дел"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Якого міністра не має Саксонія?",
+        "answers": [
+          "Міністр юстиції/Міністр юстиції",
+          "Міністр закордонних справ/міністр закордонних справ",
+          "Міністр фінансів/міністр фінансів",
+          "Міністр внутрішніх справ"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which minister does Saxony not have?",
+        "answers": [
+          "Minister of Justice/Minister of Justice",
+          "Foreign Minister/Foreign Minister",
+          "Finance Minister/Finance Minister",
+          "Interior Minister"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Saksonya'da hangi bakan yok?",
+        "answers": [
+          "Adalet Bakanı/Adalet Bakanı",
+          "Dışişleri Bakanı / Dışişleri Bakanı",
+          "Maliye Bakanı / Maliye Bakanı",
+          "İçişleri Bakanı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "زاکسن کدام وزیر را ندارد؟",
+        "answers": [
+          "وزیر دادگستری / وزیر دادگستری",
+          "وزیر امور خارجه / وزیر امور خارجه",
+          "وزیر دارایی / وزیر دارایی",
+          "وزیر کشور"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel ministre la Saxe n’a-t-elle pas ?",
+        "answers": [
+          "Ministre de la Justice/Ministre de la Justice",
+          "Ministre des Affaires étrangères/Ministre des Affaires étrangères",
+          "Ministre des Finances/Ministre des Finances",
+          "Ministre de l'Intérieur"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "من هو الوزير الذي لا يوجد في ولاية ساكسونيا؟",
+        "answers": [
+          "وزير العدل/وزير العدل",
+          "وزير الخارجية/وزير الخارجية",
+          "وزير المالية/وزير المالية",
+          "وزير الداخلية"
+        ],
+        "explanation": ""
+      }
+    }
+  }
+]

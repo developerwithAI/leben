@@ -1,0 +1,52 @@
+{
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-3118868459944420~7123817329",
+    "ios_app_id": "ca-app-pub-3118868459944420~8396851021"
+  },
+  "expo": {
+    "name": "Leben in Deutschland: 460 Fragen",
+    "extra": {
+      "eas": {
+        "projectId": "13a992d7-07a9-4456-9ba2-a953dad37900"
+      }
+    },
+    "slug": "leben-in-deutschland",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#E8E8ED"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.lebenindeutschland.hilfe",
+      "buildNumber": "1",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false,
+        "GADApplicationIdentifier": "ca-app-pub-3118868459944420~8396851021"
+      }
+    },
+    "android": {
+      "package": "com.lebenindeutschland.hilfe",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#E8E8ED"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      "./plugins/withGoogleAds"
+    ]
+  }
+}

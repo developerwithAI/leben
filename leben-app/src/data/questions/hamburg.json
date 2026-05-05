@@ -1,0 +1,874 @@
+[
+  {
+    "id": 1501,
+    "land": "hamburg",
+    "number": 1,
+    "question_de": "Welches Wappen gehört zur Freien und Hansestadt Hamburg?",
+    "answers_de": [
+      "Weißes Pferd auf rotem Schild",
+      "Weißes Schloss mit drei Türmen auf rotem Schild",
+      "Weißes Pferd auf grünem Schild mit roter Rose",
+      "Adler und Bär auf gelbem Wappen mit schwarzen Streifen"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой герб принадлежит Вольному ганзейскому городу Гамбургу?",
+        "answers": [
+          "Белый конь на красном щите",
+          "Белый замок с тремя башнями на красном щите",
+          "Белая лошадь на зеленом щите с красной розой.",
+          "Орел и медведь на желтом гербе с черными полосами."
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який герб належить вільному та ганзейському місту Гамбургу?",
+        "answers": [
+          "Білий кінь на червоному щиті",
+          "Білий замок з трьома вежами на червоному щиті",
+          "Білий кінь на зеленому щиті з червоною трояндою",
+          "Орел і ведмідь на жовтому гербі з чорними смугами"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which coat of arms belongs to the Free and Hanseatic City of Hamburg?",
+        "answers": [
+          "White horse on a red shield",
+          "White castle with three towers on a red shield",
+          "White horse on a green shield with a red rose",
+          "Eagle and bear on yellow coat of arms with black stripes"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hangi arması Özgür ve Hansa Şehri Hamburg'a aittir?",
+        "answers": [
+          "Kırmızı kalkanlı beyaz at",
+          "Kırmızı kalkan üzerinde üç kuleli beyaz kale",
+          "Kırmızı güllü yeşil kalkanın üzerinde beyaz at",
+          "Siyah çizgili sarı armalı kartal ve ayı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام نشان متعلق به شهر آزاد و هانسی هامبورگ است؟",
+        "answers": [
+          "اسب سفید روی سپر قرمز",
+          "قلعه سفید با سه برج بر روی یک سپر قرمز",
+          "اسب سفید روی سپر سبز با گل رز قرمز",
+          "عقاب و خرس روی نشان زرد رنگ با خطوط مشکی"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quels armoiries appartiennent à la Ville libre et hanséatique de Hambourg ?",
+        "answers": [
+          "Cheval blanc sur un bouclier rouge",
+          "Château blanc avec trois tours sur un bouclier rouge",
+          "Cheval blanc sur un bouclier vert avec une rose rouge",
+          "Aigle et ours sur armoiries jaunes à rayures noires"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أي شعار ينتمي إلى مدينة هامبورغ الحرة والهانزية؟",
+        "answers": [
+          "حصان أبيض على درع أحمر",
+          "قلعة بيضاء بثلاثة أبراج على درع أحمر",
+          "حصان أبيض على درع أخضر مع وردة حمراء",
+          "النسر والدب على معطف أصفر من الأسلحة مع خطوط سوداء"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "hamburg_001"
+  },
+  {
+    "id": 1502,
+    "land": "hamburg",
+    "number": 2,
+    "question_de": "Welches ist ein Bezirk von Hamburg?",
+    "answers_de": [
+      "Altona",
+      "Hemelingen",
+      "Pankow",
+      "Mecklenburgische Seenplatte"
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой район Гамбурга?",
+        "answers": [
+          "Альтона",
+          "Хемелинген",
+          "Панков",
+          "Мекленбургское поозерье"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який район Гамбурга?",
+        "answers": [
+          "Альтона",
+          "Хемелінген",
+          "Паньков",
+          "Мекленбурзьке озеро"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which is a district of Hamburg?",
+        "answers": [
+          "Altona",
+          "Hemelingen",
+          "Pankow",
+          "Mecklenburg Lake District"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hamburg'un bir ilçesi hangisidir?",
+        "answers": [
+          "Altona",
+          "Hemelingen",
+          "Pankow",
+          "Mecklenburg Göller Bölgesi"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ناحیه از هامبورگ است؟",
+        "answers": [
+          "آلتونا",
+          "هملینگن",
+          "پانکو",
+          "منطقه دریاچه مکلنبورگ"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel est un quartier de Hambourg ?",
+        "answers": [
+          "Altona",
+          "Hémelingen",
+          "Pankow",
+          "Région des lacs du Mecklembourg"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي منطقة هامبورغ؟",
+        "answers": [
+          "التونا",
+          "هيميلينجن",
+          "بانكوف",
+          "منطقة بحيرة مكلنبورغ"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1503,
+    "land": "hamburg",
+    "number": 3,
+    "question_de": "Für wie viele Jahre wird das Landesparlament in Hamburg gewählt?",
+    "answers_de": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "На сколько лет будет избираться парламент земли в Гамбурге?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "На скільки років обиратимуть парламент землі в Гамбурзі?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "For how many years will the state parliament in Hamburg be elected?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hamburg'daki eyalet parlamentosu kaç yıllığına seçilecek?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پارلمان ایالتی هامبورگ برای چند سال انتخاب می شود؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Pour combien d'années le parlement du Land de Hambourg sera-t-il élu ?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "كم سنة سيتم انتخاب برلمان الولاية في هامبورغ؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1504,
+    "land": "hamburg",
+    "number": 4,
+    "question_de": "Ab welchem Alter darf man in Hamburg bei Kommunalwahlen (Wahl der Bezirksversammlungen) wählen?",
+    "answers_de": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "С какого возраста разрешено голосовать на местных выборах (окружных собраниях) в Гамбурге?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "З якого віку ви можете голосувати на місцевих виборах (окружних зборах) у Гамбурзі?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "At what age are you allowed to vote in local elections (district assemblies) in Hamburg?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hamburg'daki yerel seçimlerde (bölge meclisleri) kaç yaşında oy kullanabilirsiniz?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از چه سنی مجاز به رای دادن در انتخابات محلی (مجلس ناحیه) در هامبورگ هستید؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "A quel âge est-on autorisé à voter aux élections locales (assemblées de district) à Hambourg ?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "في أي عمر يُسمح لك بالتصويت في الانتخابات المحلية (مجالس المقاطعات) في هامبورغ؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1505,
+    "land": "hamburg",
+    "number": 5,
+    "question_de": "Welche Farben hat die Landesflagge von Hamburg?",
+    "answers_de": [
+      "blau-weiß-rot",
+      "weiß-rot",
+      "grün-weiß-rot",
+      "schwarz-gelb"
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какого цвета государственный флаг Гамбурга?",
+        "answers": [
+          "сине-бело-красный",
+          "бело-красный",
+          "зелено-бело-красный",
+          "черно-желтый"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Яких кольорів державний прапор Гамбурга?",
+        "answers": [
+          "синьо-біло-червоний",
+          "біло-червоний",
+          "зелено-біло-червоний",
+          "чорно-жовтий"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What colors is the state flag of Hamburg?",
+        "answers": [
+          "blue-white-red",
+          "white-red",
+          "green-white-red",
+          "black-yellow"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hamburg eyalet bayrağı hangi renklerdir?",
+        "answers": [
+          "mavi-beyaz-kırmızı",
+          "beyaz-kırmızı",
+          "yeşil-beyaz-kırmızı",
+          "siyah-sarı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پرچم ایالت هامبورگ چه رنگ هایی است؟",
+        "answers": [
+          "آبی-سفید-قرمز",
+          "سفید قرمز",
+          "سبز-سفید-قرمز",
+          "سیاه-زرد"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "De quelles couleurs est le drapeau de l'État de Hambourg ?",
+        "answers": [
+          "bleu-blanc-rouge",
+          "blanc-rouge",
+          "vert-blanc-rouge",
+          "noir-jaune"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي ألوان علم ولاية هامبورغ؟",
+        "answers": [
+          "الأزرق والأبيض والأحمر",
+          "الأبيض والأحمر",
+          "الأخضر والأبيض والأحمر",
+          "أسود أصفر"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1506,
+    "land": "hamburg",
+    "number": 6,
+    "question_de": "Wo können Sie sich in Hamburg über politische Themen informieren?",
+    "answers_de": [
+      "beim Ordnungsamt der Gemeinde",
+      "bei der Verbraucherzentrale",
+      "bei den Kirchen",
+      "bei der Landeszentrale für politische Bildung"
+    ],
+    "correct": 3,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Где можно узнать о политических проблемах в Гамбурге?",
+        "answers": [
+          "в городском отделе общественного порядка",
+          "в центре консультирования потребителей",
+          "в церквях",
+          "в Государственном центре гражданского образования"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Де можна дізнатися про політичні питання в Гамбурзі?",
+        "answers": [
+          "в міському відділі громадського порядку",
+          "в центрі консультації споживачів",
+          "при церквах",
+          "у Державному центрі громадянської освіти"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Where can you find out about political issues in Hamburg?",
+        "answers": [
+          "at the municipal public order office",
+          "at the consumer advice center",
+          "at the churches",
+          "at the State Center for Civic Education"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hamburg'daki siyasi konular hakkında nereden bilgi edinebilirsiniz?",
+        "answers": [
+          "belediye asayiş ofisinde",
+          "tüketici danışma merkezinde",
+          "kiliselerde",
+          "Eyalet Sivil Eğitim Merkezi'nde"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از کجا می توانید از مسائل سیاسی در هامبورگ مطلع شوید؟",
+        "answers": [
+          "در اداره نظم عمومی شهرداری",
+          "در مرکز مشاوره مصرف کننده",
+          "در کلیساها",
+          "در مرکز دولتی آموزش مدنی"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Où peut-on s’informer sur les questions politiques à Hambourg ?",
+        "answers": [
+          "au bureau municipal de l'ordre public",
+          "au centre de conseil aux consommateurs",
+          "dans les églises",
+          "au Centre d'État pour l'éducation civique"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أين يمكنك التعرف على القضايا السياسية في هامبورغ؟",
+        "answers": [
+          "في مكتب النظام العام بالبلدية",
+          "في مركز استشارات المستهلك",
+          "عند الكنائس",
+          "في مركز الدولة للتربية المدنية"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1507,
+    "land": "hamburg",
+    "number": 7,
+    "question_de": "Welches Bundesland ist ein Stadtstaat?",
+    "answers_de": [
+      "Hamburg",
+      "Sachsen",
+      "Bayern",
+      "Thüringen"
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какая федеральная земля является городом-государством?",
+        "answers": [
+          "Гамбург",
+          "Саксония",
+          "Бавария",
+          "Тюрингия"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Яка федеральна земля є містом?",
+        "answers": [
+          "Гамбург",
+          "Саксонія",
+          "Баварія",
+          "Тюрінгія"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which federal state is a city state?",
+        "answers": [
+          "Hamburg",
+          "Saxony",
+          "Bavaria",
+          "Thuringia"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hangi federal eyalet şehir devletidir?",
+        "answers": [
+          "Hamburg",
+          "Saksonya",
+          "Bavyera",
+          "Thüringen"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ایالت فدرال ایالت شهری است؟",
+        "answers": [
+          "هامبورگ",
+          "ساکسونی",
+          "باواریا",
+          "تورینگن"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel État fédéral est une cité-État ?",
+        "answers": [
+          "Hambourg",
+          "Saxe",
+          "Bavière",
+          "Thuringe"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي الولاية الفيدرالية التي تعتبر دولة مدينة؟",
+        "answers": [
+          "هامبورغ",
+          "ساكسونيا",
+          "بافاريا",
+          "تورينجيا"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1508,
+    "land": "hamburg",
+    "number": 8,
+    "question_de": "Welches Bundesland ist Hamburg?",
+    "answers_de": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какая федеральная земля является Гамбургом?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Яка федеральна земля Гамбург?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which federal state is Hamburg?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hamburg hangi federal eyalettir?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ایالت فدرال هامبورگ است؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel Land est Hambourg ?",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي الولاية الفيدرالية هامبورغ؟",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "hamburg_008"
+  },
+  {
+    "id": 1509,
+    "land": "hamburg",
+    "number": 9,
+    "question_de": "Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Hamburg?",
+    "answers_de": [
+      "Ministerpräsidentin/Ministerpräsident",
+      "Erste Bürgermeisterin/Erster Bürgermeister",
+      "Regierende Senatorin/Regierender Senator",
+      "Oberbürgermeisterin/Oberbürgermeister"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Как вы называете главу правительства города-государства Гамбург?",
+        "answers": [
+          "Премьер-министр/Премьер-министр",
+          "Первый мэр",
+          "Правящий сенатор",
+          "Мэр/лорд-мэр"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Як ви називаєте главу уряду міста-землі Гамбург?",
+        "answers": [
+          "Прем'єр-міністр/Прем'єр-міністр",
+          "Перший мер",
+          "Правлячий сенатор",
+          "Мер/лорд-мер"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What do you call the head of government of the city state of Hamburg?",
+        "answers": [
+          "Prime Minister/Prime Minister",
+          "First mayor",
+          "Governing Senator",
+          "Mayor/Lord Mayor"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hamburg şehir devletinin hükümet başkanına ne denir?",
+        "answers": [
+          "Başbakan / Başbakan",
+          "İlk belediye başkanı",
+          "Yönetici Senatör",
+          "Belediye Başkanı / Belediye Başkanı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "به رئیس دولت شهر هامبورگ چه می گویید؟",
+        "answers": [
+          "نخست وزیر/نخست وزیر",
+          "شهردار اول",
+          "سناتور حاکم",
+          "شهردار/لرد شهردار"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Comment appelle-t-on le chef du gouvernement de la cité-État de Hambourg ?",
+        "answers": [
+          "Premier ministre/Premier ministre",
+          "Premier maire",
+          "Sénateur au pouvoir",
+          "Maire/Lord-Maire"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ماذا تسمي رئيس حكومة ولاية مدينة هامبورغ؟",
+        "answers": [
+          "رئيس الوزراء / رئيس الوزراء",
+          "العمدة الأول",
+          "السيناتور الحاكم",
+          "عمدة / اللورد عمدة"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1510,
+    "land": "hamburg",
+    "number": 10,
+    "question_de": "Welche Senatorin/welchen Senator hat Hamburg nicht?",
+    "answers_de": [
+      "Justizsenatorin/Justizsenator",
+      "Senatorin/Senator für Außenbeziehungen",
+      "Finanzsenatorin/Finanzsenator",
+      "Innensenatorin/Innensenator"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какого сенатора нет в Гамбурге?",
+        "answers": [
+          "Сенатор юстиции",
+          "Сенатор по международным отношениям",
+          "Финансовый сенатор",
+          "Сенатор внутренних дел"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Якого сенатора немає в Гамбурзі?",
+        "answers": [
+          "Сенатор юстиції",
+          "Сенатор із зовнішніх відносин",
+          "Сенатор фінансів",
+          "Сенатор внутрішніх справ"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which senator does Hamburg not have?",
+        "answers": [
+          "Senator for Justice",
+          "Senator for Foreign Relations",
+          "Finance Senator",
+          "Interior Senator"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hamburg'un hangi senatörü yok?",
+        "answers": [
+          "Adalet Senatörü",
+          "Dış İlişkiler Senatörü",
+          "Finans Senatörü",
+          "İçişleri Senatörü"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام سناتور هامبورگ را ندارد؟",
+        "answers": [
+          "سناتور عدالت",
+          "سناتور روابط خارجی",
+          "سناتور امور مالی",
+          "سناتور کشور"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel sénateur n’a pas Hambourg ?",
+        "answers": [
+          "Sénateur de la Justice",
+          "Sénateur des Relations extérieures",
+          "Sénateur des Finances",
+          "Sénateur de l'Intérieur"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أي عضو في مجلس الشيوخ لا يملكه هامبورغ؟",
+        "answers": [
+          "السيناتور من أجل العدالة",
+          "السيناتور للعلاقات الخارجية",
+          "السيناتور المالي",
+          "عضو مجلس الشيوخ الداخلي"
+        ],
+        "explanation": ""
+      }
+    }
+  }
+]

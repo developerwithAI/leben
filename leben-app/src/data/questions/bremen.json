@@ -1,0 +1,874 @@
+[
+  {
+    "id": 1401,
+    "land": "bremen",
+    "number": 1,
+    "question_de": "Welches Bundesland ist Bremen?",
+    "answers_de": [
+      "Blauer Löwe und weißer Stern auf gelbem Schild",
+      "Drei schwarze Löwen auf gelbem Schild",
+      "Silberner Schlüssel auf rotem Schild mit Krone",
+      "Blau-weißes Rautenmuster mit Krone"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой федеральной землей является Бремен?",
+        "answers": [
+          "Синий лев и белая звезда на желтом щите",
+          "Три черных льва на желтом щите",
+          "Серебряный ключ на красном щите с короной",
+          "Синий и белый ромбовидный узор с короной"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Яка федеральна земля Бремен?",
+        "answers": [
+          "Синій лев і біла зірка на жовтому щиті",
+          "Три чорні леви на жовтому щиті",
+          "Срібний ключ на червоному щиті з короною",
+          "Синій і білий алмаз візерунок з короною"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which federal state is Bremen?",
+        "answers": [
+          "Blue lion and white star on yellow shield",
+          "Three black lions on a yellow shield",
+          "Silver key on red shield with crown",
+          "Blue and white diamond pattern with crown"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Bremen hangi federal eyalettir?",
+        "answers": [
+          "Sarı kalkan üzerinde mavi aslan ve beyaz yıldız",
+          "Sarı bir kalkan üzerinde üç siyah aslan",
+          "Kırmızı kalkan üzerinde taçlı gümüş anahtar",
+          "Mavi ve beyaz elmas desenli taç"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ایالت فدرال برمن است؟",
+        "answers": [
+          "شیر آبی و ستاره سفید روی سپر زرد",
+          "سه شیر سیاه روی یک سپر زرد",
+          "کلید نقره ای روی سپر قرمز با تاج",
+          "الگوی الماس آبی و سفید با تاج"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel Land est Brême ?",
+        "answers": [
+          "Lion bleu et étoile blanche sur bouclier jaune",
+          "Trois lions noirs sur un bouclier jaune",
+          "Clé en argent sur bouclier rouge avec couronne",
+          "Motif diamant bleu et blanc avec couronne"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي الولاية الفيدرالية بريمن؟",
+        "answers": [
+          "الأسد الأزرق والنجمة البيضاء على الدرع الأصفر",
+          "ثلاثة أسود أسود على درع أصفر",
+          "مفتاح فضي على درع أحمر مع تاج",
+          "نمط الماس الأزرق والأبيض مع التاج"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "bremen_001"
+  },
+  {
+    "id": 1402,
+    "land": "bremen",
+    "number": 1,
+    "question_de": "Welches Wappen gehört zur Freien Hansestadt Bremen?",
+    "answers_de": [
+      "Blauer Löwe und weißer Stern auf gelbem Schild",
+      "Drei schwarze Löwen auf gelbem Schild",
+      "Silberner Schlüssel auf rotem Schild mit Krone",
+      "Blau-weißes Rautenmuster mit Krone"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой герб принадлежит Вольному ганзейскому городу Бремену?",
+        "answers": [
+          "Синий лев и белая звезда на желтом щите",
+          "Три черных льва на желтом щите",
+          "Серебряный ключ на красном щите с короной",
+          "Синий и белый ромбовидный узор с короной"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який герб належить вільному ганзейському місту Бремену?",
+        "answers": [
+          "Синій лев і біла зірка на жовтому щиті",
+          "Три чорні леви на жовтому щиті",
+          "Срібний ключ на червоному щиті з короною",
+          "Синій і білий алмаз візерунок з короною"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which coat of arms belongs to the Free Hanseatic City of Bremen?",
+        "answers": [
+          "Blue lion and white star on yellow shield",
+          "Three black lions on a yellow shield",
+          "Silver key on red shield with crown",
+          "Blue and white diamond pattern with crown"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Hangi arması Özgür Hansa Şehri Bremen'e aittir?",
+        "answers": [
+          "Sarı kalkan üzerinde mavi aslan ve beyaz yıldız",
+          "Sarı bir kalkan üzerinde üç siyah aslan",
+          "Kırmızı kalkan üzerinde taçlı gümüş anahtar",
+          "Mavi ve beyaz elmas desenli taç"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام نشان متعلق به شهر آزاد هانسی برمن است؟",
+        "answers": [
+          "شیر آبی و ستاره سفید روی سپر زرد",
+          "سه شیر سیاه روی یک سپر زرد",
+          "کلید نقره ای روی سپر قرمز با تاج",
+          "الگوی الماس آبی و سفید با تاج"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quels armoiries appartiennent à la ville hanséatique libre de Brême ?",
+        "answers": [
+          "Lion bleu et étoile blanche sur bouclier jaune",
+          "Trois lions noirs sur un bouclier jaune",
+          "Clé en argent sur bouclier rouge avec couronne",
+          "Motif diamant bleu et blanc avec couronne"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أي شعار ينتمي إلى مدينة بريمن الهانزية الحرة؟",
+        "answers": [
+          "الأسد الأزرق والنجمة البيضاء على الدرع الأصفر",
+          "ثلاثة أسود أسود على درع أصفر",
+          "مفتاح فضي على درع أحمر مع تاج",
+          "نمط الماس الأزرق والأبيض مع التاج"
+        ],
+        "explanation": ""
+      }
+    },
+    "imageKey": "bremen_001"
+  },
+  {
+    "id": 1403,
+    "land": "bremen",
+    "number": 2,
+    "question_de": "Welches ist ein Stadtteil von Bremen?",
+    "answers_de": [
+      "Altona",
+      "Hemelingen",
+      "Pankow",
+      "Babelsberg"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какой район Бремена?",
+        "answers": [
+          "Альтона",
+          "Хемелинген",
+          "Панков",
+          "Бабельсберг"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Який район Бремена?",
+        "answers": [
+          "Альтона",
+          "Хемелінген",
+          "Паньков",
+          "Бабельсберг"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which is a district of Bremen?",
+        "answers": [
+          "Altona",
+          "Hemelingen",
+          "Pankow",
+          "Babelsberg"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Bremen'in ilçesi hangisidir?",
+        "answers": [
+          "Altona",
+          "Hemelingen",
+          "Pankow",
+          "Babelsberg"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام ناحیه از برمن است؟",
+        "answers": [
+          "آلتونا",
+          "هملینگن",
+          "پانکو",
+          "بابلزبرگ"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel est un quartier de Brême ?",
+        "answers": [
+          "Altona",
+          "Hémelingen",
+          "Pankow",
+          "Babelsberg"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي منطقة بريمن؟",
+        "answers": [
+          "التونا",
+          "هيميلينجن",
+          "بانكوف",
+          "بابلسبيرج"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1404,
+    "land": "bremen",
+    "number": 3,
+    "question_de": "Für wie viele Jahre wird das Landesparlament in Bremen gewählt?",
+    "answers_de": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "На сколько лет будет избираться парламент земли в Бремене?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "На скільки років обиратимуть парламент землі в Бремені?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "For how many years will the state parliament in Bremen be elected?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Bremen eyalet parlamentosu kaç yıllığına seçilecek?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پارلمان ایالتی برمن برای چند سال انتخاب می شود؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Pour combien d'années le parlement du Land de Brême sera-t-il élu ?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "كم سنة سيتم انتخاب برلمان الولاية في بريمن؟",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1405,
+    "land": "bremen",
+    "number": 4,
+    "question_de": "Ab welchem Alter darf man in Bremen bei den Wahlen zur Bürgerschaft (Landtag) wählen?",
+    "answers_de": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "В каком возрасте разрешено голосовать на выборах гражданства (парламента штата) в Бремене?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "З якого віку вам дозволяється голосувати на виборах до громадянства (земельного парламенту) у Бремені?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "At what age are you allowed to vote in the citizenship (state parliament) elections in Bremen?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Bremen'deki vatandaşlık (eyalet parlamentosu) seçimlerinde hangi yaşta oy kullanabilirsiniz?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از چه سنی مجاز به شرکت در انتخابات شهروندی (پارلمان ایالتی) در برمن هستید؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "À quel âge est-on autorisé à voter aux élections de citoyenneté (parlement du Land) à Brême ?",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "في أي عمر يُسمح لك بالتصويت في انتخابات المواطنة (برلمان الولاية) في بريمن؟",
+        "answers": [
+          "14",
+          "16",
+          "18",
+          "20"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1406,
+    "land": "bremen",
+    "number": 5,
+    "question_de": "Welche Farben hat die Landesflagge von Bremen?",
+    "answers_de": [
+      "blau-weiß-rot",
+      "rot-weiß",
+      "grün-weiß-rot",
+      "schwarz-gold"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какие цвета имеет государственный флаг Бремена?",
+        "answers": [
+          "сине-бело-красный",
+          "красно-белый",
+          "зелено-бело-красный",
+          "черно-золотой"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Які кольори має державний прапор Бремена?",
+        "answers": [
+          "синьо-біло-червоний",
+          "червоно-білий",
+          "зелено-біло-червоний",
+          "чорно-золотий"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What colors does the state flag of Bremen have?",
+        "answers": [
+          "blue-white-red",
+          "red-white",
+          "green-white-red",
+          "black-gold"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Bremen eyalet bayrağında hangi renkler var?",
+        "answers": [
+          "mavi-beyaz-kırmızı",
+          "kırmızı-beyaz",
+          "yeşil-beyaz-kırmızı",
+          "siyah-altın"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "پرچم ایالت برمن چه رنگ هایی دارد؟",
+        "answers": [
+          "آبی-سفید-قرمز",
+          "قرمز-سفید",
+          "سبز-سفید-قرمز",
+          "طلای سیاه"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quelles sont les couleurs du drapeau national de Brême ?",
+        "answers": [
+          "bleu-blanc-rouge",
+          "rouge-blanc",
+          "vert-blanc-rouge",
+          "noir-or"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي ألوان علم ولاية بريمن؟",
+        "answers": [
+          "الأزرق والأبيض والأحمر",
+          "أحمر-أبيض",
+          "الأخضر والأبيض والأحمر",
+          "الذهب الأسود"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1407,
+    "land": "bremen",
+    "number": 6,
+    "question_de": "Wo können Sie sich in Bremen über politische Themen informieren?",
+    "answers_de": [
+      "beim Ordnungsamt der Gemeinde",
+      "bei der Landeszentrale für politische Bildung",
+      "bei den Kirchen",
+      "bei der Verbraucherzentrale"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Где можно узнать о политических проблемах в Бремене?",
+        "answers": [
+          "в городском отделе общественного порядка",
+          "в Государственном центре гражданского образования",
+          "в церквях",
+          "в центре консультирования потребителей"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Де можна дізнатися про політичні питання в Бремені?",
+        "answers": [
+          "в міському відділі громадського порядку",
+          "у Державному центрі громадянської освіти",
+          "при церквах",
+          "в центрі консультації споживачів"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Where can you find out about political issues in Bremen?",
+        "answers": [
+          "at the municipal public order office",
+          "at the State Center for Civic Education",
+          "at the churches",
+          "at the consumer advice center"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Bremen'deki siyasi konular hakkında nereden bilgi edinebilirsiniz?",
+        "answers": [
+          "belediye asayiş ofisinde",
+          "Eyalet Sivil Eğitim Merkezi'nde",
+          "kiliselerde",
+          "tüketici danışma merkezinde"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "از کجا می توانید از مسائل سیاسی در برمن مطلع شوید؟",
+        "answers": [
+          "در اداره نظم عمومی شهرداری",
+          "در مرکز دولتی آموزش مدنی",
+          "در کلیساها",
+          "در مرکز مشاوره مصرف کننده"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Où peut-on s’informer sur les questions politiques à Brême ?",
+        "answers": [
+          "au bureau municipal de l'ordre public",
+          "au Centre d'État pour l'éducation civique",
+          "dans les églises",
+          "au centre de conseil aux consommateurs"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أين يمكنك التعرف على القضايا السياسية في بريمن؟",
+        "answers": [
+          "في مكتب النظام العام بالبلدية",
+          "في مركز الدولة للتربية المدنية",
+          "عند الكنائس",
+          "في مركز استشارات المستهلك"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1408,
+    "land": "bremen",
+    "number": 7,
+    "question_de": "Was ist ein deutscher Stadtstaat?",
+    "answers_de": [
+      "Bremen",
+      "München",
+      "Frankfurt",
+      "Erfurt"
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Что такое немецкий город-государство?",
+        "answers": [
+          "Бремен",
+          "Мюнхен",
+          "Франкфурт",
+          "Эрфурт"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Що таке німецьке місто-держава?",
+        "answers": [
+          "Бремен",
+          "Мюнхен",
+          "Франкфурт",
+          "Ерфурт"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What is a German city state?",
+        "answers": [
+          "Bremen",
+          "Munich",
+          "Frankfurt",
+          "Erfurt"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Alman şehir devleti nedir?",
+        "answers": [
+          "Bremen",
+          "Münih",
+          "Frankfurt'ta",
+          "Erfurt"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "ایالت شهری آلمان چیست؟",
+        "answers": [
+          "برمن",
+          "مونیخ",
+          "فرانکفورت",
+          "ارفورت"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Qu’est-ce qu’une cité-État allemande ?",
+        "answers": [
+          "Brême",
+          "Munich",
+          "Francfort",
+          "Erfurt"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ما هي الدولة المدينة الألمانية؟",
+        "answers": [
+          "بريمن",
+          "ميونيخ",
+          "فرانكفورت",
+          "إرفورت"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1409,
+    "land": "bremen",
+    "number": 9,
+    "question_de": "Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Bremen?",
+    "answers_de": [
+      "Ministerpräsidentin/Ministerpräsident",
+      "Erste Bürgermeisterin/Erster Bürgermeister",
+      "Präsidentin/Präsident des Senates",
+      "Regierende Bürgermeisterin/Regierender Bürgermeister"
+    ],
+    "correct": 1,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Как вы называете главу правительства города-государства Бремен?",
+        "answers": [
+          "Премьер-министр/Премьер-министр",
+          "Первый мэр",
+          "Председатель Сената",
+          "Управляющий мэр"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Як ви називаєте голову уряду міста Бремен?",
+        "answers": [
+          "Прем'єр-міністр/Прем'єр-міністр",
+          "Перший мер",
+          "Голова Сенату",
+          "Правлячий мер"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "What do you call the head of government of the city state of Bremen?",
+        "answers": [
+          "Prime Minister/Prime Minister",
+          "First mayor",
+          "President of the Senate",
+          "Governing Mayor"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Bremen şehir devletinin hükümet başkanına ne denir?",
+        "answers": [
+          "Başbakan / Başbakan",
+          "İlk belediye başkanı",
+          "Senato Başkanı",
+          "Yönetici Belediye Başkanı"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "رئیس دولت شهر برمن را چه می نامید؟",
+        "answers": [
+          "نخست وزیر/نخست وزیر",
+          "شهردار اول",
+          "رئیس مجلس سنا",
+          "شهردار حاکم"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Comment appelle-t-on le chef du gouvernement de la cité-État de Brême ?",
+        "answers": [
+          "Premier ministre/Premier ministre",
+          "Premier maire",
+          "Président du Sénat",
+          "Maire gouverneur"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "ماذا تسمي رئيس حكومة مدينة بريمن؟",
+        "answers": [
+          "رئيس الوزراء / رئيس الوزراء",
+          "العمدة الأول",
+          "رئيس مجلس الشيوخ",
+          "عمدة الحكم"
+        ],
+        "explanation": ""
+      }
+    }
+  },
+  {
+    "id": 1410,
+    "land": "bremen",
+    "number": 10,
+    "question_de": "Welche Senatorin/welchen Senator hat Bremen nicht?",
+    "answers_de": [
+      "Senatorin/Senator für Außenbeziehungen",
+      "Finanzsenatorin/Finanzsenator",
+      "Justizsenatorin/Justizsenator",
+      "Innensenatorin/Innensenator"
+    ],
+    "correct": 0,
+    "explanation_de": "",
+    "category": "",
+    "translations": {
+      "ru": {
+        "question": "Какого сенатора нет в Бремене?",
+        "answers": [
+          "Сенатор по международным отношениям",
+          "Финансовый сенатор",
+          "Сенатор юстиции",
+          "Сенатор внутренних дел"
+        ],
+        "explanation": ""
+      },
+      "uk": {
+        "question": "Якого сенатора немає у Бремена?",
+        "answers": [
+          "Сенатор із зовнішніх відносин",
+          "Сенатор фінансів",
+          "Сенатор юстиції",
+          "Сенатор внутрішніх справ"
+        ],
+        "explanation": ""
+      },
+      "en": {
+        "question": "Which senator does Bremen not have?",
+        "answers": [
+          "Senator for Foreign Relations",
+          "Finance Senator",
+          "Senator for Justice",
+          "Interior Senator"
+        ],
+        "explanation": ""
+      },
+      "tr": {
+        "question": "Bremen'de hangi senatör yok?",
+        "answers": [
+          "Dış İlişkiler Senatörü",
+          "Finans Senatörü",
+          "Adalet Senatörü",
+          "İçişleri Senatörü"
+        ],
+        "explanation": ""
+      },
+      "fa": {
+        "question": "کدام سناتور برمن را ندارد؟",
+        "answers": [
+          "سناتور روابط خارجی",
+          "سناتور امور مالی",
+          "سناتور عدالت",
+          "سناتور کشور"
+        ],
+        "explanation": ""
+      },
+      "fr": {
+        "question": "Quel sénateur Brême n’a pas ?",
+        "answers": [
+          "Sénateur des Relations extérieures",
+          "Sénateur des Finances",
+          "Sénateur de la Justice",
+          "Sénateur de l'Intérieur"
+        ],
+        "explanation": ""
+      },
+      "ar": {
+        "question": "أي عضو في مجلس الشيوخ لا يملكه بريمن؟",
+        "answers": [
+          "السيناتور للعلاقات الخارجية",
+          "السيناتور المالي",
+          "السيناتور من أجل العدالة",
+          "عضو مجلس الشيوخ الداخلي"
+        ],
+        "explanation": ""
+      }
+    }
+  }
+]
